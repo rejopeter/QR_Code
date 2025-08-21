@@ -19,7 +19,7 @@ def main():
     # Create a QRCode object with specified parameters
     qr = qrcode.QRCode(
         version=None,  # automatic size determination
-        error_correction=constants.ERROR_CORRECT_Q,  # error correction level
+        error_correction=constants.ERROR_CORRECT_H,  # error correction level
         box_size=10,  # size of each box in pixels
         border=4,  # border size in boxes
     )
