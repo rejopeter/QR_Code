@@ -1,4 +1,4 @@
-## qr.py Script
+# QR Code Generator
 The `qr.py` script generates a single QR code image based on command-line arguments. It accepts:
 - `name`: The desired output file name (without extension) for the QR code PNG.  
 - `url`: The URL or text to encode in the QR code.  
