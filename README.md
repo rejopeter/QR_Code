@@ -1,10 +1,11 @@
 This project automates the creation of Word documents with embedded QR codes from CSV data and converts them to PDFs efficiently.
+
 # QR Code Generator
 The `qr.py` script generates a single QR code image based on command-line arguments. It accepts:
 - `name`: The desired output file name (without extension) for the QR code PNG.  
 - `url`: The URL or text to encode in the QR code.  
 
-### Usage
+### QR Code Script Usage
 ```bash
 python qr.py <name> <url>
 ```
@@ -14,12 +15,36 @@ Generate a QR code for `https://example.com` and save as `myqr.png`:
 ```bash
 python qr.py myqr https://example.com
 ```
-![Example QR Code](myqr.png)
+![Example QR Code](assets/myqr.png)
+
 
 # QR Code & Document Automation Project
 
 ## Project Overview
-This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the Apache 2.0 License.
+This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the Apache License 2.0.
+
+## License
+This project is licensed under the Apache License 2.0:
+
+```
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+Copyright 2025 Dr J R Rejo Peter, BAMS
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
 ## Workflow Hierarchy
 The project consists of three scripts working together:
@@ -81,7 +106,7 @@ Install dependencies via:
 pip install pandas qrcode[pil] python-docx docxtpl
 ```
 
-## Usage
+## Main Script Usage
 1. Place `template.docx` and `data.csv` in the project root folder.  
 2. Run the main script to generate Word documents:
 ```bash
@@ -93,7 +118,7 @@ python main.py data.csv template.docx
 python DocxToPdf.py
 ```
 
-## Examples
+### Examples
 Generate Word documents from CSV:
 ```bash
 python main.py data.csv template.docx
@@ -103,20 +128,20 @@ Convert generated documents to PDF:
 python DocxToPdf.py
 ```
 
-## Notes
+### Notes
 - The QR code will always have a `.png` extension appended.  
 - Error correction level H is used, allowing recovery of up to 30% data loss.  
 - CSV column names must match Word template placeholders for correct replacement.  
 - Verify document alignment before converting to PDF.  
 - Avoid special characters in the `name` column to prevent filesystem issues.  
 
-## Troubleshooting
+### Troubleshooting
 - **ModuleNotFoundError**: Ensure dependencies are installed: `pip install pandas qrcode[pil] python-docx`.  
 - **Invalid CSV**: Confirm that mandatory columns `name` and `url` exist.  
 - **Permission Denied**: Run scripts with write access to output folders.  
 - **QR codes not appearing**: Ensure `{{qrcode}}` placeholder exists in the Word template.  
 
-## References
+### References
 - [qrcode Python library](https://pypi.org/project/qrcode/)  
 - [python-docx Documentation](https://python-docx.readthedocs.io/)  
 - [QR Code Wikipedia](https://en.wikipedia.org/wiki/QR_code)
