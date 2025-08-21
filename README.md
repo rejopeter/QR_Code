@@ -19,7 +19,7 @@ python qr.py myqr https://example.com
 # QR Code & Document Automation Project
 
 ## Project Overview
-This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the MIT License.
+This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the Apache 2.0 License.
 
 ## Workflow Hierarchy
 The project consists of three scripts working together:
