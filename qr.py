@@ -1,4 +1,8 @@
 import qrcode
+from qrcode import constants
+from qrcode.image.styledpil import StyledPilImage
+from qrcode.image.styles.moduledrawers.pil import RoundedModuleDrawer
+
 import sys
 
 def main():
@@ -15,7 +19,7 @@ def main():
     # Create a QRCode object with specified parameters
     qr = qrcode.QRCode(
         version=None,  # automatic size determination
-        error_correction=qrcode.constants.ERROR_CORRECT_Q,  # error correction level
+        error_correction=constants.ERROR_CORRECT_Q,  # error correction level
         box_size=10,  # size of each box in pixels
         border=4,  # border size in boxes
     )
@@ -25,7 +29,7 @@ def main():
     qr.make(fit=True)
 
     # Create an image from the QR code matrix with specified colors
-    img = qr.make_image(fill_color="black", back_color="white")
+    img = qr.make_image(image_factory=StyledPilImage, module_drawer=RoundedModuleDrawer())
     # Save the generated image to the output file
     img.save(output_file)
 
