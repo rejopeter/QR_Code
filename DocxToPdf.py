@@ -2,7 +2,7 @@ from docx2pdf import convert  # Import the docx2pdf library to convert Word docu
 import os  # Import os module for folder operations
 
 # Input folder containing DOCX files
-input_folder = "docx"
+input_folder = "docs"
 
 # Output folder where converted PDFs will be saved
 output_folder = "final"
@@ -15,4 +15,4 @@ os.makedirs(output_folder, exist_ok=True)
 convert(input_folder, output_folder)
 
 # Print a confirmation message after conversion
-print(f"✅ All Word files converted to PDF in '{output_folder}'")̦̦
+print(f"✅ All Word files converted to PDF in '{output_folder}'")

@@ -70,13 +70,14 @@ template.docx, data.csv
 ## Requirements
 - Python 3.x  
 - `pandas`  
+- `docxtpl`
 - `qrcode[pil]`  
 - `python-docx`  
 - `Pillow` (installed automatically with `qrcode[pil]`)  
 
 Install dependencies via:
 ```bash
-pip install pandas qrcode[pil] python-docx
+pip install pandas qrcode[pil] python-docx docxtpl
 ```
 
 ## Usage
