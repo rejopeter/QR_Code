@@ -1,3 +1,4 @@
+This project automates the creation of Word documents with embedded QR codes from CSV data and converts them to PDFs efficiently.
 # QR Code Generator
 The `qr.py` script generates a single QR code image based on command-line arguments. It accepts:
 - `name`: The desired output file name (without extension) for the QR code PNG.  
@@ -18,7 +19,7 @@ python qr.py myqr https://example.com
 # QR Code & Document Automation Project
 
 ## Project Overview
-This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion.
+This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the MIT License.
 
 ## Workflow Hierarchy
 The project consists of three scripts working together:
