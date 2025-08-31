@@ -1,147 +1,175 @@
-This project automates the creation of Word documents with embedded QR codes from CSV data and converts them to PDFs efficiently.
+# QR Code & Document Automation
 
-# QR Code Generator
-The `qr.py` script generates a single QR code image based on command-line arguments. It accepts:
-- `name`: The desired output file name (without extension) for the QR code PNG.  
-- `url`: The URL or text to encode in the QR code.  
+This project automates the creation of **custom-branded QR codes**, embeds them into Word documents from a CSV dataset, and converts them into **PDFs**. It removes repetitive manual work by handling QR code generation, document population, and PDF conversion in one streamlined workflow.
 
-### QR Code Script Usage
+---
+
+## ✨ Features
+
+- Generate **single or batch QR codes** from command-line or CSV input.
+- Support for **multiple QR styles**:
+  - **Jignasa** → Green QR on cream background with Jignasa logo.
+  - **Vishwanath** → Yellow QR on dark green background with Vishwanath logo.
+- Embed CSV data into a **Word template (`.docx`)** with placeholders.
+- Convert generated Word documents into **high-resolution PDFs**.
+- Fully **command-line driven** for efficient batch processing.
+
+---
+
+## 📂 Folder Structure
+
+```
+QR_Code/
+├── main.py          # Master script for batch generation and style selection
+├── jignasaQR.py     # Jignasa branded QR code generator
+├── vishwanathQR.py  # Vishwanath branded QR code generator
+├── DocxToPdf.py     # Converts Word documents to PDFs
+├── template.docx    # Word template with placeholders
+├── data.csv         # Input CSV dataset
+├── docs/            # Output folder for generated Word files
+├── final/           # Output folder for generated PDF files
+├── assets/          # Images and logos
+│   ├── jignasa.png      # Jignasa logo for QR branding
+│   ├── vishwanath.png   # Vishwanath logo for QR branding
+│   └── ...              # Other images or assets
+```
+
+---
+
+## ⚡ Usage
+
+---
+
+### 1. Generate a Single QR Code (branded style)
+
+**Jignasa style**
 ```bash
-python qr.py <name> <url>
+python jignasaQR.py <name> <url>
 ```
 
-### Example
-Generate a QR code for `https://example.com` and save as `myqr.png`:
+**Vishwanath style**
 ```bash
-python qr.py myqr https://example.com
-```
-![Example QR Code](assets/myqr.png)
- 
-
-# QR Code & Document Automation Project
-
-## Project Overview
-This project allows the generation of a large number of QR codes from a CSV file, embeds additional data into a Word template (`.docx`), and converts the documents to PDFs for various purposes. It simplifies repetitive tasks by automating QR generation, document filling, and PDF conversion. The project is licensed under the Apache License 2.0.
-
-## License
-This project is licensed under the Apache License 2.0:
-
-```
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-Copyright 2025 Dr J R Rejo Peter, BAMS
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+python vishwanathQR.py <name> <url>
 ```
 
-## Workflow Hierarchy
-The project consists of three scripts working together:
-
+**Example:**
+```bash
+python jignasaQR.py myqr https://example.com
 ```
-template.docx, data.csv
-          │
-          ▼
-    main.py script
-          │
-          ▼
-   Generates Word documents (.docx)
-          │
-          ▼
-        docx/ folder
-          │
-          ▼
-    DocxToPdf.py script
-          │
-          ▼
-   Converts all .docx to PDFs
-          │
-          ▼
-        final/ folder
+Produces `myqr.png` in Jignasa branding.
+
+---
+
+### 2. Batch Document Generation from CSV
+
+1. Place `template.docx` and `data.csv` in the project root.
+2. Run `main.py`, specifying the QR style to use:
+
+```bash
+python main.py data.csv template.docx jignasa
+# or
+python main.py data.csv template.docx vishwanath
 ```
 
-## Features
-- Generate multiple QR codes from CSV data.  
-- Embed CSV data into Word templates with placeholders.   
-- Convert Word documents to PDFs efficiently.  
-- Fully command-line driven for batch processing.  
+3. Generated `.docx` files will appear in the `docs/` folder.
 
-## Folder Structure
-- `docs/`: Output Word documents generated from CSV and template.  
-- `final/`: Output PDFs converted from Word documents.  
+---
 
-## CSV Format
-- **Mandatory columns**:  
-  - `name`: Output file name for Word document.  
-  - `url`: Data to encode in QR code.  
-- **Optional columns**: Correspond to placeholders in the Word template (e.g., `botanicalname`, `familyname`).  
-- Each row in the CSV generates a corresponding Word document with placeholders filled and a QR code embedded.  
+### 3. Convert Word Documents to PDF
 
-## Word Template Placeholders
-- The Word template can include placeholders using `{{placeholder_name}}` format.  
-- Example placeholders: `{{botanicalname}}`, `{{familyname}}`, `{{qrcode}}`.  
-- Placeholder names should match the CSV column headers (case-insensitive).  
+```bash
+python DocxToPdf.py
+```
+All `.docx` files in `docs/` will be converted into PDFs in `final/`.
 
-## Requirements
-- Python 3.x  
-- `pandas`  
-- `docxtpl`
-- `qrcode[pil]`  
-- `python-docx`  
-- `Pillow` (installed automatically with `qrcode[pil]`)  
+---
 
-Install dependencies via:
+### 📑 CSV Format
+
+- **Mandatory columns:**
+  - `name` → Output file name for Word document.
+  - `url` → Data encoded in QR code.
+- **Optional columns:** Match placeholders in the Word template.
+
+**Example `data.csv`:**
+```csv
+name,url,botanicalname,familyname
+Tulsi,https://example.com/tulsi,Ocimum sanctum,Lamiaceae
+Neem,https://example.com/neem,Azadirachta indica,Meliaceae
+```
+
+---
+
+### 📝 Word Template Placeholders
+
+Use double curly braces in the Word template to mark placeholders:
+
+```
+Name: {{name}}
+Botanical Name: {{botanicalname}}
+Family: {{familyname}}
+QR Code: {{qrcode}}
+```
+
+---
+
+### 🎨 Example QR Styles
+
+**Jignasa QR**
+
+![Jignasa QR Example](assets/jignasasampleQR.png)
+
+**Vishwanath QR**
+
+![Vishwanath QR Example](assets/vishwanathsampleQR.png)
+
+---
+
+## ⚙️ Requirements
+
+- Python 3.x
+- pandas
+- docxtpl
+- qrcode[pil]
+- python-docx
+- Pillow
+
+**Install dependencies:**
 ```bash
 pip install pandas qrcode[pil] python-docx docxtpl
 ```
 
-## Main Script Usage
-1. Place `template.docx` and `data.csv` in the project root folder.  
-2. Run the main script to generate Word documents:
-```bash
-python main.py data.csv template.docx
-```
-3. Verify alignment and formatting of generated documents in the `docs/` folder.  
-4. Convert all Word documents to PDF using:
-```bash
-python DocxToPdf.py
-```
+---
 
-### Examples
-Generate Word documents from CSV:
-```bash
-python main.py data.csv template.docx
-```
-Convert generated documents to PDF:
-```bash
-python DocxToPdf.py
-```
+## 🛠 Notes
 
-### Notes
-- The QR code will always have a `.png` extension appended.  
-- Error correction level H is used, allowing recovery of up to 30% data loss.  
-- CSV column names must match Word template placeholders for correct replacement.  
-- Verify document alignment before converting to PDF.  
-- Avoid special characters in the `name` column to prevent filesystem issues.  
+- QR codes are generated at 300 dpi resolution.
+- `main.py` requires a style argument: `jignasa` or `vishwanath`.
+- Ensure the template contains `{{qrcode}}` for insertion.
+- Avoid special characters in the `name` column (filenames).
 
-### Troubleshooting
-- **ModuleNotFoundError**: Ensure dependencies are installed: `pip install pandas qrcode[pil] python-docx`.  
-- **Invalid CSV**: Confirm that mandatory columns `name` and `url` exist.  
-- **Permission Denied**: Run scripts with write access to output folders.  
-- **QR codes not appearing**: Ensure `{{qrcode}}` placeholder exists in the Word template.  
+---
 
-### References
-- [qrcode Python library](https://pypi.org/project/qrcode/)  
-- [python-docx Documentation](https://python-docx.readthedocs.io/)  
-- [QR Code Wikipedia](https://en.wikipedia.org/wiki/QR_code)
+## 🐞 Troubleshooting
+
+- `ModuleNotFoundError` → Run: `pip install pandas qrcode[pil] python-docx docxtpl`
+- Style error → Ensure you pass `jignasa` or `vishwanath` as the 3rd argument to `main.py`.
+- Logos missing → Ensure `jignasa.png` or `vishwanath.jpg` are in the project folder.
+- QR not appearing → Verify `{{qrcode}}` exists in `template.docx`.
+- Permission denied → Ensure you have write access to `docs/` and `final/`.
+
+---
+
+## 📚 References
+
+- [qrcode Python library](https://pypi.org/project/qrcode/)
+- [python-docx Documentation](https://python-docx.readthedocs.io/)
+- [QR Code – Wikipedia](https://en.wikipedia.org/wiki/QR_code)
+
+---
+
+## 📜 License
+
+Apache License 2.0 © 2025 Dr. J. R. Rejo Peter, BAMS
+
+---
