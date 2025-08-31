@@ -16,7 +16,7 @@ Generate a QR code for `https://example.com` and save as `myqr.png`:
 python qr.py myqr https://example.com
 ```
 ![Example QR Code](assets/myqr.png)
-
+ 
 
 # QR Code & Document Automation Project
 

@@ -7,83 +7,86 @@ along with other placeholders from the CSV. The filled documents are saved into 
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="docxcompose")
 import pandas as pd
-import qrcode
-from qrcode import constants
-from qrcode.image.styledpil import StyledPilImage
-from qrcode.image.styles.moduledrawers.pil import RoundedModuleDrawer
+from jignasaQR import generate_jignasa_qr
+from vishwanathQR import generate_vishwanath_qr
 from io import BytesIO
 import sys
 import os
 from docxtpl import DocxTemplate, InlineImage
 from docx.shared import Mm
 
-def generate_qr_image(url, doc, width_mm=40):
+
+def generate_qr_image(url, doc, style="jignasa", width_mm=40):
     """
     Generate a QR code for the given URL and return an InlineImage compatible with docxtpl.
     
     Parameters:
     - url (str): The data or URL to encode in the QR code.
     - doc (DocxTemplate): The Word template object, required for InlineImage.
+    - style (str): 'jignasa' or 'vishwanath' (QR style).
     - width_mm (float): Width of the QR code image in millimeters (default 40mm).
     
     Returns:
     - InlineImage: QR code image ready to insert into the template.
     """
-    # Create QRCode object with high error correction
-    qr = qrcode.QRCode(version=None, error_correction=constants.ERROR_CORRECT_H)
-    qr.add_data(url)  # Add URL/data to QR
-    qr.make(fit=True)  # Automatically determine QR code size
-    # Generate QR code image with rounded modules
-    img = qr.make_image(image_factory=StyledPilImage, module_drawer=RoundedModuleDrawer())
+    if style == "jignasa":
+        img = generate_jignasa_qr(url)
+    elif style == "vishwanath":
+        img = generate_vishwanath_qr(url)
+    else:
+        raise ValueError("Invalid QR style. Use 'jignasa' or 'vishwanath'.")
+
     # Save image to in-memory bytes buffer
     byte_io = BytesIO()
-    img.save(byte_io, format='PNG')
+    img.save(byte_io, format="PNG")
     byte_io.seek(0)  # Reset buffer pointer
-    # Return as InlineImage for docxtpl
+
     return InlineImage(doc, byte_io, width=Mm(width_mm))
+
 
 def main():
     # Check command-line arguments
-    # Expecting: python main.py <CSV file> <Word template>
-    if len(sys.argv) < 3:
-        print("Usage: python main.py yourfile.csv template.docx")
+    # Expecting: python main.py <CSV file> <Word template> <style>
+    if len(sys.argv) < 4:
+        print("Usage: python main.py yourfile.csv template.docx <jignasa|vishwanath>")
         sys.exit(1)
 
-    csv_file = sys.argv[1]  # Path to input CSV file
+    csv_file = sys.argv[1]       # Path to input CSV file
     template_file = sys.argv[2]  # Path to Word template
+    style = sys.argv[3].lower()  # QR style
+
+    if style not in ("jignasa", "vishwanath"):
+        print("Error: style must be 'jignasa' or 'vishwanath'")
+        sys.exit(1)
 
     # Ensure output folder exists
-    if not os.path.exists('docs'):
-        os.makedirs('docs')
+    if not os.path.exists("docs"):
+        os.makedirs("docs")
 
     # Read the CSV into a DataFrame
-    # CSV should contain 'name' and 'url' columns, plus other placeholder columns
     df = pd.read_csv(csv_file)
 
     # Process each row in the CSV
-    for index, row in df.iterrows():
-        name = row['name']  # File name for the generated Word document
-        url = row['url']    # URL/data to encode as QR code
+    for _, row in df.iterrows():
+        name = row["name"]  # File name for the generated Word document
+        url = row["url"]    # URL/data to encode as QR code
 
-        # Load Word template for this row
+        # Load Word template
         doc = DocxTemplate(template_file)
 
-        # Generate QR code image for insertion into template
-        qr_image = generate_qr_image(url, doc)
+        # Generate QR code based on chosen style
+        qr_image = generate_qr_image(url, doc, style)
 
-        # Build context dictionary for template placeholders
-        # All CSV columns except 'name' and 'url' are used as template variables
-        context = {k: v for k, v in row.items() if k not in ('name', 'url')}
-        context['qrcode'] = qr_image  # Add QR code to context
+        # Build context dictionary
+        context = {k: v for k, v in row.items() if k not in ("name", "url")}
+        context["qrcode"] = qr_image
 
-        # Fill in template placeholders with context values
+        # Render and save
         doc.render(context)
-
-        # Save the filled document to the output folder
         output_doc = f"docs/{name}.docx"
         doc.save(output_doc)
-        print(f"Saved {output_doc}")  # Confirmation message
+        print(f"Saved {output_doc}")
+
 
 if __name__ == "__main__":
-    # Entry point: run main function
     main()
