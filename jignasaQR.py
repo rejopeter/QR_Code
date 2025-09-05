@@ -60,6 +60,9 @@ def generate_jignasa_qr(url, logo_path="assets/jignasa.png", scale_factor=4):
     pos = ((high_res.size[0] - logo.size[0]) // 2,
            (high_res.size[1] - logo.size[1]) // 2)
     high_res.paste(logo, pos, mask=logo)
+    
+    final_size = 300  # pixels for 1 inch at 300 dpi
+    high_res = high_res.resize((final_size, final_size), Image.Resampling.LANCZOS)
 
     return high_res
 
