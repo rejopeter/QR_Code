@@ -60,9 +60,10 @@ def generate_vishwanath_qr(url, logo_path="assets/vishwanath.jpg", scale_factor=
     pos = ((high_res.size[0] - logo.size[0]) // 2,
            (high_res.size[1] - logo.size[1]) // 2)
     high_res.paste(logo, pos, mask=logo)
-    
-    final_size = 300  # pixels for 1 inch at 300 dpi
-    high_res = high_res.resize((final_size, final_size), Image.Resampling.LANCZOS)
+
+    # Resize final output to 2 cm x 2 cm at 300 DPI
+    final_size_px = int(2 / 2.54 * 300)  # 2 cm → inches → pixels
+    high_res = high_res.resize((final_size_px, final_size_px), Image.Resampling.LANCZOS)
 
     return high_res
 
@@ -73,12 +74,14 @@ def main():
         print("Usage: python vishwanathQR.py <output_file_name> <URL>")
         sys.exit(1)
 
-    output_file = sys.argv[1] + ".png"
+    output_file = sys.argv[1] + ".jpg"
     url = sys.argv[2]
 
     img = generate_vishwanath_qr(url)
-    img.save(output_file, dpi=(300, 300))
-    print(f"High-resolution QR code saved to {output_file}")
+
+    # Save explicitly with DPI
+    img.save(output_file, format="JPEG", dpi=(300, 300), quality=95, optimize=True)
+    print(f"High-resolution QR code saved to {output_file} at 300 DPI")
 
 
 if __name__ == "__main__":
