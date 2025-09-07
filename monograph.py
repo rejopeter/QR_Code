@@ -56,7 +56,12 @@ def fetch_drive_image(url):
     direct_url = f"https://drive.google.com/uc?export=download&id={file_id}"
     response = requests.get(direct_url)
     if response.status_code == 200:
-        return BytesIO(response.content)
+        content_type = response.headers.get("Content-Type", "")
+        if "image" in content_type:
+            return BytesIO(response.content)
+        else:
+            print(f"⚠️ Not an image: {url} (got {content_type})")
+            return None
     return None
 
 
@@ -111,7 +116,7 @@ def fill_template(template_path, csv_path, output_folder="monographs"):
     # Process each row of the CSV
     for _, row in df.iterrows():
         doc = Document(template_path)
-        replace_placeholders_in_table(doc, row.to_dict())
+        replace_placeholders(doc, row.to_dict())
 
         # Generate safe file name
         raw_filename = str(row["filename"]).strip()
@@ -122,6 +127,29 @@ def fill_template(template_path, csv_path, output_folder="monographs"):
         doc.save(output_file)
         print(f"✅ Saved: {output_file}")
 
+def replace_placeholders_in_paragraphs(doc, row_data):
+    """
+    Replace placeholders in normal paragraphs (outside of tables).
+    """
+    for para in doc.paragraphs:
+        for col, value in row_data.items():
+            placeholder = f"{{{col}}}"
+            if placeholder in para.text:
+                if col.lower() == "image":
+                    # Insert image inline instead of text
+                    img_data = fetch_drive_image(str(value).strip())
+                    para.clear()  # Clear existing text
+                    if img_data:
+                        run = para.add_run()
+                        run.add_picture(img_data, width=Inches(1.5))
+                    else:
+                        para.add_run("[Image fetch failed]")
+                else:
+                    para.text = para.text.replace(placeholder, str(value))
+
+def replace_placeholders(doc, row_data):
+    replace_placeholders_in_paragraphs(doc, row_data)
+    replace_placeholders_in_table(doc, row_data)
 
 if __name__ == "__main__":
     # Expecting: python script.py template.docx data.csv
