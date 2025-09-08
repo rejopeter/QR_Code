@@ -16,7 +16,7 @@ from docxtpl import DocxTemplate, InlineImage
 from docx.shared import Mm
 
 
-def generate_qr_image(url, doc, style="jignasa", width_mm=40):
+def generate_qr_image(url, doc, style="jignasa", width_mm=20):
     """
     Generate a QR code for the given URL and return an InlineImage compatible with docxtpl.
     
@@ -24,7 +24,7 @@ def generate_qr_image(url, doc, style="jignasa", width_mm=40):
     - url (str): The data or URL to encode in the QR code.
     - doc (DocxTemplate): The Word template object, required for InlineImage.
     - style (str): 'jignasa' or 'vishwanath' (QR style).
-    - width_mm (float): Width of the QR code image in millimeters (default 40mm).
+    - width_mm (float): Width of the QR code image in millimeters (default 20mm).
     
     Returns:
     - InlineImage: QR code image ready to insert into the template.
@@ -36,13 +36,13 @@ def generate_qr_image(url, doc, style="jignasa", width_mm=40):
     else:
         raise ValueError("Invalid QR style. Use 'jignasa' or 'vishwanath'.")
 
-    # Save image to in-memory bytes buffer
+    # Create a fresh buffer each time
     byte_io = BytesIO()
     img.save(byte_io, format="PNG")
-    byte_io.seek(0)  # Reset buffer pointer
+    byte_io.seek(0)
 
-    return InlineImage(doc, byte_io, width=Mm(width_mm))
-
+    # IMPORTANT: wrap a *new* InlineImage object per call
+    return InlineImage(doc, BytesIO(byte_io.read()), width=Mm(width_mm))
 
 def main():
     # Check command-line arguments
