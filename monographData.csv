@@ -1,5 +1,5 @@
-filename,sanskritname,image,botanicalname,familyname,tamilname,malayalamname,hindiname,englishname,description,usefulpart,benefit,action,rasa,guna,virya,vipaka,karma
-Palasa,Palasa,https://drive.google.com/open?id=1uqHKScMzbSZuCtzboCfe4On6z5s7boKo,Butea Monosperma,Fabaceae,Palasu,Chamatha,"Dhak, Tesu",Flame of the forest,It is the most important plan for the yagnya according to Vedic literature it's gum is also described in vedic text .,"Stem bark ,flowers,seeds","1. Krimighna
+filename,sanskritname,image,botanicalname,familyname,tamilname,malayalamname,hindiname,englishname,description,usefulpart,benefit,action,rasa,guna,virya,vipaka,karma,shortdesc
+Palasa,Palasa,Palasha.jpg,Butea Monosperma,Fabaceae,பலாச,Chamatha,"Dhak, Tesu",Flame of the forest,It is the most important plan for the yagnya according to Vedic literature it's gum is also described in vedic text .,"Stem bark ,flowers,seeds","1. Krimighna
 2.Dipana
 3.Bhagna sandhanakara
 4.Sangrahi
@@ -7,14 +7,14 @@ Palasa,Palasa,https://drive.google.com/open?id=1uqHKScMzbSZuCtzboCfe4On6z5s7boKo
 6.Vrishya ","1. Antihelmintic
 2.Laxative
 3.Diuretic
-4.Aphrodisiac","Katu,Tikta,Kashaya","Laghu,Snigdha",Usna,Katu,Vata kapha hara
-Aragwadha,Aragwadha,https://drive.google.com/open?id=1a4vdWDRKAY9NU_JrwV4gVbxeynv1S1MD,Cassia fistula ,Fabaceae,Kondren,Kanikonna,Amaltas,Purging Cassia,Caraka emphasized it's utility in Kushta and described a chapter in its name Aragwadhadyam Adhyaya.,"Fruit pulp , flower ","1.Sramsana
+4.Aphrodisiac","Katu,Tikta,Kashaya","Laghu,Snigdha",Usna,Katu,Vata kapha hara,"It is useful in treating diabetes, cancer, diarrhoea,dysentery, jaundice "
+Aragwadha,Aragwadha,Aragwadha.webp,Cassia fistula ,Fabaceae,கொன்றை மரம் ,Kanikonna,Amaltas,Purging Cassia,Caraka emphasized it's utility in Kushta and described a chapter in its name Aragwadhadyam Adhyaya.,"Fruit pulp , flower ","1.Sramsana
 2.Shulahara
 3.Ruchya
 4.Pramehahara
 5.Virechaka","1. Purgative
-2. Febrifuge","Madhura,Tikta","Mrudu,Guru,Snigdha",Sita,Madhura,Vata pitta shamaka
-Amra,Amra,https://drive.google.com/open?id=120_XSs80gwFhrZ2XrUaQG02ZJm_vb6mH,Mangifera indica Linn,Anacardiaceae,மாமரம் , Amaram,Aam,Mango tree,"1. Habit:
+2. Febrifuge","Madhura,Tikta","Mrudu,Guru,Snigdha",Sita,Madhura,Vata pitta shamaka,"the herb has cleansing ,detoxifying, mild laxative properties "
+Amra,Amra,Amra.jpg,Mangifera indica Linn,Anacardiaceae,மாமரம் , Amaram,Aam,Mango tree,"1. Habit:
 
 Large, evergreen tree, up to 30–40 m tall.
 
@@ -189,37 +189,37 @@ Mangiferin (xanthone glycoside, major bioactive)
 
 Polyphenols (quercetin, kaempferol, catechins, gallic acid)
 
-Triterpenoids, carotenoids, vitamins",1.Pakwa phala- Madhura 2.Apakwa phala -amla 3.twak -kashaya,"1.Apakwa and twak- laghu, ruksa 2.Pakwa phala-Guru, snigdha ",Sita ,1.pakwa phala-Madhura vipaka 2.apakwa phala-amla vipaka 3.Twak- katu vipaka,1.pakwa phala- vatapitta shamaka 2.apakwa phala-tridosakaraka 3.twak-kapha pitta shamaka
-Sahadevi,Sahadevi,https://drive.google.com/open?id=1YSxGjSC17FrwzieBaZNGS0ckOPRT_p_p,Vernonia cinerea,Conpostiaceae,Naichotte poonde,Puvanakodental,Sahadebi,Little ironweed,Sahadevi is a small plant found all over India in temperate climate.,Root,"1. Nidrakara
+Triterpenoids, carotenoids, vitamins",1.Pakwa phala- Madhura 2.Apakwa phala -amla 3.twak -kashaya,"1.Apakwa and twak- laghu, ruksa 2.Pakwa phala-Guru, snigdha ",Sita ,1.pakwa phala-Madhura vipaka 2.apakwa phala-amla vipaka 3.Twak- katu vipaka,1.pakwa phala- vatapitta shamaka 2.apakwa phala-tridosakaraka 3.twak-kapha pitta shamaka, To treat high blood pressure and chest pain (angina) by relaxing blood vessels and slowing the heart rate
+Sahadevi,Sahadevi,Sahadevi.jpg,Vernonia cinerea,Conpostiaceae,Naichotte poonde,Puvanakodental,Sahadebi,Little ironweed,Sahadevi is a small plant found all over India in temperate climate.,Root,"1. Nidrakara
 2. Grahi","1.Anti inflammatory 
 2. Anti oxidant 
 3. Diuretic 
-4. Anti pyretic",Tikta,"Laghu, Ruksha",Ushna,Katu,Kapha vata shamaka
-SwethaChandana,Swetha Chandana,https://drive.google.com/open?id=13tT1LHWBtvMZeMULobGHkPg1Hujxuz-n,Santalum album ,Santalaceae ,Santhanam,Chandanam,Chandan,Sandalwood,"Chandana"" primarily refers to Indian sandalwood (Santalum album), a valuable aromatic wood used in Ayurvedic medicine for its beautifying and therapeutic properties.",Heartwood,"1.Vishaghna
+4. Anti pyretic",Tikta,"Laghu, Ruksha",Ushna,Katu,Kapha vata shamaka,"to treat urinary problems,skin problems,skin issues,and diarrhoea .This plant is used for soil erosion control,attracting beneficial insects and a blood purifying properties "
+SwethaChandana,Swetha Chandana,Chandana.jpg,Santalum album ,Santalaceae ,சந்தனம் ,Chandanam,Chandan,Sandalwood,"Chandana"" primarily refers to Indian sandalwood (Santalum album), a valuable aromatic wood used in Ayurvedic medicine for its beautifying and therapeutic properties.",Heartwood,"1.Vishaghna
 2.Vrushya
 3.krimighna
 4. Dahahara
 4. Rakta prasadana","1. Anti ulcer
 2. Anti inflammatory
 3. Anti bacterial 
-4. Anti oxidant ","Tikta , Madhura","Laghu, Ruksha",Shita,Katu,"Kapha , pitta hara"
-RaktaChandana,Rakta Chandana,https://drive.google.com/open?id=1c9KvbgDOVKDaE2sJDVRxVPydcpKqS7XB,Pterocarpus santalinus ,Fabaceae ,Sikapu Chandanam ,Chowpu Chandanam,Lal chandan,Red sandalwood,"Rakta Chandana, or Red Sandalwood, is a tree native to the Eastern Ghats of India, prized for its rich red, non-aromatic heartwood, which is used medicinally in Ayurveda and in modern skincare for its healing and anti-inflammatory properties. ",Heartwood,"1. Varnya 
+4. Anti oxidant ","Tikta , Madhura","Laghu, Ruksha",Shita,Katu,"Kapha , pitta hara","For its fragrant wood in perfumes, incense, and religious ceremonies, and in traditional medicines for its antiseptic, anti-inflammatory, and sedative properties. The essential oil has applications in cosmetics, aromatherapy, and treating skin conditions, like psoriasis and atopic dermatitis "
+RaktaChandana,Rakta Chandana,RaktaChandana.jpg,Pterocarpus santalinus ,Fabaceae ,சிவப்பு சந்தனம் ,Chowpu Chandanam,Lal chandan,Red sandalwood,"Rakta Chandana, or Red Sandalwood, is a tree native to the Eastern Ghats of India, prized for its rich red, non-aromatic heartwood, which is used medicinally in Ayurveda and in modern skincare for its healing and anti-inflammatory properties. ",Heartwood,"1. Varnya 
 2. Chakshushya 
 3. Vrushya","1. Anti viral
 2. Anti oxidant 
 3. Anti bacterial 
-4. Anti inflammatory ","Tikta, Madhura","Laghu, Ruksha",Shita,Katu,"Kapha , pitta hara"
-Japa,Japa,https://drive.google.com/open?id=1sczEiph6tSzH0Dr8XZQLKUpTTnTIt9EI,Hibiscus rosa-sinensis,Malvaceae,Chembaruthi ,Chenbaruthi,Gudhal,China rose,"Japa is the meditative repetition of a sacred sound or divine name, or a mantra, a practice found in various spiritual traditions including Hinduism, Buddhism, and Sikhism. ","Leaf, Flower","1.Keshya
+4. Anti inflammatory ","Tikta, Madhura","Laghu, Ruksha",Shita,Katu,"Kapha , pitta hara","Treating acne and blemishes, reducing skin tan and dullness, managing digestive issues like dysentery, offering anti-inflammatory and anti-oxidant effects, and serving as a spiritual aid in meditation."
+Japa,Japa,Japa.jpg,Hibiscus rosa-sinensis,Malvaceae,செம்பருத்தி ,Chenbaruthi,Gudhal,China rose,"Japa is the meditative repetition of a sacred sound or divine name, or a mantra, a practice found in various spiritual traditions including Hinduism, Buddhism, and Sikhism. ","Leaf, Flower","1.Keshya
 2.sangrahi
 3.sthambaka","1.Anti fertility 
 2. Analgesic
-3. Hypotensive","Kashaya,Tikta","Laghu, Ruksha",Sheeta,Katu,"Kapha , pitta shamaka "
-Bilva,Bilva,https://drive.google.com/open?id=1BZ-U289fRqF-r5CLpo-Td7z4_Nl00r5w,Aegle marmelos,Rutaceae,Vilvam,Koovalam,Bel,Golden apple,"Bilva, botanically known as Aegle marmelos and commonly called Bael or Golden Apple, is a sacred and medicinal tree from India, belonging to the Rutaceae family. It holds significant spiritual importance, especially in Hinduism, where its trifoliate leaves, called ""Tri-patra,"" are offered to Lord Shiva during prayers. In traditional Ayurveda, the tree's bark, leaves, roots, and fruit are used to treat various ailments, possessing anti-toxic, digestive, and anti-microbial properties, and recent research highlights its potential anti-cancer and liver-protective effects due to compounds like coumarins and scoparone.",Root,"1. Sangrahi
+3. Hypotensive","Kashaya,Tikta","Laghu, Ruksha",Sheeta,Katu,"Kapha , pitta shamaka ","Primarily used  for hair care, skin health, and treating conditions like digestive issues, inflammation, and urinary disorders. Its flowers and leaves promote hair growth, nourish the scalp, and can be used as natural hair dyes. The plant also has potential benefits for skin, including anti-aging effects, and is used internally for various ailments"
+Bilva,Bilva,Bilvam.jpg,Aegle marmelos,Rutaceae,வில்வம் ,Koovalam,Bel,Golden apple,"Bilva, botanically known as Aegle marmelos and commonly called Bael or Golden Apple, is a sacred and medicinal tree from India, belonging to the Rutaceae family. It holds significant spiritual importance, especially in Hinduism, where its trifoliate leaves, called ""Tri-patra,"" are offered to Lord Shiva during prayers. In traditional Ayurveda, the tree's bark, leaves, roots, and fruit are used to treat various ailments, possessing anti-toxic, digestive, and anti-microbial properties, and recent research highlights its potential anti-cancer and liver-protective effects due to compounds like coumarins and scoparone.",Root,"1. Sangrahi
 2. Deepana
 3. Chardighna","1. Anti inflammatory 
 2. Anti pyretic
-3. Laxative ","Katu, tikta, kashaya ",Snigdha,Ushna,Katu,"Kapha,vata hara"
-Saireyaka,Saireyaka,https://drive.google.com/open?id=13PkPmSsxzFnh7e1kDtLRPLqNU1OVsfED,Barleria prionitis Linn. ,Acanthaceae,Shemmuli,Chemmulli,Katsareya,"Yellow nail-dye plant, Hop headed barleria","Saireyaka is a small shrub growing to a height of 1-1.5 m in height and is found in the temperate climate throughout India and is grown in the garden for its flowers. The plant has small, sharp spikes. The flowers are yellow and are found in clusters. Single seed is found in the small fruits.
+3. Laxative ","Katu, tikta, kashaya ",Snigdha,Ushna,Katu,"Kapha,vata hara"," To treat diarrhea, gastric ulcers, fever, and respiratory disorders"
+Saireyaka,Saireyaka,Barleria_prionitis.jpg,Barleria prionitis Linn. ,Acanthaceae,செம்மூலி ,Chemmulli,Katsareya,"Yellow nail-dye plant, Hop headed barleria","Saireyaka is a small shrub growing to a height of 1-1.5 m in height and is found in the temperate climate throughout India and is grown in the garden for its flowers. The plant has small, sharp spikes. The flowers are yellow and are found in clusters. Single seed is found in the small fruits.
 The color of the flower may be white, yellow, red or blue depending upon the subspecies of the plant.",Whole plant especially leaf,"Indications
 Uses as per Ayurveda:
 Kesharanjana – used in colouring hair
@@ -235,15 +235,15 @@ Visha – Toxic conditions, poisoning","Nervous System – Strengthen the nervou
 
 Circulatory System – Indicated in vatarakta, Upadamsa, whole body edema etc.
 Respiratory system – Indicated in running nose, kaphaja kasa, especially for children.
-Reproductive system – Sukrasodhaka (Purifies semen) – Leaf juice of white variety of plant along with cumin seed powder is indicated in Sukrameha.","Tikta (Bitter), Madhura (Sweet)",Laghu (Light for digestion),Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphavata shamaka (reduces vitiated kapha and vata dosha)
-Kewda,Kewda,https://drive.google.com/open?id=10H20jjSA3KyjM9AkcevbVOtz_Faz2ExP,Pandanus odorifer,Pandanaceae,Javnana chedi,.,"Kevada, Kewda, Kewra, Kevra","Screw pine, Palau Fruit, Screw Pine, Pandanus Tectorius or Pandanus Odoratissimus. The Native Fruit in Palau.","It is a small branched, palm – like tree growing to a height of 3 – 4 m, with a flexuous trunk supported by brace roots. The trunk of the tree is twisted, having a shoot-like appearance touching the ground. The leaves grow in clusters at the branch tips, 40 – 70 cm in length with rosettes of sword – shaped, stiff (leather – like) and spiny bluish – green, fragrant leaves. The tree bears very fragrant white colored flowers in clusters, used as perfume. The fruits are oval to round in shape 4 – 6 inches in diameter. The tree is found all over India in the temperate climate.","Root, Flower","Katu –pungent, spicy
+Reproductive system – Sukrasodhaka (Purifies semen) – Leaf juice of white variety of plant along with cumin seed powder is indicated in Sukrameha.","Tikta (Bitter), Madhura (Sweet)",Laghu (Light for digestion),Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphavata shamaka (reduces vitiated kapha and vata dosha),"used in Ayurveda for oral care, dental issues like toothache and bleeding gums, as well as for treating fevers, inflammations, boils, glandular swellings, and digestive disorders"
+Kewda,Kewda,Pandanus-odoratissimus-Linn-Kewda.jpg,Pandanus odorifer,Pandanaceae,Javnana chedi,"Kaithal,Pokaitha","Kevada, Kewda, Kewra, Kevra","Screw pine, Palau Fruit, Screw Pine, Pandanus Tectorius or Pandanus Odoratissimus. The Native Fruit in Palau.","It is a small branched, palm – like tree growing to a height of 3 – 4 m, with a flexuous trunk supported by brace roots. The trunk of the tree is twisted, having a shoot-like appearance touching the ground. The leaves grow in clusters at the branch tips, 40 – 70 cm in length with rosettes of sword – shaped, stiff (leather – like) and spiny bluish – green, fragrant leaves. The tree bears very fragrant white colored flowers in clusters, used as perfume. The fruits are oval to round in shape 4 – 6 inches in diameter. The tree is found all over India in the temperate climate.","Root, Flower","Katu –pungent, spicy
 Tikta – bitter
 Laghu – light to digest
 Ushna – hot
 Balances Kapha and vata Dosha
 Golden yellow coloured flowers are considered to be of superior quality.
-Meals is served in its leaf to treat Granthi – tumour, fibroid",Anti- inflammatory action,"Tikta (Bitter) Madhura (Sweet), Katu ( Pungent)","Laghu (Light for digestion), Snigdha (Slimy in nature)",Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphapitta shamaka (reduces vitiated kapha and pitta dosha)
-Sahadevi,Sahadevi,https://drive.google.com/open?id=12WpOhQXu40LIc4GJE5cFqp9IVzIZoZRv,Vernonia cineria Less. ,Compositae,Naichotte poonde,Puvanakodantel,"Sahadevi, Sahdebi, Sahadebi","Purple fleabane, Little ironweed","Sahadevi is a small shrub found all over India in the temperate climate, growing to a height of 0.5 feet to 3 feet. The leaves have a hairy surface beneath and the flowers are purple or pink colored blooming in the rainy season.",Root,"Nidrakara – induces sleep
+Meals is served in its leaf to treat Granthi – tumour, fibroid",Anti- inflammatory action,"Tikta (Bitter) Madhura (Sweet), Katu ( Pungent)","Laghu (Light for digestion), Snigdha (Slimy in nature)",Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphapitta shamaka (reduces vitiated kapha and pitta dosha),"Traditional Ayurvedic medicine utilizes various parts of the plant to treat diverse ailments like diabetes, headaches, joint pain, and skin conditions."
+Sahadevi,Sahadevi,"51BFR3cf3TL._UF1000,1000_QL80.jpg",Vernonia cineria Less. ,Compositae,Naichotte poonde,Puvanakodantel,"Sahadevi, Sahdebi, Sahadebi","Purple fleabane, Little ironweed","Sahadevi is a small shrub found all over India in the temperate climate, growing to a height of 0.5 feet to 3 feet. The leaves have a hairy surface beneath and the flowers are purple or pink colored blooming in the rainy season.",Root,"Nidrakara – induces sleep
 Grahi – absorbent, useful in diarrhea, IBS
 Sameerajit – Vatahara – useful in treating disorders of Vata Dosha imbalance  such as neuralgia, paralysis, constipation, bloating, etc
 
@@ -254,9 +254,9 @@ Kshata – injury, bleeding
 Vishamajwara – Intermittent fever
 Sidhma Kushta – skin disease
 Usage of Sahadevi in fever:","Cyto protective effect, Anti oxidant effect, 
-Anti diarrheal effect.",Tikta (Bitter),"Laghu (Light for digestion), Ruksha (Dry in nature)",Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphavata shamaka (reduces vitiated kapha and vata dosha)
-SugamCheddi,"Sugam Cheddi, Sangilai, Sung Elley , Changan-chedi",https://drive.google.com/open?id=15RiiqWgU20jo7ky47nsxmToxDxtLIL0x,Azima tetracantha,SALVADORACEAE,"Ichanku, Iyanku,  Kundali , Trikantajata.","Essanku, Yeshenku, or Sankukuppi.",Kanta-gur-kamai or Kantagur-kamai.,"Needle Bush, Mistletoe Berrythorn, Azima, Needle Bush, Bee-sting Bush, Sting Bush","	A dense low-bush. Leaves on main stems 2.5-6.5 cm long, on flowering twigs smaller; petiole short, with two sharp divariate spines. Flowers sessile; male flowers crowded in fascicles; female flowers solitary. Fruit a drupe, 2.5 mm diameter, globose, white.","leaves, roots, and root bark","diuretic, analgesic, anti-inflammatory, and antispasmodic agent, with treatments for rheumatism, dropsy, cough, and asthma","antimicrobial, antioxidant, anti-inflammatory, and antivenom activities, with potential applications in treating pain, inflammation, diabetes, and even venom toxicity","Tikta (Bitter), Madhura (Sweet)",Laghu (Light),Ushna (Hot),Madhura (Sweet),"Kapha, Vata balance"
-Arjuna,Arjuna,https://drive.google.com/open?id=12dAuWRt_hZhAzDaQdYdJIdV60jTAPSdY,Terminalia arjuna ,Combretaceae ,மருது ,Marutu,Arjan,White Murdah ,"A tall, evergreen tree with smooth, grey bark that flakes off in large sheets. Leaves are green, oblong, with pale undersides. Flowers are small, white-yellowish, and fruits are woody, 5-winged.",Twak,"Strengthens the heart muscles and improves cardiac function.
+Anti diarrheal effect.",Tikta (Bitter),"Laghu (Light for digestion), Ruksha (Dry in nature)",Ushna (Hot),Katu (Undergoes Pungent taste after digestion),Kaphavata shamaka (reduces vitiated kapha and vata dosha),
+SugamCheddi,Sugam Cheddi,Azima_tetracantha.jpg,Azima tetracantha,SALVADORACEAE,"Ichanku, Iyanku,  Kundali , Trikantajata.","Essanku, Yeshenku, or Sankukuppi.",Kanta-gur-kamai or Kantagur-kamai.,"Needle Bush, Mistletoe Berrythorn, Azima, Needle Bush, Bee-sting Bush, Sting Bush","	A dense low-bush. Leaves on main stems 2.5-6.5 cm long, on flowering twigs smaller; petiole short, with two sharp divariate spines. Flowers sessile; male flowers crowded in fascicles; female flowers solitary. Fruit a drupe, 2.5 mm diameter, globose, white.","leaves, roots, and root bark","diuretic, analgesic, anti-inflammatory, and antispasmodic agent, with treatments for rheumatism, dropsy, cough, and asthma","antimicrobial, antioxidant, anti-inflammatory, and antivenom activities, with potential applications in treating pain, inflammation, diabetes, and even venom toxicity","Tikta (Bitter), Madhura (Sweet)",Laghu (Light),Ushna (Hot),Madhura (Sweet),"Kapha, Vata balance"," used for treatment of asthma, rheumatism, diabetes, and snakebite."
+Arjuna,Arjuna,Arjuna.jpg,Terminalia arjuna ,Combretaceae ,மருது ,Marutu,Arjan,White Murdah ,"A tall, evergreen tree with smooth, grey bark that flakes off in large sheets. Leaves are green, oblong, with pale undersides. Flowers are small, white-yellowish, and fruits are woody, 5-winged.",Twak,"Strengthens the heart muscles and improves cardiac function.
 
 Helps in angina, hypertension, and high cholesterol.
 
@@ -266,9 +266,9 @@ Promotes wound healing and bone fracture recovery.
 
 Reduces inflammation and supports liver health.
 
-Useful in urinary disorders and as a mild diuretic.","Cardiotonic, Antidysentric, diuretic, Antihypertensive ",Kashaya ,"Laghu,ruksha",Shitha,Katu,Kapha pitta shamaka
-Jambu,Jambu,https://drive.google.com/open?id=1WvRl6qhVKL2cvh3jEc8opcOsjL7OWQxc,Eugenia jambolana,Myrtaceae,நாவல்,Naval,Jaman,Black plum,"Medium to large evergreen tree with glossy leaves, white fragrant flowers, and purple-black edible fruits","Beeja,phala,twak,patra","Controls diabetes, improves digestion, acts as blood purifier, beneficial in diarrhea, dysentery, excessive thirst, and skin disorders.","Anti diarrhoeal,antidiabetic,anti inflammatory,anti viral,anti pyretic",Kashaya madhura amla,"Laghu,ruksha",Shita,Katu,Kapha pitta shamaka 
-Jambira,Jambira,https://drive.google.com/open?id=11RjGL4YzSQMA2t2zmf5D-7Mte-meBZH5,Citrus limon,Rutaceae,எலுமிச்சை ,Cherunaranga,Nimbu,Lemon,"Small thorny tree with fragrant white flowers and yellow, sour fruits.","Fruit, juice, rind, seeds","Improves digestion and relieves nausea.
+Useful in urinary disorders and as a mild diuretic.","Cardiotonic, Antidysentric, diuretic, Antihypertensive ",Kashaya ,"Laghu,ruksha",Shitha,Katu,Kapha pitta shamaka," It has most often been studied for cardiovascular disease, where it has improved heart failure in some studies. "
+Jambu,Jambu,jambu.jpg,Eugenia jambolana,Myrtaceae,நாவல்,Naval,Jaman,Black plum,"Medium to large evergreen tree with glossy leaves, white fragrant flowers, and purple-black edible fruits","Beeja,phala,twak,patra","Controls diabetes, improves digestion, acts as blood purifier, beneficial in diarrhea, dysentery, excessive thirst, and skin disorders.","Anti diarrhoeal,antidiabetic,anti inflammatory,anti viral,anti pyretic",Kashaya madhura amla,"Laghu,ruksha",Shita,Katu,Kapha pitta shamaka ," Is used in traditional medicine to treat various ailments, with its seeds and other parts being popular for their antidiabetic effects. "
+Jambira,Jambira,jambira.jpg,Citrus limon,Rutaceae,எலுமிச்சை ,Cherunaranga,Nimbu,Lemon,"Small thorny tree with fragrant white flowers and yellow, sour fruits.","Fruit, juice, rind, seeds","Improves digestion and relieves nausea.
 
 Acts as Deepana (appetizer) and Pachana (digestive).
 
@@ -276,8 +276,8 @@ Useful in Kapha disorders, cough, and throat irritation.
 
 Natural source of Vitamin C – boosts immunity.
 
-Helps in detoxification and reducing skin blemishes.","Deepana ,pachana,ruchikara,kasahara ","Amla,madhura","Laghu,snigdha",Ushna,Amla,Kapha vatahara
-Rasna,Rasna,https://drive.google.com/open?id=1I5Z_Ig1XWK3nK1CPa79gBlBVejJOfuED,Pluchea lanceolata ,Zingiberaceae,"Arathai, Sitrarathai",Aratta,Rasan,Lesser galanga,"Habitat
+Helps in detoxification and reducing skin blemishes.","Deepana ,pachana,ruchikara,kasahara ","Amla,madhura","Laghu,snigdha",Ushna,Amla,Kapha vatahara,"culinary applications as a flavoring, garnish, and preservative; cosmetic uses for skin, hair, and teeth; and medicinal uses to treat scurvy (due to vitamin C), aid digestion, prevent kidney stones (via citric acid), and potentially help with weight loss."
+Rasna,Rasna,images(2)AadhavRam.jpeg,Pluchea lanceolata ,Zingiberaceae,"Arathai, Sitrarathai",Aratta,Rasan,Lesser galanga,"Habitat
 
 Alpinia calcarata (South Indian Variety) grows very commonly in Karnataka, Kerala and Andhrapradesh.
 
@@ -364,8 +364,8 @@ In case of Vatarakta (Gout) the decoction prepared from Rasna (Pluchea lanceolat
 
 Decoction prepared from Rasna (Alpinia calcarata). Guduchi (Tinospora cordifolia), Eranda (Ricinus communis), Devadaru (Cedrus deodara) and Mahoushadha (Zingiber officinale) is very effective in case of Amavata affecting joints, bones and bone marrow.
  
-","Aromatic, Stimulant, Carminative, Antibacterial",Tikta,Guru,Ushna,Katu,"Vatakapha Shamaka, Vatahara because of Ushna virya and Kaphahara due to Ushna virya, Katu vipaka and Tikta rasa."
-Jatiphala,Jatiphala,https://drive.google.com/open?id=1jIpyqFo1Bnc0YB84nVUF3JS4jbFkO5fb,Myristica fragrans Houtt,Myristicaceae,Jathikkai,Jaikaya,Jaiphal,Nutmeg,"Nutmeg (Jatiphala, Myristica fragrans) is an evergreen tree of the family Myristicaceae, cultivated both as a spice and medicinal plant.
+","Aromatic, Stimulant, Carminative, Antibacterial",Tikta,Guru,Ushna,Katu,"Vatakapha Shamaka, Vatahara because of Ushna virya and Kaphahara due to Ushna virya, Katu vipaka and Tikta rasa.","Ayurvedic medicine to treat inflammatory conditions like arthritis, rheumatism, and joint pain, as well as respiratory issues such as asthma and bronchitis, digestive disorders, and fever."
+Jatiphala,Jatiphala,Jatiphala.jpeg,Myristica fragrans Houtt,Myristicaceae,Jathikkai,Jaikaya,Jaiphal,Nutmeg,"Nutmeg (Jatiphala, Myristica fragrans) is an evergreen tree of the family Myristicaceae, cultivated both as a spice and medicinal plant.
 
 Habitat: Native to the Banda Islands of Indonesia, but now extensively cultivated in Kerala, Tamil Nadu, and parts of Karnataka. It requires a hot, humid climate with well-drained loamy soil.
 
@@ -379,8 +379,8 @@ Grahya Lakṣaṇa: Best quality nutmegs are heavy, aromatic, oily to touch, and
 5. Pain relief – External application of nutmeg paste relieves headaches, joint pain, and muscular pain.
 6. Oral health – Chewing nutmeg improves breath, prevents toothache, and reduces gum inflammation.
 7. Skin health – Used in traditional remedies for pimples, blemishes, and scars.
-8. Cardiac stimulant – Enhances circulation and strengthens heart function.","Aphrodisiac,stomachic, stimulant, Analgesic, Appetizer,Digestant,carminative, Astringent,Anthelmintic","Katu,Tikta,Kashaya","Laghu, Snigdha, Tikshna ",Ushna,Katu,Kaphavatashamaka
-Lavanga,Lavanga,https://drive.google.com/open?id=1ar7nd7fh9ct6pqsNBH9rWH1lfMW4hDFb,Syzgium aromaticum Merr.Perry,Myrtaceae,Krambu,Karampu,Laung,Clove,"
+8. Cardiac stimulant – Enhances circulation and strengthens heart function.","Aphrodisiac,stomachic, stimulant, Analgesic, Appetizer,Digestant,carminative, Astringent,Anthelmintic","Katu,Tikta,Kashaya","Laghu, Snigdha, Tikshna ",Ushna,Katu,Kaphavatashamaka,"It reduces bad breath in mouth, moisture in mouth and excessive thirst. Used to relieve bloating, flatulence and abdominal pain. Used to balance the blood sugar levels and to treat urinary tract infections. It acts as a cardiac tonic and improves the heart metabolism."
+Lavanga,Lavanga,lavanga.jpeg,Syzgium aromaticum Merr.Perry,Myrtaceae,கிராம்பு ,Karampu,Laung,Clove,"
 Lavanga (clove, Syzygium aromaticum) is an evergreen aromatic tree belonging to the Myrtaceae family.
 
 Habitat: Indigenous to the Maluku Islands (Indonesia) and cultivated in India, particularly in Kerala and Tamil Nadu in humid tropical conditions with fertile loamy soils.
@@ -396,8 +396,8 @@ Grahya Lakṣaṇa: Good quality cloves are plump, brownish-black, and oily, wit
 6. Circulatory stimulant – Improves peripheral blood flow and warms the body.
 7. Skin health – Used in acne and fungal skin infections due to antiseptic properties.
 8. Antioxidant – Helps in reducing oxidative stress and delays aging process.
-","Dental Analgesic, carminative, stimulant, Aromatic, Antiseptic, Appetizer, Digestive, Aphrodisiac ","Katu, Tikta ","Laghu, Snigdha, Tikshna ",Shita,Katu,"Kapha, pitta shamaka"
-Mandukaparni,Mandukaparni ,https://drive.google.com/open?id=1tR4MGqvodlLmWiiEKNrpg-k65-Ok2c8B,Centella asiatica Linn,Apiaceae,Vallarai,Kutakam,Khulakudi,Indian penny wort,"Habitat
+","Dental Analgesic, carminative, stimulant, Aromatic, Antiseptic, Appetizer, Digestive, Aphrodisiac ","Katu, Tikta ","Laghu, Snigdha, Tikshna ",Shita,Katu,"Kapha, pitta shamaka","treating toothache, digestive and respiratory issues, and exhibiting antimicrobial, antioxidant, anti-inflammatory, and potential anticancer effects"
+Mandukaparni,Mandukaparni ,imagesAadhavRam.jpeg,Centella asiatica Linn,Apiaceae,வல்லாரை ,Kutakam,Khulakudi,Indian penny wort,"Habitat
 Habitat
 
 Mandukaparni is a common weed found through-out India and especially grows in moist regions.
@@ -458,8 +458,8 @@ Combination of Mandukaparni (Centella asiatica), Yashthi (Glycyrrhiza glabra) an
 
 (भा.प्र.चि. 1/659)
 
-To get the clear voice one has to take Mandukaparni (Centella asiatica), Malura mula root of (Aegle marmolos), Amaya (Saussurea lappa), Shankhapushpi (Convolvulus pluricaulis) mixed with honey.","Memory enhancer, Anti-inflammatory, CNS depressant, Sedative, Hypotensive and Hepatoprotective","Tikta, Kashaya, Madhura","Laghu, sara",Shita,Madhura,Tridosha shamaka
-Udumbara,Udumbara,https://drive.google.com/open?id=1WGl7WBWiHd0eLcc6AnOO_7a2fCR2yBDA,Ficus racemosa,Moraceae,Athi,Atti,Gular,Country fig,"
+To get the clear voice one has to take Mandukaparni (Centella asiatica), Malura mula root of (Aegle marmolos), Amaya (Saussurea lappa), Shankhapushpi (Convolvulus pluricaulis) mixed with honey.","Memory enhancer, Anti-inflammatory, CNS depressant, Sedative, Hypotensive and Hepatoprotective","Tikta, Kashaya, Madhura","Laghu, sara",Shita,Madhura,Tridosha shamaka,"Is used to treat conditions like eczema and scars. Internally, it has been used for memory enhancement, treating nervous system disorders, and improving circulation,"
+Udumbara,Udumbara,Athi.jpeg,Ficus racemosa,Moraceae,அத்தி ,Atti,Gular,Country fig,"
 Athi (Udumbara, Ficus racemosa) is a large deciduous tree from the Moraceae family, revered in Ayurveda for its medicinal bark, fruit, and latex.
 
 Habitat: Commonly found throughout India in moist, fertile soils, especially near rivers, ponds, and temple areas. It is a sacred tree often planted in temple compounds.
@@ -478,8 +478,8 @@ Grahya Lakṣaṇa: The bark should be smooth, fresh, and astringent to taste. F
 Astringent
 Anti-inflammatory
 Antimicrobial
-Wound healing","Kashaya, Madhura ","Laghu, ruksha ",Shita ,Katu,"Pitta, kapha shamaka"
-Sadapushpa,Sadapushpa,https://drive.google.com/open?id=186NA89YUj6o1GVlAL_xtmOmQ2_9rq4Iq,Catharanthus roseus,Apocynaceae,Nithyakalyani,Shavam Naari,Sadabahar,Periwinkle,"Nithyakalyani (Sadapushpa, Catharanthus roseus) is a perennial herb belonging to the family Apocynaceae.
+Wound healing","Kashaya, Madhura ","Laghu, ruksha ",Shita ,Katu,"Pitta, kapha shamaka","uses in traditional medicine for various ailments including diabetes, liver disorders, inflammatory conditions, diarrhea, hemorrhoids, and respiratory issues"
+Sadapushpa,Sadapushpa,Nithyakalyani.jpeg,Catharanthus roseus,Apocynaceae,நித்யகல்யாணி ,Shavam Naari,Sadabahar,Periwinkle,"Nithyakalyani (Sadapushpa, Catharanthus roseus) is a perennial herb belonging to the family Apocynaceae.
 
 Habitat: Native to Madagascar, but naturalized and cultivated widely across India, especially in gardens and temple premises. It thrives in warm climates with sandy to loamy soils and can withstand drought conditions.
 
@@ -496,8 +496,8 @@ Anticancer
 Antihypertensive
 Wound healing
 Antimicrobial
-","Tikta, Kashaya ","Laghu, ruksha ",Shita,Katu,"Kapha,Pitta shamaka "
-Gokshura,Gokshura,https://drive.google.com/open?id=1esSmEtyHcIAzkR-YsJr0HTy1jG-8kTXH,Tribulus terrestris Linn,Zygophyllaceae,Nerungil,Nerungil,Chota Gokhru,Small caltrops,"Morphology
+","Tikta, Kashaya ","Laghu, ruksha ",Shita,Katu,"Kapha,Pitta shamaka ",to treat various cancers like leukemia and Hodgkin's lymphoma
+Gokshura,Gokshura,images1Aadhav.jpeg,Tribulus terrestris Linn,Zygophyllaceae,நெருஞ்சில் ,Nerungil,Chota Gokhru,Small caltrops,"Morphology
 
 Braked-Pedalium murex (Pedaliaceae)
 
@@ -567,8 +567,8 @@ Flowers of Gokşura (Tribulus terrestris) and Tila (Sesamum indicum) are mixed w
 
 (च.द. 25/9)
 
-Kwatha (Decoction) of Shunthi (Zingiber officinale) and Gokshura (Tribulus terrestris) if taken in morning times regularly acts as digestant there by relieves Amavata (Rhumatoid arthritis), Katishula (Lumbago) and Ruk (Pain).","Diuretic, Tonic, Aphrodisiac, Demulcent",Madhura,"Guru, Snigdha","Phala - Sita, Mula - Ushna",Madhura,Tridosha shamaka
-Nirgundi,Nirgundi,https://drive.google.com/open?id=1YoVI4khyHMFXK3cyHRpDKoxChI5y-ia-,Vitex negundo,Lamiaceae,Nochi,Indrani,"Nirgandi, Mewri",Five leaved chaste tree,"Habitat
+Kwatha (Decoction) of Shunthi (Zingiber officinale) and Gokshura (Tribulus terrestris) if taken in morning times regularly acts as digestant there by relieves Amavata (Rhumatoid arthritis), Katishula (Lumbago) and Ruk (Pain).","Diuretic, Tonic, Aphrodisiac, Demulcent",Madhura,"Guru, Snigdha","Phala - Sita, Mula - Ushna",Madhura,Tridosha shamaka,"It is used in traditional medicine for chest pain, heart problems, dizziness, skin and eye disorders, to expel kidney stones, and as a diuretic and tonic"
+Nirgundi,Nirgundi,imagesadhav.jpeg,Vitex negundo,Lamiaceae,நொச்சி ,Indrani,"Nirgandi, Mewri",Five leaved chaste tree,"Habitat
 
 Nirgandi grows all over India. As it is an attrac-tive shrub, it is cultivated in gardens.
 
@@ -628,8 +628,8 @@ Leaf - Antiparasitic, Vermifuge, Anodyne and Alterative
 
 Root-Tonic, Febrifuge, Expectorant, Diuretic
 
-Fruit-Emmanogogue","Tikta, Katu, Kashaya","Laghu, Ruksa",Ushna,Katu,Vatakapha shamaka
-Varuna,Varuna,https://drive.google.com/open?id=1hZCpjvy_BIcvkbhzE3k3yaUimOQLcAPw,Crataeva nurvala ,Capparidaceae,Maralingam,Nirvala,Tapia,Three layered caper,"Habitat
+Fruit-Emmanogogue","Tikta, Katu, Kashaya","Laghu, Ruksa",Ushna,Katu,Vatakapha shamaka," to treat conditions like joint pain, muscle sprains, coughs, diarrhea, skin problems, and fever."
+Varuna,Varuna,images(3)Aadhav.jpeg,Crataeva nurvala ,Capparidaceae,Maralingam,Nirvala,Tapia,Three layered caper,"Habitat
 
 Varuna is found through out India especially in upper Gangetic plains, Bengal, Bihar, Orissa, Gujarat and Konkan region. It is also cultivated in gardens as it is very beautiful tree.
 
@@ -671,33 +671,33 @@ Prepare decoction of Varuna (Crataeva nurvala) root bark, then add the paste of 
 
 गण्डमालां तथा क्वाथः क्षौद्रेण वरुणत्वचः । (शा.स. 2/2/126)
 
-In case of Gandamala (Goitre) decoction prepared from root bark of Varuna (Crataeva nurvala) is taken with honey.","Lithotriptic, Spasmodic, Anti-inflammatory, Antipyretic, Antibacterial and Diuretic","Kashaya, Tikta, madhura","Laghu, ruksa",Ushna,Katu,Kapha vata Shamaka
-Parisha,"Parisha, Gardhabhandaka, and Haripuccha",https://drive.google.com/open?id=1BHNr0XIA0i-J1meUNcwRqmZy1jflZFma,Thespesia populnea,Malvaceae,பூவரசம் ,Poovarasu,Paras pipal,Tulip tree,"Thespesia populnea, also known as the Portia tree or Indian tulip tree, is a pantropical, evergreen tree that grows into a dense shrub or small tree, often reaching 6-9 meters in height but sometimes growing taller. It features heart-shaped, glossy dark green leaves, bright yellow, cup-shaped flowers with a crimson center that ages to purple, and a round, woody fruit capsule containing small seeds. This salt-tolerant tree thrives in coastal environments and has soft, fine-grained wood with an attractive grain, formerly used for various crafts and domestic items like bowls, plates, and utensils, and for construction.",Twak(bark),"1.used as anti-diuretic in diabetes conditions.
+In case of Gandamala (Goitre) decoction prepared from root bark of Varuna (Crataeva nurvala) is taken with honey.","Lithotriptic, Spasmodic, Anti-inflammatory, Antipyretic, Antibacterial and Diuretic","Kashaya, Tikta, madhura","Laghu, ruksa",Ushna,Katu,Kapha vata Shamaka,"Ayurvedic medicine to treat urinary disorders like kidney stones, prostate enlargement, and bladder sensitivity"
+Parisha,Parisha,Pooarasam.jpeg,Thespesia populnea,Malvaceae,பூவரசம் ,Poovarasu,Paras pipal,Tulip tree,"Thespesia populnea, also known as the Portia tree or Indian tulip tree, is a pantropical, evergreen tree that grows into a dense shrub or small tree, often reaching 6-9 meters in height but sometimes growing taller. It features heart-shaped, glossy dark green leaves, bright yellow, cup-shaped flowers with a crimson center that ages to purple, and a round, woody fruit capsule containing small seeds. This salt-tolerant tree thrives in coastal environments and has soft, fine-grained wood with an attractive grain, formerly used for various crafts and domestic items like bowls, plates, and utensils, and for construction.",Twak(bark),"1.used as anti-diuretic in diabetes conditions.
 2.kasaya rasa ,Sita viya useful in bleeding disease.
 3.anti inflammatory properties.
-4.used to treat herps and vidradhi.","Wound-healing, Antiinflammatory, Analgesic, Anti-implantation and Anti-oxidant.","Madhura, Kasaya.","Ruksa, Laghu.",Sita,Katu,Vata pitta samaka
-Aswatha,Aswatha,https://drive.google.com/open?id=1ZpMWjGczMDksuMDyUo8-587ea5B5m4Qa,Ficus religiosa,Moraceae,அரசம்,Areyal,Pipal ,Sacred fig,"Ficus religiosa, or the sacred fig/Peepal tree, is a large, fast-growing tree native to India that can reach up to 30 meters in height. It is characterized by its large, leathery, heart-shaped leaves with a distinct tail-like drip tip, a pale, often buttressed trunk, and small, rounded, purplish figs that grow in pairs. The tree is culturally significant to Hindus and Buddhists, used in traditional medicine for various ailments, and is important for its shade and role as a host for lac insects.","Twak (bark) ,phala (fruit) ,ksira (latex) ,Ankura!(tender shoot).","1. Used  to cleanse the wound.
+4.used to treat herps and vidradhi.","Wound-healing, Antiinflammatory, Analgesic, Anti-implantation and Anti-oxidant.","Madhura, Kasaya.","Ruksa, Laghu.",Sita,Katu,Vata pitta samaka,"medicinal uses for skin and digestive issues, wound healing, and anti-inflammatory effects;"
+Aswatha,Aswatha,Arasam.jpg,Ficus religiosa,Moraceae,அரசம்,Areyal,Pipal ,Sacred fig,"Ficus religiosa, or the sacred fig/Peepal tree, is a large, fast-growing tree native to India that can reach up to 30 meters in height. It is characterized by its large, leathery, heart-shaped leaves with a distinct tail-like drip tip, a pale, often buttressed trunk, and small, rounded, purplish figs that grow in pairs. The tree is culturally significant to Hindus and Buddhists, used in traditional medicine for various ailments, and is important for its shade and role as a host for lac insects.","Twak (bark) ,phala (fruit) ,ksira (latex) ,Ankura!(tender shoot).","1. Used  to cleanse the wound.
 2. Used to improve lusture.
 3. Used in bleeding disorders.
 4. Used to arrest diarrhoea.
 5. Having anti-inflammatory properties.
-6. Reduce burning sensation.","Astringent, cooling, Aphrodisiacs.","Kasaya , Madhura.","Guru , Ruksha.",Sita ,Katu,"Pitta ,kapha shamaka"
-Vata,"Vata , Nyagroda , Bahu pada.",https://drive.google.com/open?id=15SQ-yQlkmqDcM8HNL4sQF1nRGTcl4Zni,Ficus benghalensis,Moraceae ,ஆலமரம்,Vatam,Vata,Banyan tree,"Ficus benghalensis, commonly known as the banyan tree, is a large, evergreen tree native to the Indian subcontinent. It's characterized by its massive size, spreading crown, and aerial roots that descend from branches to the ground, eventually forming new trunks. The tree can grow to 20-30 meters or more in height and can spread out over a large area. ","Twak (stem bark), kshira (latex), Patra (leaf), Arial root and phala (fruit)","1. Used as a constipative and stop vomiting sensation.
+6. Reduce burning sensation.","Astringent, cooling, Aphrodisiacs.","Kasaya , Madhura.","Guru , Ruksha.",Sita ,Katu,"Pitta ,kapha shamaka","treatment for asthma, diabetes, diarrhea, epilepsy, gastric problems, inflammatory disorders, and skin conditions"
+Vata,Vata,Vata.jpg,Ficus benghalensis,Moraceae ,ஆலமரம்,Vatam,Vata,Banyan tree,"Ficus benghalensis, commonly known as the banyan tree, is a large, evergreen tree native to the Indian subcontinent. It's characterized by its massive size, spreading crown, and aerial roots that descend from branches to the ground, eventually forming new trunks. The tree can grow to 20-30 meters or more in height and can spread out over a large area. ","Twak (stem bark), kshira (latex), Patra (leaf), Arial root and phala (fruit)","1. Used as a constipative and stop vomiting sensation.
 2. Used to cleans wound. 
 3. Used to improve skin luster.
 4. Acts as a coolant.
 5. Useful in bleeding disorder.
-6. Having anti inflammatory property.","Hypoglycemic, hypotensive, Anti diabetic, antioxidant, hypocholestrolemic.",Kasaya.,"Guru , Ruksha.",Katu,Sita,"Kapha, pitta samaka."
-Musta,Musta,https://drive.google.com/open?id=1ddrGySuwzKQECCXPwa8Wx7qCMN7ylokS,Cyperus rotundus Linn.,Cyperaceae,கோரைக்கிழங்கு,Karimuttan,Korehi - jhar,Nut grass,"Cyperus rotundus, or purple nutsedge, is a perennial sedge recognized for its extensive underground rhizome and tuber system that allows for prolific reproduction and makes it a notoriously difficult weed to control. It features dark green, grass-like leaves that are typically shorter than its erect, three-sided stems, which support a reddish-purple inflorescence. The tubers, a distinctive feature, are dark brown, fibrous, and aromatic, containing numerous bioactive compounds used in traditional medicine for various ailments, despite its reputation as one of the world's worst weeds. ",Tuber,"1. Acts as a Best digestant.
+6. Having anti inflammatory property.","Hypoglycemic, hypotensive, Anti diabetic, antioxidant, hypocholestrolemic.",Kasaya.,"Guru , Ruksha.",Katu,Sita,"Kapha, pitta samaka.","It's used in Ayurvedic remedies for conditions like diabetes, liver problems, wounds, and skin disorders"
+Musta,Musta,Musta.jpg,Cyperus rotundus Linn.,Cyperaceae,கோரைக்கிழங்கு,Karimuttan,Korehi - jhar,Nut grass,"Cyperus rotundus, or purple nutsedge, is a perennial sedge recognized for its extensive underground rhizome and tuber system that allows for prolific reproduction and makes it a notoriously difficult weed to control. It features dark green, grass-like leaves that are typically shorter than its erect, three-sided stems, which support a reddish-purple inflorescence. The tubers, a distinctive feature, are dark brown, fibrous, and aromatic, containing numerous bioactive compounds used in traditional medicine for various ailments, despite its reputation as one of the world's worst weeds. ",Tuber,"1. Acts as a Best digestant.
 2. A very effective anti-pyretic.
 3. Improves taste and appetite.
 4. Acts as an anti infectant.
-5. Effective to control diarrhoea.","Appetizer, digestant, astringent and Anthelmintic.","Tikta, kayasa, katu.","Laghu, Ruksha.",Katu,Sita ,Pitta kapha samaka.
-Durva,Durva,https://drive.google.com/open?id=1x7SGCmWrc5s8R9fL9uc5LKezRvSCYrnr,Cynodon dactylon,Poaceae,அருகம்புல்,"Karuka pullu, Belikaraka.",Doorva,Conch Grass.,"Cynodon dactylon, or Bermuda grass, is a perennial, mat-forming grass characterized by its creeping rhizomes and stolons, rough-edged, linear leaves, and distinctive star-like inflorescence of 3-7 slender spikes. The grass produces erect or ascending stems and is known for forming dense turf and is used for lawns, fodder, and in some religious rituals.",Panchanga(whole plant),"1. Coolant in nature pacifies thirst.
+5. Effective to control diarrhoea.","Appetizer, digestant, astringent and Anthelmintic.","Tikta, kayasa, katu.","Laghu, Ruksha.",Katu,Sita ,Pitta kapha samaka.,"to treat digestive issues (like diarrhea, indigestion), inflammatory conditions, fevers, menstrual problems (such as pain and irregular cycles), skin conditions (like eczema), and to support fat reduction and relieve stress"
+Durva,Durva,Durva.jpeg,Cynodon dactylon,Poaceae,அருகம்புல்,"Karuka pullu, Belikaraka.",Doorva,Conch Grass.,"Cynodon dactylon, or Bermuda grass, is a perennial, mat-forming grass characterized by its creeping rhizomes and stolons, rough-edged, linear leaves, and distinctive star-like inflorescence of 3-7 slender spikes. The grass produces erect or ascending stems and is known for forming dense turf and is used for lawns, fodder, and in some religious rituals.",Panchanga(whole plant),"1. Coolant in nature pacifies thirst.
 2. Reduces burning sensation. 
 3. Relieves disease related to skin. 
-4. Also acts as a anti-pyretic.","Antiviral, homeostatic, diuretic and astringent.","Tikta, Madura, kasaya.",Laghu,Sita,Madura,Kapha pitta samaka.
-Bruhati,Bruhati ,https://drive.google.com/open?id=1bC0G59y2DZkaRvQaC8tix-CYe2M9sC9x,Solanum indicum Linn,Solanaceae ,"ஆனைச்சுண்டை, பாப்பரமல்லி, சிறு வாழுதலை,புதிரிச்சுண்டை",Cheruchunda,Banabhanta,Indian night shade ,"Habitat:
+4. Also acts as a anti-pyretic.","Antiviral, homeostatic, diuretic and astringent.","Tikta, Madura, kasaya.",Laghu,Sita,Madura,Kapha pitta samaka.," to treat a variety of ailments including cough, headaches, digestive issues, and skin conditions, and also has potential applications in wound healing, diabetes management, and antioxidant support"
+Bruhati,Bruhati ,bruhati.jpeg,Solanum indicum Linn,Solanaceae ,"ஆனைச்சுண்டை, பாப்பரமல்லி, சிறு வாழுதலை,புதிரிச்சுண்டை",Cheruchunda,Banabhanta,Indian night shade ,"Habitat:
 It grows wild throughout India, especially in tropical and subtropical regions.
 Commonly found in roadsides, wastelands, hedges, gardens, and open forests.Prefers sunny locations with well-drained sandy to loamy soil.Found up to an altitude of around 1500 meters in the Himalayan region.Distributed across India, Sri Lanka, Nepal, Bangladesh, and other South Asian countries. 
 
@@ -785,40 +785,40 @@ Anti-ulcer property – helps in gastritis and peptic ulcers in ear) as like tha
 10. Antiulcer – Reduces gastric irritation and ulcer formation.
 
 CLASSICAL REFERENCE:-
-बृहती ग्राहिणी हृद्या पाचनी कफवातहत् । कटुतिक्ताऽऽस्यवैरस्यमलारोचकनाशिनी । उष्णा कुष्ठज्वरश्वासशूलकासग्निमान्द्यजित् । (भा.प्र. गुडूच्यादि वर्ग. 36-37)","Katu,tikta","Laghu,ruksha,tikshna",Ushna,Katu,Kaphavata shamaka
-Kashmari,Kashmari,https://drive.google.com/open?id=1qNwMASvSoY321kbeA0QCnzi48sMv8Ue8,Gmelina arboreal Linn,Verbinaceae,கம்பரிக்கு,Kumbil,Gambhara,White teak,"A large deciduous tree,20 m high ,leaves - large , tomentose under Neath ,cordate -ovate ,acuminate.Flowers - yellow ,tinged with brown,in terminal and axillary racemiform panicles,composed of lateral cymes.Fruits -drupes,yellow when ripe.seeds - oblong .Flowering in February - April and fruiting in April - July .","Root bark,fruit ,flower ,leaves ","1.shothahara 
+बृहती ग्राहिणी हृद्या पाचनी कफवातहत् । कटुतिक्ताऽऽस्यवैरस्यमलारोचकनाशिनी । उष्णा कुष्ठज्वरश्वासशूलकासग्निमान्द्यजित् । (भा.प्र. गुडूच्यादि वर्ग. 36-37)","Katu,tikta","Laghu,ruksha,tikshna",Ushna,Katu,Kaphavata shamaka,"liver disorders, inflammation, skin ailments, gastrointestinal problems like ulcers and diarrhea, fevers, and respiratory issues like cough and asthma."
+Kashmari,Kashmari,gambhari-candahar-tree-gmelina-arborea.jpg,Gmelina arboreal Linn,Verbinaceae,கம்பரிக்கு,Kumbil,Gambhara,White teak,"A large deciduous tree,20 m high ,leaves - large , tomentose under Neath ,cordate -ovate ,acuminate.Flowers - yellow ,tinged with brown,in terminal and axillary racemiform panicles,composed of lateral cymes.Fruits -drupes,yellow when ripe.seeds - oblong .Flowering in February - April and fruiting in April - July .","Root bark,fruit ,flower ,leaves ","1.shothahara 
 2. Depana 
 3.pachana 
 ","1.stomachic 
 2.Refrigerant 
 3.Demulcent 
-4.Laxative ","Tikta ,kashaya ,madhura ","Laghu , Ruksha ",Usna ,Katu,Tridosha shamaka
-Bhargi,Bhargi,https://drive.google.com/open?id=1rCln4boOWQb4raKFgFAgUBVnpiiFZDQS,Clerodendrum indicum ,Verbinaceae,சிறு தேக்கு,Kankabharani,Babhanaiti,Blue glory,"A shrub , 1.5 - 3 m high ,glabrous ,hollow branches .leaves 3-4 or opposite,lanceolate ,Flowers - elongated terminal panicles ,bracts linear ,calyx campanulate,corolla white , glabrous.Fruits - drupes ,blue .seeds - oblong",Root ,"1.Given orally to treat inguinal hernia 
+4.Laxative ","Tikta ,kashaya ,madhura ","Laghu , Ruksha ",Usna ,Katu,Tridosha shamaka,"ulcers, diarrhea, fever, anemia, piles, and neurological disorders"
+Bhargi,Bhargi,Screenshot_20250831_203913.jpg,Clerodendrum indicum ,Verbinaceae,சிறு தேக்கு,Kankabharani,Babhanaiti,Blue glory,"A shrub , 1.5 - 3 m high ,glabrous ,hollow branches .leaves 3-4 or opposite,lanceolate ,Flowers - elongated terminal panicles ,bracts linear ,calyx campanulate,corolla white , glabrous.Fruits - drupes ,blue .seeds - oblong",Root ,"1.Given orally to treat inguinal hernia 
 2.To treat thyroid related problems like goitre 
 3.To treat respiratory related problems ","1.Anti inflammatory 
 2.Anti allergic 
 3.Anti asthmatic 
-4.Anti oxidant ","Katu ,tikta ,kashaya","Ruksha , Lagu",Ushna,Katu,Kapha vata shamaka 
-Narayani,Narayani,https://drive.google.com/open?id=1In1MWTjwYaypm9X8baBgtNtLBHlof_0S,Eleutherine bulbosa,Iridaceae,விஷநாராயணி,,Visha narayani ,Dayak onion ,"Perennial herb with red colour onion like buds,
+4.Anti oxidant ","Katu ,tikta ,kashaya","Ruksha , Lagu",Ushna,Katu,Kapha vata shamaka ," It is employed for its anti-inflammatory, stomachic, and febrifuge (fever-reducing) properties. Common uses include treating respiratory conditions like asthma and cough, skin issues, and lymphatic disorders. The plant also acts as a vermifuge, a bitter tonic, and a blood purifier, and is traditionally used to alleviate joint pain and digestive problems.  "
+Narayani,Narayani,Screenshot_20250831_212022.jpg,Eleutherine bulbosa,Iridaceae,விஷநாராயணி,"Neerottikizhangu, Ponnulli, and Vishanarayani",Visha narayani ,Dayak onion ,"Perennial herb with red colour onion like buds,
 Lance shaped hairless leaves ,white / yellow flowers that bloom with a short night window ",Underground bulb,"1.Used to treat diabetes and hypertension 
 2.Used to treat wooping cough ,jaundice ","1.Anti inflammatory 
 2.Anti bacterial
 3.Anti fungal 
 4.Anti oxidant 
-","Tikta , kashaya ","Laghu,Ruksha ,Tikshna ",Ushna ,Katu,"Vata kaphahara , pitta vardhaka "
-Mallika,Mallika,https://drive.google.com/open?id=12Lhj0aMoTqOZQtwdKY4Vc71khVA72e0B,Jasminum sambac,Oleaceae ,மல்லிகை,Malli,Mallika,Jasmine ,"A woody twining shrub with opposite leaves and fragrant white flower,Leaves -simple ,ovate
+","Tikta , kashaya ","Laghu,Ruksha ,Tikshna ",Ushna ,Katu,"Vata kaphahara , pitta vardhaka ","anti-cancer, anti-diabetic, anti-inflammatory, antibacterial, and antioxidant properties"
+Mallika,Mallika,garden-sanna-marale.jpg,Jasminum sambac,Oleaceae ,மல்லிகை,Malli,Mallika,Jasmine ,"A woody twining shrub with opposite leaves and fragrant white flower,Leaves -simple ,ovate
 elliptic ,shiny green.Flowers -white ,highly fragrant,tubular with 5 - 8 lobs bloom mostly at night or early morning.Fruit - small black berry (Rarely seen in cultivated plants ) Flowering season - Through out the year ,more during summer and monsoon ","Flowers , root ,leaves ","1.Helps to cure bleeding disorder 
 2.Improves the skin complexion 
 3.Reduces inflammation and swelling ","1.Anti oxidant 
 2.Anti depressant 
 3.Anti inflammatory 
-4.Anti pyretic ","Tikta, kashaya ","Laghu , Ruksha ",Sheeta,Katu,Tridoshahara 
-Paashaanabheda,Paashaanabheda ,https://drive.google.com/open?id=1Je18XwXJxGkN0NnPlx9bXO2hyZCJOeYD,Aerva lanata,Amaranthaceae,சிறுபீளை,Cherula,Gorakhbuti,Moutain knot grass ,"Habit :creeping or climbing annual herb , leaves : small, ovate to heart shaped , slightly hairy ,2- 5 cm long , stem : Thin , trailing or climbing with tendrils Flowers : small ,yellowish -Green , unisexual ,appearing along leaf axils.Fruits : small,globose berries ,green when immature and black when ripe .roots : Fibrous ,shallow ","Leaves , whole plant , fruits ","1.Helps to treat skin disorders 
+4.Anti pyretic ","Tikta, kashaya ","Laghu , Ruksha ",Sheeta,Katu,Tridoshahara ,"used in traditional medicine for its analgesic, anti-inflammatory, and sedative properties, treating conditions like fever, pain, and skin ulcers"
+Paashaanabheda,Paashaanabheda ,Screenshot_20250831_225411.jpg,Aerva lanata,Amaranthaceae,சிறுபீளை,Cherula,Gorakhbuti,Moutain knot grass ,"Habit :creeping or climbing annual herb , leaves : small, ovate to heart shaped , slightly hairy ,2- 5 cm long , stem : Thin , trailing or climbing with tendrils Flowers : small ,yellowish -Green , unisexual ,appearing along leaf axils.Fruits : small,globose berries ,green when immature and black when ripe .roots : Fibrous ,shallow ","Leaves , whole plant , fruits ","1.Helps to treat skin disorders 
 2.Helps to treat urinary disorders","1.Anti inflammatory 
 2.Anti microbial 
 3.Anti oxidant 
-4.Diuretic ","Tikta , kashaya ","Laghu , Ruksha ",Sheeta ,Katu ,Tridoshahara 
-Apamarga,Apamarga,https://drive.google.com/open?id=1Qoi1MkPVS-s7k-vJD8W5qb66c2hWw_4a,Achyranthes aspera,Amarantheaceae ,நாயுருவி ,Katalati ,Chirachiri ,Prickly chaff flower,"The plant grows abudantly in waste places of tropical and temperate regions.
+4.Diuretic ","Tikta , kashaya ","Laghu , Ruksha ",Sheeta ,Katu ,Tridoshahara ,"used for its diuretic, anti-inflammatory, and antidiarrheal properties"
+Apamarga,Apamarga,apamarga.jpg,Achyranthes aspera,Amarantheaceae ,நாயுருவி ,Katalati ,Chirachiri ,Prickly chaff flower,"The plant grows abudantly in waste places of tropical and temperate regions.
 HABIT : Wild perennial herb grows 30 - 90 cm in height.
 ROOT : Branched tap root
 STEM : Aerial erect, angular,branched,hairy,nodes and internodes are prominent on stem and is violet or pink at nodes.
@@ -834,8 +834,8 @@ Shastrakshata","Agnidipaka
 Saraka
 Pachaka 
 Vamaka
-Chedana","Tikta,Katu","Sara,Tikshna",Ushna,Katu,Kaphavatahara 
-Haridra,Haridra,https://drive.google.com/open?id=1C0D6GiDnCTWPnSBqgJDvTv1tQIzmCSlF,Curcuma longa Linn,Zingiberaceae, மஞ்சள்,Kooneit,Haldi,Turmeric ,"HABITAT:
+Chedana","Tikta,Katu","Sara,Tikshna",Ushna,Katu,Kaphavatahara ,"for conditions such as hemorrhoids, indigestion, cough, asthma, jaundice, earache, and skin disorders"
+Haridra,Haridra,Haridra.jpg,Curcuma longa Linn,Zingiberaceae, மஞ்சள்,Kooneit,Haldi,Turmeric ,"HABITAT:
 
 Native to South Asia, mainly India.
 
@@ -936,8 +936,8 @@ Pharmacological Actions
 7. Cardioprotective – improves circulation, prevents platelet aggregation.
 8. Wound healing – enhances collagen deposition, tissue regeneration.
 9. Anti-cancer potential – studied for its role in apoptosis and inhibiting tumor growth.
-10. Neuroprotective – supports memory, studied in Alzheimer’s disease.","Tikta,katu","Ruksha,laghu",Ushna,Katu,Kaphapitta shamaka
-Pippali,Pippali ,https://drive.google.com/open?id=1EOYcSEoWpd1cl_vv9JASQVDKle43wTKG,Piper longum Linn,Piperaceae,திப்பிலி,Tippli,Pipli,Long pepper,"HABITAT:
+10. Neuroprotective – supports memory, studied in Alzheimer’s disease.","Tikta,katu","Ruksha,laghu",Ushna,Katu,Kaphapitta shamaka,"anti-cancer, anti-bacterial, anti-viral, hepatoprotective, and cardioprotective effects. It is used to treat conditions like coughs, colds, skin problems, and digestive disorders,"
+Pippali,Pippali ,pippali.jpg,Piper longum Linn,Piperaceae,திப்பிலி,Tippli,Pipli,Long pepper,"HABITAT:
 
 Grows in tropical and subtropical regions of India.
 
@@ -1011,8 +1011,8 @@ Antimicrobial – active against bacteria, fungi, parasites.
 
 Cardioprotective – supports circulation, helps in reducing cholesterol.
 
-Anti-obesity potential – studied for fat metabolism improvement.",Katu ,"Tikshna,laghu,snigdha",Anushna,Madhura,KAPHAVATA SHAMAKA 
-Shatavari,Shatavari,https://drive.google.com/open?id=1xACF2iJrO9JbtOJH7Wp-bqqViKWH60Wa,Asparagus racemosus,Asparagaceae,தண்ணீர்விட்டான்கிழங்கு,Shatavali,Shakakul,Wild asparagus,"HABITAT:
+Anti-obesity potential – studied for fat metabolism improvement.",Katu ,"Tikshna,laghu,snigdha",Anushna,Madhura,KAPHAVATA SHAMAKA ,"conditions such as respiratory infections, digestive issues, asthma, and pain,"
+Shatavari,Shatavari,shatavari.jpg,Asparagus racemosus,Asparagaceae,தண்ணீர்விட்டான்கிழங்கு,Shatavali,Shakakul,Wild asparagus,"HABITAT:
 
 Commonly found throughout India, Sri Lanka, Nepal, and Himalayas up to 1200–1500 m altitude.
 
@@ -1068,8 +1068,8 @@ Acc to modern:
 9. Antimicrobial – effective against bacteria and fungi.
 10. Diuretic – promotes urine flow, useful in urinary disorders.
 11. Hepatoprotective – protects and supports liver functions.
-12. Anticancer potential – studied for its cytotoxic and tumor-suppressing effects.","Madhura,tikta","Guru, snigdha ",Shita,Madhura ,Vatapitta shamaka
-Shunti,Shunti,https://drive.google.com/open?id=196HBJSRs-ngctl-Tlp_4C8Ulv-ipYF88,Zingiber officinale,Zingiberaceae ,இஞ்சி,Chukka,"Adarakh,sonth",Ginger ,"HABITAT:
+12. Anticancer potential – studied for its cytotoxic and tumor-suppressing effects.","Madhura,tikta","Guru, snigdha ",Shita,Madhura ,Vatapitta shamaka,"support the female reproductive system, boost immunity, and improve digestion. It may help with symptoms of menopause, increase breast milk production, treat diarrhea and stomach ulcers, and act as a diuretic."
+Shunti,Shunti,sunthi.jpg,Zingiber officinale,Zingiberaceae ,இஞ்சி,Chukka,"Adarakh,sonth",Ginger ,"HABITAT:
 
 Cultivated throughout India, China, Sri Lanka, Nigeria, Jamaica.
 
@@ -1138,18 +1138,18 @@ Acc to modern:
 8. Thermogenic – produces warmth, useful in cold conditions.
 9. Hepatoprotective – protects liver and improves metabolism.
 10. Anti-diabetic – helps regulate blood glucose.
-11. Neuroprotective – improves memory, reduces stress and fatigue.",Katu,"Laghu, snigdha ",Ushna,Madhura,Vatakaphahara
-Karpura,Karpura,https://drive.google.com/open?id=1hr2ar0ALVh1kwMqSl_V2a2HxeO3Dvcw-,Cinnamomum camphora,Lauraceae,கற்பூரம்,karppūram,Kapur,Camphor,"Camphor is colourless, crystalline solid granular mass known as flower of camphor. It has penetrating characteristic odour and aromatic pungent taste followed by sensation of cold. It is translucent and readily pulverisable in presence of alcohol or chloroform. Camphor gets readily liquified if triturated with phenol, methol, thymol, chloral hydrate and resorcinol. It slowly vaporises at room temperature. It burns with a bright smoky flame. Natural camphor is dextrorotatory where as synthetic camphor is racemic.",Niryasa (Resinous exudate),"1.Retention of Urine 
+11. Neuroprotective – improves memory, reduces stress and fatigue.",Katu,"Laghu, snigdha ",Ushna,Madhura,Vatakaphahara,"alleviate nausea, vomiting, and indigestion, and to reduce inflammation associated with conditions like arthritis"
+Karpura,Karpura,"61RFrxoaFZL._UF1000,1000_QL80.jpg",Cinnamomum camphora,Lauraceae,கற்பூரம்,karppūram,Kapur,Camphor,"Camphor is colourless, crystalline solid granular mass known as flower of camphor. It has penetrating characteristic odour and aromatic pungent taste followed by sensation of cold. It is translucent and readily pulverisable in presence of alcohol or chloroform. Camphor gets readily liquified if triturated with phenol, methol, thymol, chloral hydrate and resorcinol. It slowly vaporises at room temperature. It burns with a bright smoky flame. Natural camphor is dextrorotatory where as synthetic camphor is racemic.",Niryasa (Resinous exudate),"1.Retention of Urine 
 2.Fresh wound by injury
-3. Asthma","Analgesic, Sedative, Cardiac stimulant, Vermicidal, Expectorant, Antiseptic, Aph rodisiac.","Tikta ,katu , Madhura","Laghu,Tiksna",Sita,Katu,Pitta Samaka and kapha Samaka
-Vamsha,Vamsha,https://drive.google.com/open?id=1rlVV5Wk7ME9twTiWAKYvs9IK38Tcc5ty,Bambusa Arundinacea,Graminae,Mungil,Mungil,Bans,Bamboo,"Vamsa"" or ""Vamsha"" is a Sanskrit term with ancient roots that refers to bamboo (specifically, the plant Bambusa bambos) or a reed. It can also refer to the siliceous secretion found within bamboo, known as Vamsha Lochana or tabasheer, which is used in Ayurvedic medicine for respiratory and other ailments. The word's meaning extended to signify ""lineage"" or ""family tree,"" likely inspired by the segmented, growing structure of bamboo stalks. ","Root, Dried resin, Tender shoot","treatment of cough, skin diseases, wounds, digestive disorders, nausea, gynecological disorders and fever. ","anti-inflammatory, astringent, laxative, diuretic, anti-ulcer, anti-arthritic, anti-obesity, and an abortifacient","Madhura , Kashaya","Laghu ,Ruksha , Tikshna",Shita,Madhura,Kaphapitta shamaka
-Sariva,Sariva,https://drive.google.com/open?id=1Z_HEHFVTwtIyBczc1gIAMa7fYt7TWUkY,Hemidesmus indicus,Asclepiadaceae,நன்னாரி,Naruninti,Anantamul,Indian Sarsaparilla,"Hemidesmus indicus is a slender, twining, sometimes prostrate or semi-erect climber. Roots are woody and aromatic. The stem is numerous, slender, terete, thickened at the nodes. The leaves are opposite, short-petioled, very variable, elliptic-oblong to linear-lanceolate. The flowers are greenish outside, purplish inside, crowded in sub-sessile axillary cymes.",Root,"1 .Oligospermia
+3. Asthma","Analgesic, Sedative, Cardiac stimulant, Vermicidal, Expectorant, Antiseptic, Aph rodisiac.","Tikta ,katu , Madhura","Laghu,Tiksna",Sita,Katu,Pitta Samaka and kapha Samaka,"symptoms such as inflammation, ingestion, infection, congestion, pain, irritation"
+Vamsha,Vamsha,roadside-grass.jpg,Bambusa Arundinacea,Graminae,மூங்கில் ,Mungil,Bans,Bamboo,"Vamsa"" or ""Vamsha"" is a Sanskrit term with ancient roots that refers to bamboo (specifically, the plant Bambusa bambos) or a reed. It can also refer to the siliceous secretion found within bamboo, known as Vamsha Lochana or tabasheer, which is used in Ayurvedic medicine for respiratory and other ailments. The word's meaning extended to signify ""lineage"" or ""family tree,"" likely inspired by the segmented, growing structure of bamboo stalks. ","Root, Dried resin, Tender shoot","treatment of cough, skin diseases, wounds, digestive disorders, nausea, gynecological disorders and fever. ","anti-inflammatory, astringent, laxative, diuretic, anti-ulcer, anti-arthritic, anti-obesity, and an abortifacient","Madhura , Kashaya","Laghu ,Ruksha , Tikshna",Shita,Madhura,Kaphapitta shamaka,"treat a range of ailments, including wounds, inflammation, digestive issues, cough, and gynecological complaints."
+Sariva,Sariva,"61rtaJejgUL._UF1000,1000_QL80.jpg",Hemidesmus indicus,Asclepiadaceae,நன்னாரி,Naruninti,Anantamul,Indian Sarsaparilla,"Hemidesmus indicus is a slender, twining, sometimes prostrate or semi-erect climber. Roots are woody and aromatic. The stem is numerous, slender, terete, thickened at the nodes. The leaves are opposite, short-petioled, very variable, elliptic-oblong to linear-lanceolate. The flowers are greenish outside, purplish inside, crowded in sub-sessile axillary cymes.",Root,"1 .Oligospermia
 2.gastritis
 3.anorexia
 4.menorrhagia 
 
-","anti-inflammatory, antioxidant, antimicrobial, antidiarrheal, and hepatoprotective effects, as well as potential anti-cancer, anti-diabetic, anti-arthritic, and cardioprotective properties. ","Madhura , Tikta","Guru , Snigdha",Sita,Madhura,Tridoshahara
-Bringaraja,Bringaraja,https://drive.google.com/open?id=17xcgeb69DYPjgsspogptRFNEwTYtEKc4,Eclipta alba,Asteraceae,"Kayanthakarra,kaikeshi","Jala Bhangara,Tekaraja","Bhangra,Bhangaraiya",False Daisy,"HABITAT
+","anti-inflammatory, antioxidant, antimicrobial, antidiarrheal, and hepatoprotective effects, as well as potential anti-cancer, anti-diabetic, anti-arthritic, and cardioprotective properties. ","Madhura , Tikta","Guru , Snigdha",Sita,Madhura,Tridoshahara,"conditions including skin diseases and fever. It is also used for urinary diseases, respiratory issues like asthma and bronchitis, and to relieve chronic rheumatism. Scientific studies support its potential in treating cancers, diabetes, ulcers, diarrhea, and liver and heart conditions. "
+Bringaraja,Bringaraja,Bringaraja,Eclipta alba,Asteraceae,"Kayanthakarra,kaikeshi","Jala Bhangara,Tekaraja","Bhangra,Bhangaraiya",False Daisy,"HABITAT
 
 A common weed found throughout India, China, Thailand, and tropical regions worldwide.
 Grows abundantly in moist, damp, marshy places, near water bodies, paddy fields, and wastelands.
@@ -1226,8 +1226,8 @@ Anti-ulcer: Protects gastric mucosa.
 
 Hypoglycemic: Reduces blood sugar levels.
 
-Anti-cancer (experimental): Wedelolactone shows cytotoxic effect on certain cancer cell lines.","Katu,Tikta","Ruksha,Laghu",Ushna virya,Katu vipaka,Kapha vata
-Karpura,Karpura,https://drive.google.com/open?id=1jKAC8VFa77RZ4n5NGgwaUe3ebvUUg3LN,Cinnamomum camphora,Lauraceae,கற்பூரம்,Kapooram,Kapur,Camphor,"A large evergreen tree, native to China, Japan, and Taiwan, and also found in India. It can grow up to 20–30 meters in height with a wide-spreading crown. The leaves are glossy, green, and aromatic when crushed. Small yellowish-white flowers appear in clusters, followed by black, berry-like fruits.",Niryasa,"1. Respiratory health – Acts as a decongestant; relieves cough, cold, asthma, and sinus congestion.
+Anti-cancer (experimental): Wedelolactone shows cytotoxic effect on certain cancer cell lines.","Katu,Tikta","Ruksha,Laghu",Ushna virya,Katu vipaka,Kapha vata,"skin conditions, digestive issues, and respiratory ailments like coughs and colds.  "
+Karpura,Karpura,karpura.jpg,Cinnamomum camphora,Lauraceae,கற்பூரம்,Kapooram,Kapur,Camphor,"A large evergreen tree, native to China, Japan, and Taiwan, and also found in India. It can grow up to 20–30 meters in height with a wide-spreading crown. The leaves are glossy, green, and aromatic when crushed. Small yellowish-white flowers appear in clusters, followed by black, berry-like fruits.",Niryasa,"1. Respiratory health – Acts as a decongestant; relieves cough, cold, asthma, and sinus congestion.
 
 
 2. Pain relief – Applied externally in oils and balms to reduce muscle pain, joint stiffness, and inflammation.
@@ -1273,8 +1273,8 @@ Karpura,Karpura,https://drive.google.com/open?id=1jKAC8VFa77RZ4n5NGgwaUe3ebvUUg3
 9. Rubefacient & Counter-irritant – Causes local vasodilation and warmth when applied externally, reducing deeper pain.
 
 
-10. Antipruritic – Reduces itching and skin irritation.","Tikta,katu,madhura","Laghu ,tikshna",Shita,Katu,Pittasamaka
-Dronapuspi,Dronapuspi,https://drive.google.com/open?id=1vz6zk9tgMFSTGFXb7WEFf0jl54SqTjwd,Leucas cephalotes spreng,LAMIACEAE,தும்பை,Tumba,Guma,Common Leucas,"Annual, stout herb with hairs about 20- 50 cm high.
+10. Antipruritic – Reduces itching and skin irritation.","Tikta,katu,madhura","Laghu ,tikshna",Shita,Katu,Pittasamaka,"symptoms such as inflammation, ingestion, infection, congestion, pain, irritation"
+Dronapuspi,Dronapuspi,Dronapushpi-PuBpvtgs.jpg,Leucas cephalotes spreng,LAMIACEAE,தும்பை,Tumba,Guma,Common Leucas,"Annual, stout herb with hairs about 20- 50 cm high.
 
 Leaves—simple, entire,  ovate or ovate-lanceolate, subacute, crenate-crenate-serrate, pubescent
 
@@ -1284,8 +1284,8 @@ Fruits  nutlets, obovoid-oblong, smooth, brownish.
 
 Flowering and fruiting during August-December.","Whole plant , leaves , flowers","Visama Jvara, Jvara, Agnimandya, Kãmalã, Paksãghata, Prameha, Visaroga, Arsas,gulma,
 
-Useful in psoriasis, skin itching , cough, fever, amenorrhoea, dushta peenasa, jaundice, anorexia, dyspepsia, fever, helminthic manifestation, respiratory , skin diseases.","Jvarahara, dipäña,pachana, jwarahara, Thermogenic, laxative, expectorant, anti bacterial, anti inflammatory, Carminative, antihistaminic, antipyretic, febrifuge, antiseptic.",Katu,"Guru ,Ruksha",Usna,Katu,Kapha- vatahara
-Puga,Puga / krumuka,https://drive.google.com/open?id=1kIdoH4gFzQzqCvPWvFExEGoF_mn-STFw,Areca catechu,Arecaceae,பாக்கு,Atekka,supari,betel nut palm,"It is a tree (30 m high) bearing the leaves at the top of the main stem. It grows in the temperate and humid conditions.
+Useful in psoriasis, skin itching , cough, fever, amenorrhoea, dushta peenasa, jaundice, anorexia, dyspepsia, fever, helminthic manifestation, respiratory , skin diseases.","Jvarahara, dipäña,pachana, jwarahara, Thermogenic, laxative, expectorant, anti bacterial, anti inflammatory, Carminative, antihistaminic, antipyretic, febrifuge, antiseptic.",Katu,"Guru ,Ruksha",Usna,Katu,Kapha- vatahara,"fever, cough, cold, jaundice, and liver disorders"
+Puga,Puga,kramuka.jpg,Areca catechu,Arecaceae,பாக்கு,Atekka,supari,betel nut palm,"It is a tree (30 m high) bearing the leaves at the top of the main stem. It grows in the temperate and humid conditions.
 
 Kramuka mentioned under Sālasāradi and Śyāmādi ganas by Suśruta is considered to be Lodhra/Pattkā Lodhra but not Pūga. Pūga is otherwise extensively described in the Ayurvedic literature and Śārīgdhara quoted it as an example for Vikāsī dravya.",Fruit,"1. Krimi - In tape worm kramuka phala paste with milk is beneficial.
 2. Raktatisara - Powder with water is given in the patient with bleeding diarrhea.
@@ -1293,8 +1293,8 @@ Kramuka mentioned under Sālasāradi and Śyāmādi ganas by Suśruta is conside
 vikasi (losing the connections)
 atisarahara (anti-diarrheal)
 krimighna (anti-helminthic)
-pramehaghna (anti-diabetic)","Kashaya , Madhura","Laghu , Ruksha",Shita,Katu,Kapha - Pittahara
-Nagalingam,Nagalingam,https://drive.google.com/open?id=1x8RZC6ViSUdESIsH6NZCOiijGN2VGvW9,Couroupita guianensis ,Lecythidaceae,நாகலிங்கம்,Nagalingam,Nagalinga,Cannonball tree,"Flower Tree: Nagalinga or Cannonball tree is a very tall deciduous tree (25-35m in height).
+pramehaghna (anti-diabetic)","Kashaya , Madhura","Laghu , Ruksha",Shita,Katu,Kapha - Pittahara,"treating parasitic infections, improving digestion, and wound healing"
+Nagalingam,Nagalingam,nurserylive-kailashpati-cannon-ball-tree-plant.jpg,Couroupita guianensis ,Lecythidaceae,நாகலிங்கம்,Nagalingam,Nagalinga,Cannonball tree,"Flower Tree: Nagalinga or Cannonball tree is a very tall deciduous tree (25-35m in height).
 -  Leaves: Leaves occurring in clusters.
 -  Flowers: Large red fragrant flowers with pink and yellow shades.
 -  Fruits: Round fruits with woody shells which appear like cannon balls.
@@ -1307,8 +1307,8 @@ Nagalingam,Nagalingam,https://drive.google.com/open?id=1x8RZC6ViSUdESIsH6NZCOiij
 Krimighna (antimicrobial/anthelmintic)
 
 Shothahara (anti-inflammatory)
-","anthelmintic, antimicrobial, antioxidant, antibiotic, antifungal, antiseptic and analgesic properties.","Kashyap ,Tikta","Laghu ,Ruksha ,Tikshna",Usna ,Katu,Kapha vatahara
- Kapittha," Kapittha ,Gandha phala, Vritta phala .",https://drive.google.com/open?id=1HbHuC4tvbLpnISdUQOGgPjRcjao3ptRc,"Feronia limonia Linn., Limonia acidissima",Rutaceae,"Vilaa, Vizhaangai","Cheru kattunarakam, ","Beli, Katbhel, Kaitha", wood apple,"Fresh juice of the unripe fruit of Kapittha is given in a dose of 15-20 ml to improve the taste, treat anorexia and improve the appetite.
+","anthelmintic, antimicrobial, antioxidant, antibiotic, antifungal, antiseptic and analgesic properties.","Kashyap ,Tikta","Laghu ,Ruksha ,Tikshna",Usna ,Katu,Kapha vatahara,"medicine for conditions like inflammation, pain, skin diseases, and stomach ailments"
+ Kapittha, Kapittha,Kapittha.jpeg,"Feronia limonia Linn., Limonia acidissima",Rutaceae,"Vilaa, Vizhaangai","Cheru kattunarakam, ","Beli, Katbhel, Kaitha", wood apple,"Fresh juice of the unripe fruit of Kapittha is given in a dose of 15-20 ml to improve the taste, treat anorexia and improve the appetite.
 Fresh juice of ripened fruit or ripened fruit is consumed to treat thirst and improve the body strength.
 The paste of Feronia limonia flower is given in a dose of 5-10 g to treat rat bite poison patients.
 Regular intake of the fresh fruit of Kapittha is consumed regularly to improve the strength of cardiac muscles and cardiac output.
@@ -1335,8 +1335,8 @@ Vami – vomiting
 Shwasa – asthma and chronic respiratory disorders
 Trushna – excessive thirst
 Kasa – cough, cold
-Mutradosha – urinary tract disorders","The leaves and stem bark contain the coumarins, luvangetin, xanthotoxin and limonin and the steroids, sitosterol and sitosterol-O-beta-D-glucoside.","Madurai,amla ,","Guru,snidgha",Sheeta ,Madurai ,Vatapitta shamaka (reduces vitiated vata and pitta dosha
-Bhumyamalaki,Bhumyamalaki,https://drive.google.com/open?id=1syL0LE9WnBGwMl6s3n5_ccSQe4lxLngI,"Phyllanthus niruri Linn., Phyllanthus amarus",Euphorbiaceae,Kilaneli,"Kizharnelli, kizhukanelli","Jangli amlai, Bhui amla","Gale of wind, Stonebreaker","The paste of the leaf of Bhumyamlaki is applied over the skin to treat skin infection.
+Mutradosha – urinary tract disorders","The leaves and stem bark contain the coumarins, luvangetin, xanthotoxin and limonin and the steroids, sitosterol and sitosterol-O-beta-D-glucoside.","Madurai,amla ,","Guru,snidgha",Sheeta ,Madurai ,Vatapitta shamaka (reduces vitiated vata and pitta dosha,"treating diarrhea, dysentery, and indigestion; acting as a cardiac tonic;"
+Bhumyamalaki,Bhumyamalaki,Bumiamalaki.jpeg,"Phyllanthus niruri Linn., Phyllanthus amarus",Euphorbiaceae,Kilaneli,"Kizharnelli, kizhukanelli","Jangli amlai, Bhui amla","Gale of wind, Stonebreaker","The paste of the leaf of Bhumyamlaki is applied over the skin to treat skin infection.
 The paste of the whole plant of Phyllanthus niruri is applied with rock salt over the area affected with pain, swelling in cases of fracture.
 The root of the plant is made into paste after rubbing with lime juice or rice gruel and applied as collyrium to treat diseases of the eye like conjunctivitis, blepharitis.
 The fresh juice of the leaf of Bhumyamlaki is given in a dose of 15- 20 ml in empty stomach in the morning to treat indigestion, hyperacidity and jaundice.
@@ -1358,8 +1358,8 @@ Carminative, Febrifugal
 Analgesic, Tonic
 Vermifugal
 Hypoglycemic, Emmenagogue
-Laxati","Tikta (Bitter), Kashaya (Astringent), Madhura (Sweet)","Laghu (Light for digestion), Ruksha (Dry in nature",Sheeta,Madhura,Kaphapitta shamaka (reduces vitiated kapha and pitta dosha).
-Nimba,Nimba,https://drive.google.com/open?id=1gzSkufpi4qtsYivcVEeew_5i07DaSG_y,Azadirachta indica,Meliaceae,Vepillai  maram/  Veppu maram,Veppumaram/ Ariyaveppu,Neem,"Margosa tree , Neem tree","Vagbhatta suggested Nimba taila in Nasya form in the treatment of Khalitya(Alopecia), Paalitya(Grey hair), etc.
+Laxati","Tikta (Bitter), Kashaya (Astringent), Madhura (Sweet)","Laghu (Light for digestion), Ruksha (Dry in nature",Sheeta,Madhura,Kaphapitta shamaka (reduces vitiated kapha and pitta dosha).,"treat liver conditions, jaundice, and urinary problems, including kidney stones. "
+Nimba,Nimba,9369d1cf302092b1ea4313a4b077ab72.jpg,Azadirachta indica,Meliaceae,வேப்பமரம் ,Veppumaram/ Ariyaveppu,Neem,"Margosa tree , Neem tree","Vagbhatta suggested Nimba taila in Nasya form in the treatment of Khalitya(Alopecia), Paalitya(Grey hair), etc.
 Sushruta described it in the preparation of netrajanana.
 Nimba pushpa is used in Nasya karmas and leafy juice is indicated in the worm infection, jaundice and skin diseases.
 
@@ -1395,8 +1395,8 @@ Flowers - Azadiradione, margosene, linoleic acid, arachidic acid etc. ","Flowers
 15.Pitta – Kaphahara – Balances Pitta and Kapha.
 16.Chardi – hrillasa hara – Helps to relieve nausea and vomiting
 17.Kushtahara – Useful in numerous skin diseases
-18.Mehanut – Useful in diabetes and disorders related to urinary tract.","Deepana, Pitta Kaphahara, Vrana, Chardi, Hrillasa, Aruchi, Trishna, Shrama, Gulma, Arshas","Tikta, Kashaya ","Laghu, Rooksha",Sheeta,Katu,Pitta Kaphahara 
-Vasa,Vasa,https://drive.google.com/open?id=1HvcJHnYKLz99x2a_XQVPh_WS-tR5608m,Adhathoda vasica Nees.,Acanthaceae,"Eidhadad, Adathodai",Adolakam,"Adosa, Arusha, Rus, Bansa, Adusa",Malabar Nut,"External – External application of leaf paste relieves pain and edema. Paste is indicated in Arthritic pain, skin disorders etc. Its Oil is beneficial in Epilepsy, Tremor etc. Leaf juice is indicated in worm infestation
+18.Mehanut – Useful in diabetes and disorders related to urinary tract.","Deepana, Pitta Kaphahara, Vrana, Chardi, Hrillasa, Aruchi, Trishna, Shrama, Gulma, Arshas","Tikta, Kashaya ","Laghu, Rooksha",Sheeta,Katu,Pitta Kaphahara ,"treating skin conditions like acne and psoriasis, reducing dental plaque and gingivitis, repelling insects and mosquitos, and possessing anti-inflammatory, antifungal, and antimicrobial properties"
+Vasa,Vasa,Vasa.jpeg,Adhathoda vasica Nees.,Acanthaceae,ஆடாதோடை ,Adolakam,"Adosa, Arusha, Rus, Bansa, Adusa",Malabar Nut,"External – External application of leaf paste relieves pain and edema. Paste is indicated in Arthritic pain, skin disorders etc. Its Oil is beneficial in Epilepsy, Tremor etc. Leaf juice is indicated in worm infestation
 
 Digestive System – Absorbent, Indicated in bloody diarrhea
 
@@ -1432,8 +1432,8 @@ Kaamala – useful in jaundice and liver disorders.
 Of all the herbs useful in bleeding disorders, Vasa is the best.
 Its leaves are made into paste and applied to relieve inflammation, pain,  rheumatoid arthritis, worm infested wounds and skin  disorders.
 It acts as diuretic.","Vasicine (peganine), Vasicinine, B- Sitosterol, Kaempferol, 3- Sophoroside, Luteolin, Tritriacontane, Adhatodic acid, Carotene, Vasakin, Vasicinol 1= q- Hydroxyvasicinine, Vasicinone, Vit –C, vasicol. Vasicinol, Vaicinolone, Adhatodine, Adhavasinone, Anisotine, Vasicolone, Vasicolinone etc.
-(Reference: Illustrated Dravyaguna Vijnana, Vol. II, by Dr JLN Shastry)","Tikta (bitter), Kashaya (astringent)","Laghu (light), Rooksha (dryness)",Sheeta,Katu,Balances Kapha and Pitta
-Kakamachi,Kakamachi ,https://drive.google.com/open?id=16yGSOxbiUgiZPBtQJ7uYTk8fiVC1Fu-g,Solanum nigrum,Solanaceae,"Manattakkali, Thenna takali pullum, Milagetakkali","Manithakkal, Kasumuthi, Karim thakkali","Makoi, Gurakani","Black nightshade, Common nightshade, Hound’s berry, Garden","Rasayani – anti aging, causes cell and tissue rejuvenation
+(Reference: Illustrated Dravyaguna Vijnana, Vol. II, by Dr JLN Shastry)","Tikta (bitter), Kashaya (astringent)","Laghu (light), Rooksha (dryness)",Sheeta,Katu,Balances Kapha and Pitta,"treating respiratory ailments like cough, asthma, and bronchitis due to its bronchodilator and expectorant properties"
+Kakamachi,Kakamachi ,Kakamachi.jpg,Solanum nigrum,Solanaceae,"Manattakkali, Thenna takali pullum, Milagetakkali","Manithakkal, Kasumuthi, Karim thakkali","Makoi, Gurakani","Black nightshade, Common nightshade, Hound’s berry, Garden","Rasayani – anti aging, causes cell and tissue rejuvenation
 Hrudya – acts as cardiac tonic, congenial for heart
 Vrushya – aphrodisiac, improves vigor
 Sara – induces mobility, causes diarrhea, purgation, relieves constipation
@@ -1468,8 +1468,8 @@ Cold infusion of the fruits and leaf of Kakamachi is given in a dose of 30-40 ml
 The juice of the plant Solanum nigrum is given as an antidote to opium poisoning and also to treat rat bite cases.
 Gargling of the decoction of the plant is done to treat diseases of the oral cavity like ulcer, gingivitis etc.
 The fresh juice of the leaf is slightly heated and used as ear drops to control ear ache","Chemical constituents of Solanum nigrum:
-The berries contain steroidal alkaloid glycosides, solasonine, alpha- and beta-solanigrine, alpha-and beta- solamargine; steroidal sapogenins, diosgenin and tigogenin; solasodine and solasodine. Solamargine and solasonine are also present in leaves. Leaves contain highest tigogenin content (0.5%), dry fruits contain chlorogenic (0.06%), cafeic (0.02), traces of neochlorogenic & isochlorogenic acids and caffeoylglucose (0.01%).",Tikta (Bitter),"Laghu (Light), Snigdha (Slimy)",Sheeta ,Katu,Tridoshagna (reduces all the three dosha)
-Madayantika,Madayantika,https://drive.google.com/open?id=1VAb7Bj5rA3YTz9MIlIVUETejkEg2es9o,Lawsonia inermis Linn.,Lythraceae,Aivanam,Mailanchi,Mehandi," Henna, Mignonette tree","Kapha Pitta hara (reduces vitiated kapha and pitta dosha) , Kandughna (reduces itching sensation)
+The berries contain steroidal alkaloid glycosides, solasonine, alpha- and beta-solanigrine, alpha-and beta- solamargine; steroidal sapogenins, diosgenin and tigogenin; solasodine and solasodine. Solamargine and solasonine are also present in leaves. Leaves contain highest tigogenin content (0.5%), dry fruits contain chlorogenic (0.06%), cafeic (0.02), traces of neochlorogenic & isochlorogenic acids and caffeoylglucose (0.01%).",Tikta (Bitter),"Laghu (Light), Snigdha (Slimy)",Sheeta ,Katu,Tridoshagna (reduces all the three dosha),"liver disorders, inflammation, skin ailments, gastrointestinal problems like ulcers and diarrhea, fevers, and respiratory issues like cough and asthma"
+Madayantika,Madayantika,Madayantika.jpeg,Lawsonia inermis Linn.,Lythraceae,Aivanam,Mailanchi,Mehandi," Henna, Mignonette tree","Kapha Pitta hara (reduces vitiated kapha and pitta dosha) , Kandughna (reduces itching sensation)
 Pharmacological action – Diuretic, Emetic, Expectorant, Styptic, Haematenic, Liver tonic.
 
 Indications and usage as per Ayurveda:
@@ -1500,8 +1500,8 @@ The cold infusion of the flowers is given in a dose of about 50-60 ml to treat f
 The paste of the leaves of Lawsonia inermis is applied locally to treat skin diseases and gonorrhea.
 Decoction from the bark of the plant is administered in patients suffering from jaundice and enlarged liver, in a dose of 50-60 ml in a divided dose.
 The paste of the leaves is used for cosmetics- to color the hair, as a coloring agent to paint the hands and legs.
-Henna has been used since antiquity to dye skin, hair and fingernails, as well as fabrics including silk, wool and leather.","The leaves of the plant Lawsonia inermis contain lawsone, coumarins, flavonoids, luteolin and its 7-O-glucoside, beta sitosterol- 3-O-glucoside. Tannin is found in all parts of the plant. The plant also contains gallic acid, glucose, mannitol and mucilage","Tikta (Bitter), Kashaya (Astringent)","Laghu (Light to digest), Ruksha (Dryness)",Sheeta,Katu,"Kapha Pitta hara (reduces vitiated kapha and pitta dosha) , Kandughna (reduces itching sensation) Pharmacological action – Diuretic, Emetic, Expectorant, Styptic, Haematenic, Liver tonic"
-Musali,Musali,https://drive.google.com/open?id=1RKxpW-qdsnKeu8ZulRaiXUXSSTS3c_su,Asparagus adscendens  Roxb.,Liliaceae,Tannir bittang,Nilappana,"Safed musali, Safed Musli",White musali,"Guru – heavy to digest
+Henna has been used since antiquity to dye skin, hair and fingernails, as well as fabrics including silk, wool and leather.","The leaves of the plant Lawsonia inermis contain lawsone, coumarins, flavonoids, luteolin and its 7-O-glucoside, beta sitosterol- 3-O-glucoside. Tannin is found in all parts of the plant. The plant also contains gallic acid, glucose, mannitol and mucilage","Tikta (Bitter), Kashaya (Astringent)","Laghu (Light to digest), Ruksha (Dryness)",Sheeta,Katu,"Kapha Pitta hara (reduces vitiated kapha and pitta dosha) , Kandughna (reduces itching sensation) Pharmacological action – Diuretic, Emetic, Expectorant, Styptic, Haematenic, Liver tonic","skin diseases, ulcers, fever, and bleeding disorders"
+Musali,Musali,Musali.jpeg,Asparagus adscendens  Roxb.,Liliaceae,தண்ணீர் விட்டான் கிழங்கு ,Nilappana,"Safed musali, Safed Musli",White musali,"Guru – heavy to digest
 Vrushya – aphrodisiac, improves vigor
 Rasayani – anti aging, causes cell and tissue rejuvenation
 Brumhana – nourishing, nutritious
@@ -1535,8 +1535,8 @@ Mukhakanthi is a cosmetic to brighten the complexion of the face. Musali is prep
 Freckles – The root of Musali pounded with goat’s milk and mixed with honey is applied on the face
 As aphrodisiac – Powder of Musli root combined with Guduchi satva, Kapikacchu, Goksura, Salmali and Amalaki and suspended in milk added with Ghee should be taken. It arouses sex urges.","The root yields asparagin. Sapogenins A and B, isolated from the root, were identi?ed as stigmasterol and sarsasapogenin.
 
-Adverse effect","Madhura (Sweet), Tikta (Bitter)","Guru (Heavy for digestion), Snigdha (Slimy)",Sheeta,Madhura,"Vatapitta shamaka (reduces vitiated vata and pitta dosha), Kaphavardaka (increase kapha dosha)"
-AsthiShrunkala,Asthi Shrunkala,https://drive.google.com/open?id=1Zjo_VsefkL5EEVCKJzWuVp8ntcAy8kba, Cissus quadrangularis,Vitaceae,"Pindai, Perandai, Piranda",Changalam,"Hadjod, hadjora","Edible stemmed vine,  veldt grape, devil’s backbone, adamant creeper","contains a rich source of carotenoids, triterpenoids and ascorbic acid. Compounds that act as receptor antagonists of glucocorticoids have reduced the healing time of broken bones 30 to 50 percent in clinical trials. It has also been used to treat obesity and associated oxidative stress.
+Adverse effect","Madhura (Sweet), Tikta (Bitter)","Guru (Heavy for digestion), Snigdha (Slimy)",Sheeta,Madhura,"Vatapitta shamaka (reduces vitiated vata and pitta dosha), Kaphavardaka (increase kapha dosha)","conditions like general debility, diarrhea, diabetes, and male infertility"
+AsthiShrunkala,Asthi Shrunkala,Asthisrunkal.jpeg, Cissus quadrangularis,Vitaceae,பிரண்டை ,Changalam,"Hadjod, hadjora","Edible stemmed vine,  veldt grape, devil’s backbone, adamant creeper","contains a rich source of carotenoids, triterpenoids and ascorbic acid. Compounds that act as receptor antagonists of glucocorticoids have reduced the healing time of broken bones 30 to 50 percent in clinical trials. It has also been used to treat obesity and associated oxidative stress.
 Reference: Chopra SS, Patel MR, Awadhiya RP. (1976) “Studies of Cissus quadrangularis in experimental fracture repair: a histopathological study”; Indian Journal of Medical Researches 64(9): 1365-1368.
 
 2. Its bactericidal effects on Helicobacter pylori hold promise as an effective treatment of gastric ulcers and preventive in stomach cancer in conjunction with anti inflammatory therapy.
@@ -1568,8 +1568,8 @@ In Siddha system of medicine, it is used for healing bone fractures, piles, as a
 
 Anti helminthic, blood-purifier, carminative and stomachic.
 Its dry powder is snuffed in epistaxis.","Carotenoids, Triterpenoids, traxerol, sitosterol and ascorbic acid.
-The plant extract serves as a rich source of calcium ions.",Madhura – sweet ,"Laghu – light to digest, Rooksha – dryness",Ushna,Katu,"Effect on Tridosha – Balances Vata and Kapha Dosha Action – Bhagna sandhanakara, Arsoghna, Krimighna, Vrishya, Balya  It enhances the quantity of bowel, appetizer, good for patients of hemorrhoids, gulma (gaseous tumors) and indigestion"
-Shankhapushpi,Shankhapushpi,https://drive.google.com/open?id=14u_FFO3ec76sD3YojRfn5lukL9L6DK_M,Convolvulus pluricaulis Chois (Convolvulus microphyllus Sied. Ex. Spring),Convolvulaceae,Sanghapoo,Sankhupushpam or Sangu pushpam," Sankhahul, Shankhahuli",speed wheel,"Medhya – Paste of Shankhapushpi improves memory and intelligence
+The plant extract serves as a rich source of calcium ions.",Madhura – sweet ,"Laghu – light to digest, Rooksha – dryness",Ushna,Katu,"Effect on Tridosha – Balances Vata and Kapha Dosha Action – Bhagna sandhanakara, Arsoghna, Krimighna, Vrishya, Balya  It enhances the quantity of bowel, appetizer, good for patients of hemorrhoids, gulma (gaseous tumors) and indigestion","for obesity, fractures, joint pain, low bone mass, and many other conditions,"
+Shankhapushpi,Shankhapushpi,ShankaPusphi.jpeg,Convolvulus pluricaulis Chois (Convolvulus microphyllus Sied. Ex. Spring),Convolvulaceae,சங்கு பூ ,Sankhupushpam or Sangu pushpam," Sankhahul, Shankhahuli",speed wheel,"Medhya – Paste of Shankhapushpi improves memory and intelligence
 Rasayanam – anti aging, improves life expectancy, longevity
 Kasajit – useful in cough, cold
 Visha – useful in toxic conditions, natural detoxification
@@ -1616,8 +1616,8 @@ Moderately useful in – wound healing, cold, cough, asthma, to improve digestio
 Somewhat useful – to improve sleep, voice, speech and to treat epilepsy, fever, vomiting","hexacosanol, Hydroxy Cinnamic acid,  etc.
 (Reference: Illustrated Dravyaguna VIjnana, Vol. II, by Dr JLN Shastry)
 
-Substitute",Tikta (bitter),"Snigdha (unctuous, oily), Picchila (sticky)",Sheeta,Madura,Balances Pitta and Kapha.
-Saireyaka,Saireyaka/ sahachara ,https://drive.google.com/open?id=1q-YZxt2POaaCDUBYEKor_goF7naiEK-p,Barleria prionitis Linn,Acanthaceae,Shemmuli,Chemmulli,Katsareya,"Yellow nail-dye plant, Hop headed barleria","Erysipelas : In erysipelas caused by kapha, the paste of khadira, saptaparna, musta, aragvadha, dhava, kurantaka and devadaru should be applied. ( C.S, ci, 21/88 )
+Substitute",Tikta (bitter),"Snigdha (unctuous, oily), Picchila (sticky)",Sheeta,Madura,Balances Pitta and Kapha.,"used as a brain tonic, improving memory and intellect, while also calming the nervous system to treat stress, insomnia, and anxiety"
+Saireyaka,sahachara ,Sahachara.jpeg,Barleria prionitis Linn,Acanthaceae,Shemmuli,Chemmulli,Katsareya,"Yellow nail-dye plant, Hop headed barleria","Erysipelas : In erysipelas caused by kapha, the paste of khadira, saptaparna, musta, aragvadha, dhava, kurantaka and devadaru should be applied. ( C.S, ci, 21/88 )
 Calculas : Saireyaka is one of the ingredients of kusadya ghrta ( A.H.ci, 11/23 )
 
 Eye diseases : In pterygium, after operation, the eye should be sprinkled with haridra, daruharidra, lodhra, pattola, madhuyasti, palasa and flower buds of saireyaka mixed with honey ( A.H. v, 11/22)
@@ -1669,8 +1669,8 @@ The juice of the leaves is slightly bitter and acid. It is generally administere
 
 A paste of the root is applied to boils and glandular swellings.
 
-","The plant is reported to be rich in potassium. With the exception of the large amount of a neutral and acid resin soluble in light petroleum ether, nothing of special interest was detected; there was no trace of any alkaloidal principle. Scutellar -7- rhamnosyl glucoside was isolated from flowers. Structures of iridoids-barlerin and acetyl barlerin were isolated from leaves and stems","Tikta (Bitter), Madhura (Sweet)",Laghu (Light for digestion),Ushna,Katu,Karma (Actions) – Kaphavata shamaka (reduces vitiated kapha and vata dosha)
-GandhaPrasarini,Gandha Prasarini,https://drive.google.com/open?id=1WwzTIcAXtzKXVGk7eeCUE1Y6fHtMyRUg,Paederia foetida Auct. Non Linn. [P.scandens(Lour) merr; Paederia,Rubiaceae,Pinarisangai,Tala Nili or Lepcha,Gandhaprasarani or Pasaran,Stink vine and Chinese fever vine,"Arthritis
+","The plant is reported to be rich in potassium. With the exception of the large amount of a neutral and acid resin soluble in light petroleum ether, nothing of special interest was detected; there was no trace of any alkaloidal principle. Scutellar -7- rhamnosyl glucoside was isolated from flowers. Structures of iridoids-barlerin and acetyl barlerin were isolated from leaves and stems","Tikta (Bitter), Madhura (Sweet)",Laghu (Light for digestion),Ushna,Katu,Karma (Actions) – Kaphavata shamaka (reduces vitiated kapha and vata dosha),"treating toothaches, skin issues like boils and eczema, fevers, inflammation, kidney stones, and liver problems"
+GandhaPrasarini,Gandha Prasarini,GandhaParasarini.jpeg,Paederia foetida Auct. Non Linn. [P.scandens(Lour) merr; Paederia,Rubiaceae,Pinarisangai,Tala Nili or Lepcha,Gandhaprasarani or Pasaran,Stink vine and Chinese fever vine,"Arthritis
 Fine paste of the whole plant in arthritis and inflammatory conditions:
 The leaves are taken and fine paste is made. As per the need little tamarind leaves can also be mixed. This paste is applied over joints and it effectively pacifies the swelling and pain caused in arthritis.
 
@@ -1716,8 +1716,8 @@ Sesame oil is taken in 4 parts.
 The mixture is cooked till complete evaporation of the moisture.
 This is used externally in the conditions of neuralgia, muscular pain, joint pains etc.
 General method of preparation of decoction (kashaya) – 1 tablespoon of powder is added with 2 cups of water, boiled and reduced to 1 cup, filtered. ","Asperuloside,  Padedersoidic acid, paederoside, scandoside – iridous Glycosides; Valine, Tyrosine, Histidine, Carotene, Vit. Cursolic acid; Epifridelinol  etc.
-(Reference: Illustrated Dravyaguna Vijnana, Vol. II, by Dr JLN Shastry)",Tikta,"Guru, Sara",Ushna ,Katu ,"Effect on Tridosha – Because of its hot property, it decreases Kapha and Vata. Pharmacological action – Antidysenteric, Anti microbial, Antitussive, Anti oxidant"
-Usira,Usira,https://drive.google.com/open?id=1WAEMqqfmFb59y6M27JsjvRa02D79RSrQ,Vetiveria zizanioides,Cramineae,Vettiver,Ramachan,Khas,Khus khus grass,"Usira commonly known as khus khus grass is an ayurvedic herb which is a densely tufted perennial grass with spongy aromatic roots.
+(Reference: Illustrated Dravyaguna Vijnana, Vol. II, by Dr JLN Shastry)",Tikta,"Guru, Sara",Ushna ,Katu ,"Effect on Tridosha – Because of its hot property, it decreases Kapha and Vata. Pharmacological action – Antidysenteric, Anti microbial, Antitussive, Anti oxidant","including stomach pain, diarrhea, dysentery, skin disorders, and bone fractures"
+Usira,Usira,Usira.jpg,Vetiveria zizanioides,Cramineae,வெட்டிவேர் ,Ramachan,Khas,Khus khus grass,"Usira commonly known as khus khus grass is an ayurvedic herb which is a densely tufted perennial grass with spongy aromatic roots.
 Also known as ""Naladham"" due to its pleasant aroma.Ayurveda has mentioned this herb from the ancient times in various ailments as well as using in religious ceremonies.
 
 ",Root,"Anti - Pyretic - It is one of the ingredients in Shadanga paniyam treating fever.
@@ -1744,8 +1744,8 @@ The extracts and fractions are found to be effective against Mycobacterium tuber
 
 The ethanolic extract and hexane fraction have potent anti-mycobacterial activities.
 
-The root also found to be have excellent anti-oxidant activity.","Tikta,madhura","Ruksha,laghu",Sheeta,Katu,"Vata Pitta Shamaka,Kapha Pitta shamaka"
-Nirgundi,Nirgundi,https://drive.google.com/open?id=1_-jFZ9xQjhIkRMlf8mP71X5XK0IU8y-3,Vitex trifolia,Lamiaceae,Neer nochi,Karunochi,Sambhalu,Simple-leaf chaste tree,"Neer Nochi has significant medicinal properties,with its various parts used in traditional medicines for treating a range of ailments,including headaches,skin conditions,joint pain and is also used as a natural insect repellant.
+The root also found to be have excellent anti-oxidant activity.","Tikta,madhura","Ruksha,laghu",Sheeta,Katu,"Vata Pitta Shamaka,Kapha Pitta shamaka","fever, dysuria, burning sensation, fatigue syndrome, skin disorders"
+Nirgundi,Nirgundi,Nirgundi.jpg,Vitex trifolia,Lamiaceae,நீர் நொச்சி ,Karunochi,Sambhalu,Simple-leaf chaste tree,"Neer Nochi has significant medicinal properties,with its various parts used in traditional medicines for treating a range of ailments,including headaches,skin conditions,joint pain and is also used as a natural insect repellant.
 Specifically grows along the banks of rivers,such as the thambiraparani river and in other moist environments and wastelands.
 Vitex trifolia is a coastal shrub or small tree.
    Leaves - Trifoliate leaves 
@@ -1768,8 +1768,8 @@ Terpenoids that help balance hormone levels and regulating Menstrual cycle.
 
 Carminative properties that aid the digestive process,stimulate appetite,etc.
 
-Anti-microbial amd anti-inflammatory properties aid in the healing of wounds and various skin conditions like eczema amd ringworm.","Katu,Tikta","Laghu,Ruksha",Ushna,Katu,Vata kapha hara
-Kumari,Kumari,https://drive.google.com/open?id=1MITRV0XhalXyhkW6YUTT8O4pqNVnJ2Wc,Aloe vera,Liliaceae,"Sotru kattraazhai,kumari",Kattarvazha,"Ghikumari,Ghikumar","Indian Aloe,Barbados Aloe,Jaffarabad Aloe","
+Anti-microbial amd anti-inflammatory properties aid in the healing of wounds and various skin conditions like eczema amd ringworm.","Katu,Tikta","Laghu,Ruksha",Ushna,Katu,Vata kapha hara,"treatment for inflammation, fever, headaches, and skin conditions like eczema and ringworm"
+Kumari,Kumari,Kumari.jpg,Aloe vera,Liliaceae,கற்றாழை ,Kattarvazha,"Ghikumari,Ghikumar","Indian Aloe,Barbados Aloe,Jaffarabad Aloe","
 It is one of the ayurveda medicinal plants widely using worldwide as hairtonic more than 50 species of plants are present in this genus.The extract kumari sara in English it called Elio,used for helminthiasis ,local application of painful swellings,chronic ulcer and ophthalmia.
 It is a perennial plant with a short stem.
   Leaves- 30-60cm long,erect,crowded in a basal rosette,juicy,glaucous-green,narrow lanceolate,margins with spiny teeth.
@@ -1800,8 +1800,8 @@ Aloe gel can inhibit bradykinin,a pain producing agent
 C-glycosyl chromone appears to reduce topical inflammation
 
 Aloe gel also shows or inhibits the synthesis of thromboxane,which may accelarate the healing of burns.
-",Tikta ,"Guru,Snigdha,Pichila",Sheeta,Katu,Vata shamana
-Karaveera,Karaveera,https://drive.google.com/open?id=1w3cIndLAS2fOZa_vkhqs3wx7DbmXRhbh,Nerium indicum Mill,Apocynaceae,"Arali,Alari,Aatrulari","Arali,kanaviram,karaviram","Kaner,karber,karu vira",Indian oleander,Karaveera is used for brushing the teeth.Karaveera flowers are described in Mahaabhya..Charaka advocated karaveera for Snana(bathing) and Pana(internal adminstration).Susrutha indicated Karaveera Kshara in Asmari treatment.,"Roots,Bark of the root","It cures Skin disorders ,cleanses and heals wounds and reduces swelling.
+",Tikta ,"Guru,Snigdha,Pichila",Sheeta,Katu,Vata shamana,"to heal skin injuries like burns and wounds, soothe conditions such as psoriasis and acne, and to aid digestive issues like constipation"
+Karaveera,Karaveera,Karaveera.jpg ,Nerium indicum Mill,Apocynaceae,அரளி ,"Arali,kanaviram,karaviram","Kaner,karber,karu vira",Indian oleander,Karaveera is used for brushing the teeth.Karaveera flowers are described in Mahaabhya..Charaka advocated karaveera for Snana(bathing) and Pana(internal adminstration).Susrutha indicated Karaveera Kshara in Asmari treatment.,"Roots,Bark of the root","It cures Skin disorders ,cleanses and heals wounds and reduces swelling.
 The application of root paste is helpful in skin disorders,cancer,ulcers and ringworm infection.
 Leaf juice is put in the eyes in eye disorder.
 
@@ -1820,8 +1820,8 @@ Diuretic
 Anti-inflammatory
 Anti-fungal
 Insecticidal
-Toxic","Katu,Tikta","Laghu,Ruksha",Ushna,Katu,Kapha Vatahara
-VanyaGhrutakumari,Vanya Ghrutakumari,https://drive.google.com/open?id=1hXBF4uxj4hO8cMkfpEcAcaw7SSluy6NZ,Aloe barbadensis miller,Asphodelaceae,Sotru kathalai,Kattarvazha,Ghikumar,"Lily of the desert,Burn plant, First aid plant","It is a succulent herb with fleshy,grey- green leaves arranged in a rosette
+Toxic","Katu,Tikta","Laghu,Ruksha",Ushna,Katu,Kapha Vatahara,"conditions like snake bites, ulcers, cardiac diseases, asthma, renal and vesical calculi,"
+VanyaGhrutakumari,Vanya Ghrutakumari,VanyaGhrutakumari.jpg,Aloe barbadensis miller,Asphodelaceae,சோற்று கற்றாழை ,Kattarvazha,Ghikumar,"Lily of the desert,Burn plant, First aid plant","It is a succulent herb with fleshy,grey- green leaves arranged in a rosette
 at the base of a short stem.The leaves often show white spots on their surfaces.It produces tall,branched stalks with yellow,tube - like flowers in spring and summer season.
 It is native to arid regions of Africa and the Arabian Peninsula and is adapted to dry conditions with specialized water-storing tissues in its leaves.","Aloe Vera Gel,Aloe vera Latex(yellow latex) ","
 Blood Sugar regulation - Enhance the body's response to insulin,making it more effective at lowering blood glucose.
@@ -1839,8 +1839,8 @@ Anti-microbial - It possesses anti- bacterial and anti-septic properties that ca
 
 Purgative /Laxative - Partly attributed to its Anthraquinone content.
 
-Anti-oxidants - Vitamins A,C,E along with phenolic compounds neutralize harmful free radicals and protect against oxidative damage,contributing to its overall health promoting effects.",Tikta,"Guru,Snigdha,Pichila",Sheeta,Katu,"Tridoshahara,Rasayana,Bhedana,Chaksushya"
-Dadima,Dadima,https://drive.google.com/open?id=1sZa2NgRGAxqaf5-fu1ezZg6Qg3kpQJPT,Punica granatum Linn,Punicaceae,மாதுளை,"Matalam,urumampalam","Anar,dhalim",Pomegranate ,"Morphology :
+Anti-oxidants - Vitamins A,C,E along with phenolic compounds neutralize harmful free radicals and protect against oxidative damage,contributing to its overall health promoting effects.",Tikta,"Guru,Snigdha,Pichila",Sheeta,Katu,"Tridoshahara,Rasayana,Bhedana,Chaksushya","used to treat skin injuries (burns, cuts, insect bites, and eczemas) and digestive problems"
+Dadima,Dadima,Dadima.jpg,Punica granatum Linn,Punicaceae,மாதுளை,"Matalam,urumampalam","Anar,dhalim",Pomegranate ,"Morphology :
 
 It is shrub or small tree about 5- 8 m. height, deciduous, glabrous, often with spinescent bracelets.
 
@@ -1876,4 +1876,728 @@ Due to its astringent nature the decoction of the bark is used in throat disorde
 
 * Reproductive system : As it promotes semen, it is used in seminal debility. The decoction of fruit rind is used for uttarbasti in vaginal discharges.","1.Arsas- Ghee prepared with Dadima svarasa and Yavakara will check bleeding and pain (C.S.Ci.’4)
 
-2. Puyameha - fruit rind of Dadima is made as infusion and administration  with sugar orally .","Kasäya, Madhura, Amla","Laghu, Snigdha",Usna,Madhura/Amla,"Tridoshahara, kapha - vata shamana due to it's hot potency and pitta shamana due to Madhura and kashaya rasa."
+2. Puyameha - fruit rind of Dadima is made as infusion and administration  with sugar orally .","Kasäya, Madhura, Amla","Laghu, Snigdha",Usna,Madhura/Amla,"Tridoshahara, kapha - vata shamana due to it's hot potency and pitta shamana due to Madhura and kashaya rasa.","treat a range of ailments, such as cardiovascular disorders, gastrointestinal issues like diarrhea, infections, and diabetes"
+Salaparni,Salaparni,Salaparni,Desmodium gangetium,Fabaceae,Pullati,Pullati,Sarivan,Sal leaved bush/ Sal leaved desmodium ,"
+Morphology
+Habit- Undershrub grows 60 to 120 cm height. Stem- Irregularly angled, glabrescent.
+
+Branches- Angled, clothed with white hairs.
+
+Leaves- Unifoliate, Petioles 1 to 2 cm long. linear-subulate. Leaflets membranous, ovate-oblong, acute or slightly acuminate, margin is wavy reticulate veined, base is rounded
+
+Inflorescence- Terminal and Axillary racemes
+
+Flowers- Violet or white coloured, filiform, pubescent, bracts subulate, hairy, teeth triangular
+
+Fruit-Pod, indehiscent, sparsely clothed with minute hooked hairs.
+
+","Useful part-Root, Whole plant","Āmayika Prayoga (Classical Indications)
+
+1. Jvara (Fever)
+
+Decoction of root used in all types of fevers.
+
+Part of Daśamūla kaṣāya for jvarahara effect.
+
+2. Śvāsa, Kāsa (Asthma, Cough, Respiratory disorders)
+
+Root decoction relieves breathlessness, cough with expectoration.
+
+Balances Vāta and Kapha.
+
+3. Arśas (Piles)
+
+Decoction/paste of root reduces pain and swelling.
+
+4. Śotha (Inflammation, Edema)
+
+Decoction useful in inflammatory conditions.
+
+5. Prameha (Urinary disorders/Diabetes)
+
+Decoction given to regulate urine and as anti-pramehaghna.
+
+6. Hṛdroga (Cardiac debility)
+
+Acts as Hṛdya, strengthens heart muscles.
+
+7. Raktapitta (Bleeding disorders)
+
+Paste/decoction helps in controlling bleeding tendencies.
+
+8. Balya & Rasāyana
+
+Strength promoting, indicated in post-fever weakness, debility.
+
+9. Bhagna (Fracture healing)
+
+Root paste applied externally or internally promotes bone healing.
+
+10. Grahani / Atisāra (IBS, Diarrhea, Dysentery)
+
+Modern Benefits of Śālaparṇī
+
+1. Anti-inflammatory & Analgesic
+
+Reduces swelling and pain, useful in arthritis and joint disorders.
+
+2. Antipyretic
+
+Proven to reduce fever (supports classical jvarahara property).
+
+3. Respiratory Health
+
+Expectorant, bronchodilator → effective in asthma, bronchitis, chronic cough.
+
+4. Immunomodulatory
+
+Enhances immunity and helps in recurrent infections.
+
+5. Antioxidant
+
+Protects against oxidative stress, delays aging.
+
+6. Antidiabetic
+
+Improves glucose metabolism, reduces blood sugar.
+
+7. Cardioprotective
+
+Strengthens myocardium, regulates blood pressure, improves cardiac output.
+
+8. Neuroprotective
+
+Improves nerve strength, reduces stress-induced damage.
+
+9. Diuretic
+
+Useful in edema, hypertension, urinary disorders.
+
+10. Anti-microbial
+
+Active against bacterial and parasitic infections.","Nervous system – Strengthens the nervous system, pacifies vata dosha.
+Digestive system – Carminative, Unctuous, Absorbent Anti helminthic. Indicated in vomiting, diarrhea, Helminthiasis, hemorrhoids etc.
+Circulatory System – Indicated in edema, acts as a cardiac tonic. Ksheerapaka of Salaparni is indicated in Hridsula
+Respiratory system – Expel out vitiated kapha dosha, indicated in emaciation, TB etc.
+Reproductive system – Aphrodisiac. indicated in oligospermia
+Excretory system – Indicated in dysuria, diabetes etc. increases urine production
+Satmikarana – Indicated in general weakness, TB, emaciation etc.
+Tapakrama – Antipyretic, (vishamajvara)
+
+","Madhura,Tikta","Guru,Snigdha",Ushna,Madhura,Balance all 3 dosha,
+Vishnukranti,Vishnukranti,Vishnukranti,Evolvulus alsinoides,Convolvulaceae,"Vishnukarandi,Vishnukaranthi",Vishnukranti ,"Shyamkranti,Sankhapushpi","English Speed wheel,Slender dwarf morning glory","Evolvulus alsinoides is a perennial prostrate herb. Leaves are alternate, oblong-elliptic covered with silk hairs. Flowers are small, solitary with long pedicels, blue in color. Fruits are globular capsule.
+
+Distribution
+Evolvulus alsinoides Linn is present throughout the India, tropical Africa and worldwide. In India it is found in Andhra Pradesh, Bihar, Gujarat, Jammu & Kashmir, Himalayan ranges, Karnataka, Kerala, Odisha, Tamilnadu, Uttar Pradesh and West Bengal.",Whole plant ,"Amayika Prayoga :
+
+1. Medhya Rasāyana (Memory & intellect enhancer)
+
+Powder of dried root/seed or whole plant is taken with ghee, milk, or honey.
+
+Improves dhi, dhṛti, smṛti.
+
+2. Apasmāra (Epilepsy)
+
+Swarasa or cūrṇa of Viṣṇugrānti taken with ghṛta is indicated.
+
+Root decoction is given internally for seizures.
+
+3. Unmāda (Insanity, mental disorders)
+
+Decoction prepared from root used with ghṛta or as nasya.
+
+Acts as a calming and nervine tonic.
+
+4. Śirogaṭa Roga (Head diseases, especially headache)
+
+Fresh leaf paste applied externally over forehead for headache relief.
+
+Acts as śirovirecaka (clears head channels).
+
+5. Śvitrā (Leucoderma)
+
+Root paste applied externally.
+
+Internal use with honey also indicated.
+
+6. Jvara (Fever)
+
+Decoction of leaves given with honey for intermittent fever.
+
+Works as jvaraghna.
+
+7. Śleṣma-roga (Kapha disorders, cough, asthma)
+
+Root decoction acts as expectorant.
+
+Taken with honey to relieve cough.
+
+8. Śopha (Inflammation, swelling)
+
+External application of leaf paste.
+
+9. Krimi (Helminthiasis)
+
+Seed powder with honey used for intestinal worms.
+
+10. Vrana (Wounds, ulcers)
+
+Fresh leaf juice applied to wounds for healing.
+
+  Modern benefits:
+1. Brain & Nervous System
+
+Nootropic (Memory enhancer): Improves learning, memory, concentration (due to flavonoids, anthocyanins).
+
+Neuroprotective: Protects neurons from oxidative stress, useful in Alzheimer’s and Parkinson’s research.
+
+Anxiolytic & antidepressant: Ethanolic extract shows calming and mood-stabilizing effects.
+
+Anticonvulsant: Effective in epilepsy models (root extract).
+
+2. Antioxidant & Anti-inflammatory
+
+Rich in anthocyanins (ternatins) and flavonoids → strong free radical scavenging, anti-aging action.
+
+Reduces inflammation and oxidative stress in chronic diseases.
+
+3. Skin & Hair
+
+Wound healing: Accelerates epithelialization and collagen synthesis.
+
+Skin brightening & anti-aging: Used in cosmetics due to antioxidant anthocyanins.
+
+Hair growth promoter: Strengthens follicles, prevents premature greying (traditionally applied as oil).
+
+4. Metabolic Health
+
+Antidiabetic: Lowers blood glucose by enhancing insulin secretion and sensitivity.
+
+Anti-obesity: Regulates fat metabolism and reduces lipid accumulation.
+
+Hepatoprotective: Protects liver from toxins and oxidative damage.
+
+5. Immune System & Infection
+
+Antimicrobial: Effective against bacteria, fungi, and some parasites.
+
+Immunomodulatory: Enhances body’s defense mechanisms.
+
+6. Cardiovascular Benefits
+
+Antihypertensive: Helps reduce blood pressure (vasodilatory effect).
+
+Hypolipidemic: Reduces cholesterol and triglycerides.
+
+7. Reproductive Health
+
+Aphrodisiac and improves reproductive strength (traditionally used in male infertility).","Vrana – wound
+Krimi – worm infestation
+Kapha Vata Amaya – Useful in disorders with imbalance of Kapha and Vata Dosha
+Buddhiprada – improves intelligence
+Medha prada – improves brain functions
+Smruti prada – promotes memory
+Shanka Vishaghna – useful in treating poisoning
+
+Chemical Constituents
+
+Evolvulus alsinoides contains alkaloids, glycosides, Saponins and Terpinoids
+
+Research
+
+Anti inflammatory Activity – A research study conducted to evaluate anti inflammatory activity of Evolvulus alsinoides plant extracts have proved significant anti inflammatory activity of ethanolic extract of Evolvulus alsinoides plant.
+Anxiolytic Activity – A study conducted to evaluate Anxiolytic activity of Evolvulus alsinoides and Convulvulus pluricaulis in rodents have concluded that extracts of both the drugs possess significant anxiolytic and antioxidant activities.","Kashaya,Katu,Tikta","Laghu,Snigdha",Sita,Madhura,"Kapha,Vata hara",
+Kanchanara ,Kanchanara ,kanchanara.jpg,Bauhinia variegata Linn,Caesalpiniaceae,சிவப்பு மந்தாரை ,"Mandaram,chuvanna mandaram, malayakatti,konnu",Kancanar,"Mountain Ebony,Buddhist Bauhinia","It is a medium sized erect and deciduous tree.
+
+Bark- grey with longitudinal cracks, light-pink inside.
+
+Wood- moderately hard, greyish-brown.
+
+Leaves- unifoliolate, 2-lobed, rigidly subcoriaceous, deeply cordate.
+
+Flowers- purple or variously coloured, sessile or borne in short penducled corymbs. Calxy-tube elongated; limb entire, spathaceous.
+
+Fruits- pods, flat, hard, long, curved, compressed, dehiscent.
+
+Seeds 10-15.
+
+(Flowers in March and fruits in rainy season).
+
+Distribution & Habitat :
+
+In the sub-Himalayan tract from the Indus east wards; also in dry forests of central, Easterm and Southern India
+
+Chemical constituents :
+
+flavonoids, kaempferol,galactoside and kaempferol,hentriacontane, octacosanol ,stigmasterol,beta-sitosterol, lupeol and a flavanone glycoside",Kaanda twak (stem bark),"1.External Uses :
+
+It helps in wound cleaning and healing – it cures skin disorders and inflammations. Decoction is used for washing wounds and skin disorders, The bark ground in a paste is useful in lymphadenitis. Decoction made from its bark, pods of babul (Acacia) tree and flowers of pomegranate is used for gargles in oral disorders. Decoction is used for fomentation in rectal prolapse.
+
+2.Internal Uses :
+
+Digestive system : It has astringent , it causes vomiting in excess dose. Being sweet flowers are mild laxative. Astringent properly is useful in diarrhea, dysentery, rectal prolapse, haemorrhoids and helminthiasis. It enhances emetic action when used in conjunction with emetic drugs.
+
+3.Circulatory system : It acts as haemostatic and reduces the inflammation of the lymph nodes (lymphadenitis). It is effective in hemorrhoid disorders.
+
+4.Respiratory system : Used in cough
+
+5.Urinary system : Controls diabetes.
+
+6.Reproductive system : it acts as a haemostatic be astringent property
+
+7.Skin : Used in skin diseases Mixture of kanchanara bark, rice water, and ginger is effective in osteoporosis","Astringent,Antihelminitic,Haemostatic,Anti-inflammatory.",Kashaya ,"Ruksha,laghu",Shita,Katu,"Kaphapitta shamaka,Pittahara due to shita virya and kashaya rasa and kaphahara because of katu vipaka and kashaya rasa.",
+Kurutakah,Kurutakah,velipparuthi.jpg,Pergularia extensa N. E. Br.,Asclepiadaceae; Periplocaceae.,வேலிப்பருத்தி ,Velliparuthi,"Utaran,Jutak","Hairknot Plant,Whitlow Plant","Synonyms :
+
+P. daemia (Forsk.) Chiov
+
+Uttamaarani, Vrischikaali, Vishaanikaa. Phalakantaka. Ajashringi
+
+Morphology :
+
+The opposite and broadly ovate to suborbicular leaves are very variable in size, with petioles of varying length. The leaves are almost glabrous above and velvety below.
+
+In the northern hemisphere the flowers appear from mid to late winter, and these are carried on lateral cymes. The flower corolla forms a greenish-yellow or dull white tube. The fruit mature after some 13 to 14 months when they release ovate seeds covered with velvety hairs.","Leaf, root ","
+1.Wound Healing:
+The white latex from the leaves can be applied to boils and wounds for faster healing. 
+2.Digestive Health:
+Used to support healthy digestion and relieve gastrointestinal issues. 
+Blood Sugar Management:
+Believed to help reduce blood sugar levels. 
+3.Respiratory Issues:
+A leaf decoction can be used to treat cold-related problems, including asthma and bronchitis. 
+4.Other Uses:
+Treats jaundice, urinary problems, and has antibacterial and anti-fungal properties. 
+Important Considerations
+5.Anti-fertility Properties:
+Pregnant women and those trying to conceive should avoid this herb. 
+","➢ Leaf juice is best  anthelmintic.
+➢ Leaf paste used for Carbuncle. 
+➢ Uthamani is used as adjuvants for various medicine and diseases. 
+➢ Uthamani Ennai(Medicated oil) indicated for uterine disorders and arthritis.
+➢ Uthamani root powder used for Vatha related disorders.
+
+Pharmocological actions are anti-inflammatory, analgesic, hepatoprotective, 
+antipyretic, anthelmintic, antimicrobial, and antioxidant.",Amla,"Guru,ruksha",Ushna,Katu,Vatahara ,
+Panasha,Panasha,panasa.jpg,Artocarpus heterophyllus Lam.,Moraceae,பலா,"Plavu, pilavu","Kathal, cakki","Jackfruit, Jack tree","1.Morphology :
+*A huge tree grows 15 – 20 mts. high.
+Leaves – simple,alternate,  thick with three veins.
+✓Flowers – unisexual.
+✓Fruit – multiple, 10-20 cms. long and 16-30 cm. broad having thorns all over the surface.
+It weighs about 5 to 20 kg. Pulp of unripe fruit is white while that of ripe is yellow. ✓Seeds – 2.5 to 3 cm. long, slightly triangular and contains oil. It bears flowers in November and fruits in April and May. Fruits also hang from the trunk. Fruits and seeds are edible Seeds are roasted and eaten while fibrous part is cooked as vegetable.Fruits come in a wide range of sizes, shapes, and colors. The tiny floating plants known as water-meal are only 1 to 2 mm (0.04 to 0.08 in) wide and have very small flowers. Their miniature ovaries develop into fruits that are barely visible. Watermelons, on the other hand, may be more than 60 cm (24 in) long and weigh more than 20 kg (45 lb). Jackfruits, found in the tropics, can weigh more than 40 kg (90 lb). Diverse fruit shapes abound, including round grapefruits, oval eggplants, elongated bean pods, and star-shaped star anise. Pale to intense shades of orange, red, yellow, and even purple can be found in fleshy fruits, while dry fruits display many tones of brown.
+
+Distribution & Habitat :
+All over in India. specially in southern region.
+
+Chemical constituents :
+cycloartenone, cycloartenol , beta-sitosterol,flavonoids, artocarpesin,norartocarpetin",Whole plant,"1.External use :
+
+Latex is used as anti-inflammatory and wound healing agent. Phanasa is effective in stomatitis.
+
+2.Internal uses :
+
+Pulp is guru and constipative Decoction of root is an astringent and is given in diarrhoea. Ripe fruit is spermatogenic, brimhana and used in bleeding disorders. Decoction of roots and leaves is useful in skin disorders while decoction of leaves is given as antidote to poisons","rucyam, tarpanam, bramhanam, vrishyam, balyam, hridyam
+
+acrid, astringent,thermogenic, laxative, diurtic","madhura, kashaya","guru,snigdha",sheeta,madhura,"vatapittashamak,(Raw fruit -  kaphavatavardhak).",
+Champaka,Champaka,d2cfdef9c8fac9ad61b39eb1d46ff305.jpg,Michelia champaca ,Magnoliaceae,செண்பகம் ,Chempagam/ Chempakam,Champa,Champak,"Sushruta mentions about Champaka, but no references are available about this drug in Charaka Samhita. 
+Synonyms : Hemapushpa, Champeya, Gandhaphali.
+lt possesses anti-toxic property. 
+Indications - Krimi, Mutrakrichchra, Raktapitta, Kandu, Daha, Visha. 
+
+Therapeutic Uses :
+1.Mutravikara (Incontinence of urine) - 
+Decoction of the root of Champaka checks in continence of urine.  (Vaidyamanorama) 
+                                    
+2.Yonidurgandha (Foul smell in vagina) -Ghee mixed with tender leaves of Champaka, flowers of Jati and Madhuka and exposed to the Sun is anointed in the vagina to remove the foul smell.     (Gadanigraha) 
+
+Botanical Description:
+
+Evergreen tree, 15-25 m tall; tunk ½ - 1m in girth, or upto 3 m in the wild, straight with dark grey bark; young shoots silky with deciduous, paired stipules. Leaves alternate, simnple, lamina 18-25 x 6-10 cm including 2.3 cm long petiole; Ovate or oblong - lanceolate, leathery, glabrous, entire - somewhat wavy with acute apex and narrowed base. Flowers solitary, axillary with a short jointed stalk, strongly and pleasantly sweet scented, sepals and petals similar in shape, Ovate - oblong - lanceolate, pale golden yellow -orange yellow - orange-red, 15-21 in number in 3 or more series, the inner ones narrower, easily deciduous; stamens many with lincar apiculate anthers, carpels many, free. Fruit a 7-10 cm long cluster of globose capsules, cach subsessile, ovoid, 1.5-2 cm long, dark brown, opening into 2 woody warty valves, white specked;  seeds pink, drying brownish, polished. variously angled with round back.
+","Bark, Flower","Michelia champaca is indicated in - 
+1. Raktapitta –Bleeding disorders such as nasal bleeding, heavy periods, etc
+2. Mutrakrichra –Dysuria, urinary retention
+3. Visha – Toxic conditions, poisoning
+4. Krumi – worm infestation
+5. Hrudya – acts as cardiac tonic, congenial for heart
+6. Vatasra – Gout
+7. Daha – Burning sensation
+8. Vrana – Ulcers, wounds
+9. Flower buds are used in treating diabetes
+10.It is also used as purgative, treatment of inflammation, amenorrhoea, cough, dyspepsia.","Vishahara, Dahaprashamana","Katu, Tikta, Kashaya, Madhura","Laghu, Ruksha",Sheeta,Katu,Kapha - vatahara,
+Guduchi ,Guduchi ,guduchi.jpg,Tinospora cardifolia,Menispermaceae,சீந்தில் கொடி,"Amruthu, Chittamruthu","Giloi, Gulancha","Galancha, Tinospora ","Vagbhata considered Guduchi as the prime drug for Vatarakta. In Dhanvantari Nighantu Padma Guduchi or Kanda Guduchi is described as a variety of Guduchi. Therapeutic usage of Guduchisattwa is mentioned in Rajanighantu, Yogaratnakara and Vaidyachintamani in the management of Jwara and Daha. Charaka enumerated Guduchi under Medhyarasayanas along with Mandookaparni, Yashtimadhu and Shankhapushpi.
+
+Bhavamishra quoted mythological origin of 
+Guduchi as follows - 
+'During Rama - Ravana war several monkeys were killed. Indra was greatly pleased at the death of Ravana and sprinkle nectar on the dead bodies of monkeys. The nectar dropped to the ground from the bodies of monkeys he into the plant Guduchi.'
+
+This story communicates that Guduchi is bestowed with Ambrosia like properties. Bhavamishra identified that leaf of Guduchi is posessing antipyretic property (Sarvajwaraharam )
+
+Synonyms - 
+Kundali, Chakralakshanika, Vishalya, Rasayar.i, Madhuparni, Amrita, Amritavallari, Amara, Chinna, Chinnaruha, Chinnodbhava, Vatsadani, Jivanti, Tantrika, Sama, Somavalli, Chandrahasa, Vayastha, Mandali, Devanirmita, Kshaudraparni, Jwaranashini
+
+Gana : 
+Charaka - Vayahsthapana, Dahaprashamana, Trishnanigrahana, Stanyashodhana, Triptighna. 
+
+Sushruta - Guduchyadi, Patoladi, Aragwadhadi, Kakolyadi, Shyamadi, Vallipanchamoola. 
+
+Indications - Vatarakta, Daha, Prameha, Pandu, Trishna, Kamala, Kasa, Kushtha, jwara, Krimi, Chardi, Amlapitta.
+
+Chemical constituents -
+Tinosporin, Tinospondine.
+","Stem, Stem starch","1. Guduchi is best to cause astringent effect, promoting digestion, alleviating Vata, Kapha, constipation and Raktapitta (bleeding disorders)
+2. Rasayani -Rejuvenative
+3. Sangrahini -brings about absorptive nature to stomach and intestines, Useful in malabsorption syndrome, diarrhea.
+4. Balya -improves strength
+5. Agnideepani -Improves digestion power
+6. Amahara -relieves Ama -indigestion
+7. Trut hara -relieves excessive thirst (as seen in fever)
+8. Dahahara -relieves burning sensation in the body. 
+9. Mehahara -useful in treatment of diabetes, urinary tract disorders.
+10. Kasahara -Useful to relieve cough
+11. Paunduhara -relieves anemia
+12. Kamala -Useful in treatment of jaundice and related diseases of liver
+13. Kushta -Useful in skin diseases
+14. Vatasra -Vatarakta -Useful in gout-arthritis
+15. Jvara -Useful in fever. 90% of Ayurvedic medicines for fever contain Guduchi as an essential ingredient.
+16. Krimihara -useful to relieve intestinal worms.
+17. Vamihara -useful to relieve vomiting.
+Prameha -useful in diabetes and urinary tract disorders
+18. Shwasa -useful in difficulty in breathing, (dyspnoea), asthma, Bronchitis
+19. kasa -Cough, cold
+20. Arsha -Piles, hemorrhoids
+21. Krichra -Difficulty in passing urine
+22. Hrudya, Hrudroga -Vatanut -Useful in heart diseases with Vata symptoms such as pain.
+23. Chakshushya – improves vision, good for eyes, useful in eye disorders
+24. Vayasthapana – anti aging, rejuvenating
+25. Vrushya -Aphrodisiac
+26. Useful in sero-negative arthritis, ankylosing,spondylitis, multiple sclerosis etc.
+
+","Deepana, Rasayana, Grahi, Chakshusya 
+(Guduchisattwa), Medhya","Tikta, Katu, Kashaya","Laghu, Guru, Snigdha",Ushna,Madhura,"Tridoshahara, Pitta - kaphahara ( Sushruta )",
+Arka,Arka,Screenshot_20250908-221301.png,Calotropis gigantea (L.) Dryand.,Apocynaceae (Milkweed family),எருக்கு ,Erukku,Akand,Giant Milkweed,"tall shrub with large, thick leaves and clusters of purple or white flowers.","Leaves ,Flowers, Latex","Anti inflammatory, pain relief , Fever reduction ","Anticancer, Antimicrobial, Antiviral","Tikta (Bitter), Katu (Pungent)","Laghu (Light), Sara (Mobile), Snigdha (Oily)",Ushna (Hot),Katu,"Vatahara (Balances Vata), Kaphahara (Balances Kapha), Bhedana (Breaking), Deepana (Appetizer), Kshamighna (Pacifies toxins)",
+KanakaDhattūra,Kanaka Dhattūra,imagesRamyaSudhakaran.jpeg,Datura metel Linn,Solanaceae,Kanaka Umaththai,Manja Dhathura,Safed Dhatura,Yellow Thorn-apple / Downy Datura / Metel Datura,"Kanaka Umaththai is a perennial shrubby plant of the Datura genus. It grows up to 1–2 m tall, with broad ovate leaves having a strong odor. Flowers are large, trumpet-shaped, bright yellow in color (hence the name “Kanaka” = gold/yellow). The fruit is a spiny capsule containing numerous black seeds. The whole plant is toxic in high doses but has important medicinal value in Ayurveda and Siddha, particularly in respiratory and neurological disorders.","Leaves ,Flowers ,Seeds ,Roots","1. Relieves asthma and chronic cough (smoking of leaves used in tradition).
+2. Analgesic – reduces pain in conditions like arthritis.
+3. Antispasmodic – useful in abdominal cramps.
+4. Sedative – helps in insomnia and anxiety.
+5. Anthelmintic – used against intestinal worms.","Bronchodilator, antispasmodic, analgesic, sedative, antiasthmatic, anti-inflammatory, anticholinergic, antimicrobial, antiparasitic, wound-healing.
+","Tikta, Katu","Laghu, tikshna, ruksha",Usna,Katu,Pacifies Kapha and Vāta  Increases Pitta ,
+Kakajangha,Kakajangha,1565329869-5072.jpg,Cardiospermum halicacabum,Sapindaceae,முடக்கத்தான் கீரை ,Uzhinja,Kanphata,Balloon Vine,"Cardiospermum halicacabum is a climbing perennial herb with tendrils. The leaves are triternate (divided into three parts), thin and serrated. Flowers are small and white. The most characteristic feature is its inflated, balloon-like capsule that contains black seeds with a white heart-shaped spot. It grows wild in hedges, waste lands, and also cultivated as a medicinal plant across tropical regions.","Leaves, Roots, Seeds","1. Relieves joint pain, arthritis, rheumatism.
+
+
+2. Reduces swelling and inflammation.
+
+
+3. Useful in cough, cold, bronchitis.
+
+
+4. Improves digestion and relieves constipation.
+
+
+5. Used in skin diseases like eczema and itching.
+
+
+6. Leaf decoction is used as a hair wash to remove dandruff.
+
+
+7. Acts as an analgesic (pain reliever).
+
+
+8. Promotes wound healing.
+
+
+9. Strengthens nerves and muscles.
+
+
+10. Used in fever and general debility.
+","Anti-inflammatory
+
+Analgesic
+
+Antirheumatic
+
+Antioxidant
+
+Antipyretic
+
+Antimicrobial
+
+Antifungal
+
+Antiallergic
+
+Wound healing
+
+Neuroprotective","Tikta (Bitter) , Kashaya (Astringent)","Laghu (Light) , Ruksha (Dry)",Ushna (Hot),Katu (Pungent),Pacifies Vata and Kapha,
+Devadāru,Devadāru,Screenshot_20250908-222041.png,Cedrus deodara (Roxb. ex D.Don) G.Don,Pinaceae,Devadāram,Devadāru / Devadaram,Devadār / Deodar,Deodar Cedar / Himalayan Cedar,"Devadaru is a large evergreen coniferous tree native to the Himalayas, growing up to 40–60 meters tall. The tree has bluish-green needle-like leaves, woody cones, and fragrant, durable wood. In Ayurveda, it is revered as a divine tree (“tree of the gods”), widely used in medicine, rituals, and as timber.",Heartwood  Oil (essential oil from wood)  Leaves (needles)  Resin,"1. Relieves pain and inflammation (Vātahara).
+
+
+2. Acts as a digestive and carminative, reducing bloating.
+
+
+3. Helps in respiratory disorders like cough, asthma, bronchitis.
+
+
+4. Useful in skin diseases with itching and infection.
+","Analgesic, anti-inflammatory, carminative, antimicrobial, diuretic, expectorant, anthelmintic, wound healing, antioxidant, nervine relaxant, insecticidal","Tikta (bitter), Kaṭu (pungent)","Laghu (light), Rūkṣa (dry), Tikṣṇa (sharp)",Uṣṇa (hot),Kaṭu (pungent),Pacifies Vāta and Kapha  May increase Pitta if overused,
+Tintidika,Amli / Tintidika,Screenshot_20250908-222503.png,Tamarindus indica L.,Fabaceae,புளி மரம் ,Valanpuli,Imli,Tamarind tree,"Puliyamaram is a large evergreen tropical tree with a wide-spreading crown, growing up to 20–25 meters. The tree bears long brown pods with sticky, tangy pulp used widely in food and medicine. The leaves are pinnate, flowers are yellowish, and seeds are hard and glossy. Tamarind is both a culinary spice and a medicinal plant valued in Ayurveda and Siddha for its digestive, laxative, and cooling properties.",Fruit pulp (ripe & unripe)  Seeds  Leaves  Bark  Flowers,"1. Improves digestion and appetite.
+
+
+2. Acts as a mild laxative, relieving constipation.
+
+
+3. Reduces excess body heat and quenches thirst.
+
+
+4. Useful in fever and excessive thirst.
+
+
+5. Relieves nausea and motion sickness.
+
+
+6. The pulp helps in liver health and bile secretion.
+","Digestive, carminative, laxative, antipyretic, hepatoprotective, antioxidant, antimicrobial, anti-inflammatory, cardioprotective, cooling, thirst-quenching.
+","Āmla (sour), Madhura (sweet), Kaṣāya (astringent)"," Laghu (light), Snigdha (unctuous)",Uṣṇa,Madhura,Balances Vāta (especially when ripe & sweet)  Increases Pitta & Kapha if overused (due to sourness),
+Dhānyaka,Dhānyaka,coriander.jpg,Coriandrum sativum Linn.,Apiaceae (Umbelliferae),கொத்தமல்லி,Malliyila / Kothamalli,Dhaniya,Coriander,"Coriandrum sativum is an annual herb with finely divided, feathery leaves. The plant has a distinctive aroma due to essential oils. Leaves are widely used fresh in cooking, while the dried seeds are used as a spice. The plant bears small white or pink flowers in umbels, followed by round, aromatic seeds. It is both a culinary and medicinal herb, widely cultivated in India and worldwide","Fruits (Seeds) , Leaves , Whole plant (sometimes used in folk medicine)","1. Improves digestion and relieves bloating, gas, and indigestion.
+
+
+2. Acts as a carminative and appetizer.
+
+
+3. Reduces burning sensation and excessive thirst.
+
+
+4. Useful in fever, especially pitta-type fevers.
+
+
+5. Beneficial in urinary tract disorders (dysuria, burning micturition).
+
+
+6. Good for eye health and relieves conjunctival irritation.
+
+
+7. Acts as a mild detoxifier and reduces excessive sweating.
+
+
+8. Fresh juice/leaves help in treating headache and skin inflammation.
+
+
+9. Seeds are useful in cough and respiratory disorders.
+
+
+10. Supports heart health and helps balance cholesterol.","Carminative
+
+Digestive stimulant
+
+Antioxidant
+
+Antipyretic
+
+Anti-inflammatory
+
+Antimicrobial
+
+Antidiabetic
+
+Hypolipidemic
+
+Diuretic
+
+Neuroprotective","Katu (Pungent), Madhura (Sweet) , Tikta (Bitter)","Laghu (Light) , Snigdha (Slightly unctuous)",Sheeta (Cold),Madhura (Sweet),Balances Pitta and Kapha,
+Āmaṇaku,Āmaṇaku,images(1)RamyaSudhakaran.jpeg,Ricinus communis Linn.,Euphorbiaceae,ஆமணக்கு ,Āvaṇam,Arandī,Castor plant / Castor bean plant,"Āmaṇaku (Ricinus communis) is a perennial shrub or small tree that grows up to 2–5 meters in height. It has large, palmately lobed leaves and produces spiny capsules containing seeds. The seeds yield castor oil, which has been used in Ayurveda, Siddha, and folk medicine since ancient times. The plant parts (leaves, roots, oil) are medicinal, though seeds contain toxic ricin, making raw seeds dangerous. Castor oil is a well-known purgative, anti-inflammatory, and used externally for pain relief.","Roots , Leaves , Seeds","1. Powerful purgative (used in constipation).
+2. Reduces inflammation and swelling in arthritis, gout.
+3. Relieves abdominal pain and bloating.
+4. Used in Vata disorders (neurological, joint diseases).
+5. Castor oil massage relieves muscular pain and stiffness.
+","Purgative, anti-inflammatory, analgesic, antirheumatic, anthelmintic, antispasmodic, carminative, lactagogue, antimicrobial, hair growth promoter","Madhura, Katu, Tikta","Snigdha, Guru",Usna,Madhura,Pacifies Vāta and Kapha  May increase Pitta if overused,
+Girinimba,Girinimba,"611H9ZJq9LL._UF1000,1000_QL80.jpg",Murraya koenigii,Rutaceae,கறிவேப்பிலை,Kariveppila,Karipatta,Curry leaves,"Curry leaves are aromatic, teardrop-shaped leaves from the Murraya koenigii tree, native to India, with a distinct citrus and lemongrass-like flavor. They are a staple in South Indian cuisine, used fresh or dried to flavor curries, rice, and dals, and are also valued in Ayurvedic medicine for their health benefits and plant compounds like alkaloids and antioxidants. Unlike curry powder, they are a distinct leaf herb with a unique, pungent taste and are often added to hot oil for tempering","Leaves, roots, bark, fruit","Supports digestive health, regulating blood sugar levels, improving heart health by reducing bad cholesterol, enhancing hair and skin health","Antioxidant, Antiinflammatory, Antidiabetic, anticancer ","Tikta, Kashaya","Laghu, Ruksha",Ushna,Katu,Balances kapha and vata. May increase pitta slightly if taken in excess,
+Āmalakī,Āmalakī,imagesRamyaSudh.jpeg,Phyllanthus emblica Linn.,Phyllanthaceae,நெல்லி,Nellikka,Āmlā,Indian Gooseberry / Emblic myrobalan,"Nelli (Phyllanthus emblica) is a medium-sized deciduous tree found throughout India. The fruits are small, round, greenish-yellow, and sour in taste, rich in Vitamin C and antioxidants. In Ayurveda, Āmalakī is revered as a Rasāyana (rejuvenative), forming a major ingredient of Triphala and Chyavanaprāsha. It balances all three doṣas, strengthens immunity, improves digestion, and promotes longevity.","Fruits ,Seeds ,Leaves , Root bark","1. Improves digestion and relieves acidity.
+2. Enhances immunity and acts as a rejuvenative (Rasāyana).
+3. Promotes hair growth, prevents premature greying.
+4. Strengthens eyes and improves vision.
+5. Useful in respiratory disorders (cough, asthma).
+6. Regulates blood sugar levels (anti-diabetic).
+","Antioxidant, immunomodulator, anti-inflammatory, anti-diabetic, hepatoprotective, cardioprotective, adaptogenic, digestive, laxative, hair tonic, anti-ageing.
+","Predominantly Amla (sour) But also has all five tastes except Lavaṇa (salty) – Amla, Madhura, Kaṭu, Tikta, Kaṣāya.","Laghu, Ruksha",Sita,Madhura,"Pacifies Tridoṣa (especially Pitta) , Balances Vāta and Kapha also",
+Lashuna,Lashuna,Vellai-Poondu.jpg,Allium sativum Linn.,Amaryllidaceae (earlier: Liliaceae),வெள்ளை பூண்டு,Veluthulli,Lahsun,Garlic,"Garlic is a perennial herb, grown globally as a spice and medicine. It produces underground bulbs composed of cloves enclosed in a white-papery sheath. The leaves are flat and linear. Garlic is known for its pungent odor due to sulfur-containing compounds like allicin. It is one of the most valued plants in Ayurveda for its rasayana (rejuvenative), hridya (cardiac), and vata-kapha pacifying properties.","Bulb (cloves) – most used , Leaves (sometimes used fresh in cooking)","1. Improves digestion and relieves bloating and flatulence.
+
+
+2. Acts as a natural cardiac tonic, strengthens heart.
+
+
+3. Lowers blood cholesterol and triglycerides.
+
+
+4. Reduces high blood pressure.
+
+
+5. Useful in cough, cold, and respiratory disorders.
+
+
+6. Enhances immunity and fights infections.
+
+
+7. Relieves joint pain, arthritis, and stiffness.
+
+
+8. Beneficial in skin diseases and wound healing.
+
+
+9. Improves fertility and acts as an aphrodisiac (Vrishya).
+
+
+10. Acts as a rasayana – promotes longevity and energy.","Antihypertensive
+
+Hypolipidemic
+
+Antiplatelet
+
+Antimicrobial
+
+Antiviral
+
+Antifungal
+
+Antioxidant
+
+Anti-inflammatory
+
+Immunomodulatory
+
+Anticancer
+
+Cardioprotective
+
+Neuroprotective","Katu (Pungent) ,  Tikta (Bitter) , Kashaya (Astringent)","Laghu (Light) , Snigdha (Unctuous) , Tikshna (Sharp/Penetrating)",Ushna (Hot),Katu (Pungent),"Pacifies Vata and Kapha  , May increase Pitta if used in excess.",
+Īśvaramūla,Īśvaramūla,Aristolochia_bracteolata.jpeg,Aristolochia bracteolata Linn.,Aristolochiaceae,உகை,Garudakkappal,Kitāmari / Kiramar / Nākhodi,Bracteated Birthwort / Worm Killer Plant,"Ugai (Aristolochia bracteolata) is a perennial, creeping herb that grows widely in India and tropical countries. It has heart-shaped leaves, small dull purple flowers with bracts, and a strong odor. Traditionally, it is valued in Siddha, Ayurveda, and folk medicine as an anthelmintic (destroys intestinal worms), antidote for snakebite, and external remedy for skin diseases. It is a potent plant and needs careful dose regulation.","Leaves ,Roots ,Whole plant","1. Kills intestinal worms (strong anthelmintic).
+2. Used in snakebite and poisonous insect bites (as antidote).
+3. Relieves itching and skin disorders (eczema, ringworm).
+4. Reduces swelling and inflammation.
+5. Helps in fever and malaria (traditionally used).
+6. Acts as a purgative in certain doses.
+7. Useful in wounds and ulcers (external application).
+","Anthelmintic, anti-inflammatory, antipyretic, antimicrobial, antidote, purgative, analgesic, wound-healing, antiparasitic, detoxifying.
+","Tikta, Kasaya, Katu","Laghu, Tikshna, Ruksha",Usna,Katu,"Pacifies Kapha and Vāta , Increases Pitta if overused",
+Amli,Amli,tamarind.jpg,Tamarindus indica Linn.,Fabaceae (Leguminosae),புளியமரம்,Puli,Imli,Tamarind,"Tamarindus indica is a large evergreen tree that can grow up to 20–25 meters tall. It has pinnate compound leaves and bears curved brown pods containing a sticky, acidic-sweet pulp with seeds. The pulp is widely used in Indian cooking for its sour taste. Medicinally, it is valued for its digestive, laxative, and cooling properties. The tree is native to tropical Africa but naturalized and extensively cultivated in India and other tropical regions.","Fruit pulp (most common)  ,Seeds  , Leaves,  Bark","1. Improves digestion and acts as a mild laxative.
+
+
+2. Relieves constipation and bloating.
+
+
+3. Useful in loss of appetite and anorexia.
+
+
+4. Reduces thirst and burning sensation.
+
+
+5. Acts as a cardiac tonic and blood purifier.
+
+
+6. Helpful in fever and excessive heat (pitta disorders).
+
+
+7. Used in liver disorders and jaundice.
+
+
+8. Decoction of leaves is useful in wound healing and skin diseases.
+
+
+9. Seeds are used in diarrhea and dysentery.
+
+
+10. Provides relief in sore throat and gum inflammation (as a gargle).","Laxative
+
+Digestive stimulant
+
+Antioxidant
+
+Antipyretic
+
+Hepatoprotective
+
+Antimicrobial
+
+Antiscorbutic
+
+Anti-inflammatory
+
+Hypolipidemic
+
+Cardioprotective","Amla (Sour) , Madhura (Sweet)","Laghu (Light)  , Snigdha (Unctuous)",Ushna (Hot),Amla (Sour),"Pacifies Vata (especially in constipation & digestive weakness)  , Increases Pitta if used in excess (due to amla rasa & ushna virya) , May aggravate Kapha slightly if overused (due to heaviness of pulp).",
+Kuḍampuli,Kuḍampuli,image3.jpeg,Garcinia cambogia,Clusiaceae,கொடம்புளி,Koṭampuli,Malabar Imli,Malabar Tamarind / Kudampuli / Brindleberry,"Kodampuli (Garcinia cambogia) is a small to medium-sized tropical tree native to the Western Ghats and coastal regions. It bears round, yellow to reddish fruits about the size of an orange. The dried rind of the fruit is very sour and is used both as a culinary spice (especially in Kerala fish curries) and in traditional medicine. The fruit contains hydroxycitric acid (HCA), which has gained fame for weight management and fat metabolism. In Ayurveda, it is valued as a digestive, anti-obesity, and liver-supportive medicine.","Fruit rind (dried) ,Fruit juice","1. Improves digestion and relieves indigestion.
+2. Acts as a natural appetite suppressant (useful in obesity).
+3. Aids in weight management and fat metabolism.
+4. Relieves intestinal parasites and worms.
+5. Used in rheumatic pain and inflammation.
+6. Prevents accumulation of bad cholesterol.","Digestive, carminative, anti-obesity, hypolipidemic, hepatoprotective, anti-inflammatory, antimicrobial, anthelmintic, antioxidant, appetite suppressant.
+","Amla, Katu","Laghu, ruksha",Usna,Katu," Pacifies Kapha and Vāta , Increases Pitta if overused",
+Kakamachi,Kakamachi,GWDGWJG.jpg,Solanum nigrum,Solanaceae,மணத்தக்காளி,Mulaku thakkali,Makoi,Black night shade,"Manathakkali is the Tamil name for the plant known in English as Black Nightshade, also referred to as Sun Berry or Wonder Berry. It is a small, wild plant whose leaves and ripe, dark berries are widely used in South Indian cuisine and traditional medicine. The leaves, or keerai, are a rich source of vitamins, minerals, and antioxidants, traditionally used to treat stomach and mouth ulcers and indigestion. The ripe berries are eaten fresh or sun-dried to make vathal, a preserved condiment for dishes like Vathal Kuzhambu","Leaves, berries, roots","Improves skin health, support kidney function, ulcer relief, digestive health, strengthen liver","Anti cancer (particularly liver cancer), anti ulcer, Hepatoprotective, Antipyretic, diuretic","Tikta, kashaya, madhura","Laghu, snigdha",Sheeta,Madhura,Pacifies pitta and kapha. Excess use may aggravate vata,
+Śigru,Śigru,images4.jpeg,Moringa oleifera Lam.,Moringaceae,முருங்கை,Muringa,Sahjan,Drumstick tree / Horseradish tree / Moringa,"Sigru (Moringa oleifera) is a fast-growing, drought-resistant tree, native to the Indian subcontinent. It grows 5–10 meters tall with soft wood, long tripinnate leaves, and slender pods (drumsticks) commonly used in South Indian cuisine. Almost every part of the plant is useful—leaves, flowers, fruits, roots, bark, and seeds. It is highly nutritious (rich in proteins, vitamins, iron, and calcium) and has been called a “superfood.” Ayurveda recognizes it as a potent Kaphahara and Vātahara, especially beneficial in digestive, inflammatory, and metabolic disorders.
+","Leaves,  Flowers, Fruits (drumsticks),Roots , Bark,  Seeds","1. Improves digestion and stimulates appetite.
+2. Reduces inflammation and joint pain (arthritis, gout).
+3. Acts as a blood purifier.
+4. Strengthens bones and teeth (rich in calcium).
+5. Increases hemoglobin (anti-anemic).
+6. Boosts immunity and general strength.","Digestive, carminative, anti-inflammatory, analgesic, hypoglycemic, hypolipidemic, anti-anemic, antioxidant, blood purifier, immunomodulator, galactagogue, aphrodisiac.
+
+","Katu, Tikta","Laghu, Tikshna, Ruksha",Usna,Katu,"Pacifies Kapha and Vāta ,May increase Pitta if used in excess",
+Dantī,Dantī,images5.jpeg,Baliospermum montanum,Euphorbiaceae,"தாண்ட்ரி, பால் தாண்ட்ரி",Danti,"Danti, Danti mool",Red Physic Nut,"Thaandri (Baliospermum montanum) is a perennial undershrub, 0.5–1.5 m tall, with milky latex, ovate-lanceolate leaves, and small unisexual flowers. The roots are thick, fleshy, and widely used in Ayurveda. It is classified as a strong purgative drug in the group of Trivritādi Varga (purgative group). Its latex is acrid and irritating. Traditionally used for expelling morbid doshas, especially Kapha and Pitta, it is also applied externally in skin disorders.","Root, Root bark, Seeds, Latex ","1. Strong purgative (used in constipation, ascites, dropsy).
+2. Removes intestinal worms.
+3. Reduces abdominal distension and colic.
+4. Useful in skin diseases like eczema, leprosy, and itching.
+5. Applied in glandular swellings and tumors (external application).
+6. Helpful in jaundice and liver disorders.
+","Purgative, anthelmintic, anti-inflammatory, hepatoprotective, detoxifying, anti-dermatitic, laxative, blood purifier, anti-parasitic.","Katu, Tikta","Laghu, Tikshna, Ruksa",Usna,Katu,"Reduces Kapha and Pitta (by virechana / strong purgation) , In excess, may aggravate Vāta",
+Vaasa,Vaasa,"71G5qVoG0OL._UF350,350_QL80.jpg",Justicia adhatoda,Acanthaceae,ஆடாதோடை,Adalodakam,Adusa,Malabar nut,"Adathodai, also known in English as the Malabar nut or Vasaka (Adhatoda vasica), is a medicinal shrub native to South Asia, characterized by its long, lance-shaped green leaves and dense flower spikes. It is widely used in traditional medicine systems like Siddha and Ayurveda for its potent respiratory benefits, particularly for coughs, colds, and bronchitis, due to its mucolytic, bronchodilator, and expectorant properties. The leaves contain beneficial compounds such as alkaloids, flavonoids, and tannins, making the plant a valued natural resource for herbal formulations.  ","Leaves, roots, flower, stem bark","Relief cough and cold, reduces fever and inflammation, improves digestion, support liver health","Anti microbial, anti fungal, anti pyretic, anti inflammatory, anti oxidant","Tikta, kashaya","Laghu, ruksha",Sheeta,Katu,Pacifies pitta and kapha,
+Ajamodā,Ajamodā,images6RamyaSudhakaran.jpeg,Plectranthus amboinicus ,Lamiaceae,ஓமவல்லி,Panikoorka,"Patharchur, Ajwain Patta, Patta Ajwain",Indian Borage / Mexican Mint / Country Borage / Indian Oregano,"Omavalli (Plectranthus amboinicus) is a perennial, succulent, aromatic herb with thick fleshy leaves and a strong oregano-like aroma. It grows well in pots and home gardens. The leaves are simple, opposite, ovate, and velvety. Traditionally, the plant is a household remedy for cough, cold, indigestion, and asthma. The essential oil contains thymol, carvacrol, and eugenol, giving it antimicrobial and carminative properties.
+",Leaves,"1. Relieves cough, cold, and throat irritation.
+2. Acts as an expectorant in asthma and bronchitis. 
+3. Improves digestion and relieves flatulence.
+4. Reduces colic and stomach pain.
+5. Used for fever and body ache (home remedy).
+6. Good for skin infections and insect bites (external use).","Antitussive, expectorant, carminative, antimicrobial, anti-inflammatory, antioxidant, antispasmodic, antipyretic, galactagogue, wound healing.
+","Katu, Tikta","Laghu, Snigdha, Tikshna",Usna,Katu,"Pacifies Kapha and Vāta , Excess use may increase Pitta",
+Nimbuka,Nimbuka,citrus-limon-meyer-lemon-tree.jpg,Citrus limon,Rutaceae,எலுமிச்சை,Cherunaranga,Nimbu,Lemon,"lemon tree (Citrus limon) is a small, evergreen tree native to Asia that grows in warm, tropical, and subtropical climates. It has glossy, dark-green leaves with winged petioles, occasional thorny twigs, and fragrant, sweet-scented flowers that are white on the top and reddish-purple on the bottom. The tree produces its iconic, sour, oval-shaped yellow fruit, which is used widely in cooking, beverages, and for its aromatic zest and pulp.  ","Fruits, leaves","Improves digestion and appetite, reduces nausea and vomiting, relieves thirst amd burning sensation, helpful in kidney stone prevention","Anti emetic, anti microbial, diuretic, digestive, carminative","Amla is dominant, madhura and kashaya are anurasas","Laghu, ruksha, tiksna",Usna,Katu,Pacifies vata,
+Kākṣī,Kākṣī,images7RamyaSudhakaran.jpeg,Sida rhombifolia Linn.,Malvaceae,துத்தி,Cheru-thuthi,Mahābalā,Arrowleaf Sida / Indian Ephedra substitute / Country Mallow,"Thuththi (Sida rhombifolia) is a perennial undershrub, 50–150 cm tall, with woody stems and yellow flowers. The plant is commonly found in wastelands, roadsides, and open fields. In Ayurveda, it belongs to the Bala group and is considered a Rasayana (rejuvenative), Balya (strengthening), and Vrishya (aphrodisiac) drug. It is widely used for improving strength, treating respiratory disorders, bleeding conditions, and urinary diseases.","Whole plant, Root ,Leaves , Seeds","1. Improves strength and vitality (balya, rasayana).
+2. Used in bleeding disorders (rakta-pitta).
+3. Beneficial in piles and dysentery.
+4. Useful in cough, asthma, and bronchitis.
+5. Reduces burning sensation and inflammation.
+6. Promotes wound healing (external paste).
+7. Acts as a diuretic, useful in urinary problems.","Balya, Rasayana, anti-inflammatory, analgesic, antioxidant, antipyretic, expectorant, diuretic, wound-healing, aphrodisiac, hemostatic.
+","Madhura, kasaya","Laghu, snigdha, mridu",Sita,Madhura,"Pacifies Pitta and Vāta , Excess use may increase Kapha",
+Mūrvā,Mūrvā,images(8)RamyaSudhakaran.jpeg,Marsdenia tenacissima R.Br,Asclepiadaceae,மருள்,Mūrvā,Murva / Morvel,Indian Sarsaparilla,"A perennial twining climber with slender, woody, and rough stems. The leaves are lanceolate or ovate, flowers are small, greenish-yellow, and fruits are paired follicles. Roots are bitter and fibrous. In Ayurveda, it is a classical ingredient of the Dashamoola group and is highly valued in fevers, diabetes, jaundice, and chronic ailments.",Root,"1. Reduces chronic and intermittent fevers.
+2. Useful in Prameha (diabetes).
+3. Acts as a blood purifier in skin diseases.
+4. Improves liver function and relieves jaundice.
+5. Acts as a mild laxative and relieves constipation.
+6. Used in Dashamoola for inflammation, swelling, and pain.
+","Antipyretic, hypoglycemic, hepatoprotective, anti-inflammatory, laxative, blood purifier, anti-rheumatic, diuretic.
+","Tikta, kasaya","Laghu, Ruksha ",Usna,Katu,"Pacifies Kapha and Pitta, balances Vāta moderately.",
+Apaamaarga,Apaamaarga,b0995a891efa1ae5c020bf68546f5f72.jpg,Achyranthes aspera,Amaranthaceae,குப்பைமேனி,Kaattuppodi,Latjira,Prickly chaff flower,"Kuppaimeni, also known as Indian Nettle or Acalypha indica, is a widely used medicinal plant known for its anti-inflammatory, antibacterial, antioxidant, and wound-healing properties. This small, resilient herb, which grows in many regions, has a long history in traditional medicine for treating skin conditions, promoting digestion, and alleviating respiratory issues. The leaves are the most commonly used part, prepared as pastes, oils, or dried powders for various therapeutic applications.  ","Whole plant, leaves, roots, seeds","treating skin issues like acne and eczema, alleviating respiratory problems such as asthma and coughs, helping to expel intestinal worms, and reducing pain and inflammation.","Anti microbial, anti inflammatory, anti oxidant, carminative, diuretic, wound healing","Katu, tikta","Laghu, ruksha, tiksna",Usna,Katu,Pacifies kapha and vata,
+Asthiśṛṅgā,Asthiśṛṅgā,image.jpeg,Cissus quadrangularis L.,Vitaceae,முப்பிரண்டை,Changalamparanda,Hadjod / Hadjora,Veldt grape / Adamant creeper / Bone setter,"Muppirandai (Cissus quadrangularis) is a perennial, fleshy, quadrangular-stemmed climber with tendrils. The plant is thick, succulent, with winged internodes and small leaves. It bears small greenish-white to yellow flowers and red to purple berries. Known as the ""Bone healer"", it is traditionally used for healing fractures, improving digestion, and treating piles.",Stem,"1. Accelerates bone healing in fractures.
+2. Improves bone strength and density.
+3. Useful in osteoporosis and arthritis.
+4. Reduces swelling and inflammation.
+5. Aids digestion, relieves indigestion and gastritis.
+6. Beneficial in hemorrhoids (piles).
+7. Helps in treating worm infestations.","Anti-osteoporotic, bone-healing, anti-inflammatory, analgesic, anti-ulcer, carminative, anti-hemorrhoidal, anti-helminthic.
+","Kasaya, Tikta","Laghu, Snigdha",Usna,Katu,"Pacifies Vāta and Kapha, balances Pitta moderately.",
+Kramuka,Kramuka,betel-nut.jpg,Areca catechu,Arecaceae,பாக்கு,Adakka,Supari,Betel nut,"A betel nut is the seed-like fruit of the areca palm (Areca catechu) and is widely consumed in a betel quid, though it is crucial not to confuse it with the betel leaf (Piper betle) used to wrap it. The chewing of betel quids, which often include other substances with the areca nut and betel leaf, is popular across Asia and the Pacific and can be associated with serious health consequences. ","Seed, tender nuts","Betel nuts are primarily known for providing a natural energy boost, acting as a digestive aid by stimulating saliva and digestion, and serving as a mouth freshener. They also contain antioxidants, may exhibit anti-inflammatory and antimicrobial properties, and have been traditionally used to help manage blood glucose and possibly protect the nervous system. However, it's crucial to be aware that betel nut consumption has significant health risks, including increased risk of oral cancer. ","Digestive, carminative, hemostatic, mild CNS stimulant","Kasaya, katu, tikta","Ruksha, laghu",Usna,Katu,"Pacifies kapha, increases vata and pitta if overused",
+Bṛhat Gokṣura,Bṛhat Gokṣura,Pedalium_murex_L.jpg,Pedalium murex L.,Pedaliaceae,பெரு நெருஞ்சில்,Peru Nerinjil,Bara Gokhru,Large Caltrops / Pedalium / Big Gokhru,"Bṛhat Gokṣura (Pedalium murex) is an annual, spreading herb with fleshy, 4–5 cm long leaves and yellow flowers. Its fruits are oblong, 1–2 cm, covered with spines, and are mucilaginous when soaked in water. It is different from Laghu Gokṣura (Tribulus terrestris), though both are used in urinary and reproductive disorders. Bṛhat Gokṣura is demulcent, cooling, and diuretic in action, commonly used in Ayurveda and Siddha medicine.
+",Fruits,"1. Acts as a natural diuretic, relieves dysuria and urinary retention.
+2. Useful in urinary calculi (aśmarī).
+3. Relieves burning micturition.
+4. Beneficial in gonorrhea and urinary infections.
+5. Soothes inflammation of urinary passages.
+6. Reduces excessive thirst and burning sensation.
+","Diuretic, demulcent, anti-inflammatory, lithotriptic, cooling, aphrodisiac, urinary antiseptic, pitta-pacifying.
+","Madhura, tikta","Laghu, snigdha, picchila",Sita,Madhura,"Pacifies Pitta and Vāta, balances Kapha moderately.",
+Marjarī,Marjarī,images.jpeg,Orthosiphon aristatus,Lamiaceae,பூனை மீசை,Kakkithumbapoo,Javamadhuri,Cat’s Whiskers / Java Tea,"Poonai Meesai (Orthosiphon aristatus) is a perennial herb, native to Southeast Asia, with white to pale lavender flowers that have long protruding stamens resembling a cat’s whiskers, hence the name. The plant is highly valued in traditional medicine, especially in Siddha and folk systems, for urinary and kidney disorders. Its leaves are aromatic, used as herbal tea (“Java tea”) and have a diuretic and detoxifying effect.","Leaves, Aerial parts","1. Strong diuretic – promotes urine flow.
+2. Useful in urinary tract infections.
+3. Helps in dissolving and expelling kidney stones.
+4. Reduces edema and water retention.
+5. Detoxifies the kidneys and liver.
+6. Reduces high blood pressure (due to diuretic effect).
+7. Helps in gout and uric acid-related disorders.
+
+","Diuretic, lithotriptic, anti-inflammatory, antihypertensive, hepatoprotective, antioxidant, antidiabetic, antimicrobial.","Tikta, kasaya","Laghu, ruksa",Sita,Katu,"Pacifies Pitta and Kapha, may increase Vāta if overused.",
+Naagalinga,Naagalinga,nagalingam-tree.jpg,Couroupita guianensis,Lecythidaceae,நாகலிங்கம்,Naagalingamaram,Shiv kamal,Cannonball tree,"The Nagalinga tree, also known as the Cannonball tree (Couroupita guianensis), is a tropical tree native to Central and South America, recognized for its striking, ball-like fruits and uniquely shaped, brightly colored flowers that resemble a hooded cobra sheltering a Shiva Lingam. The tree grows up to 35 meters tall and is revered in Hindu tradition, often planted in temple courtyards, while its large, cannonball-like fruits are a source of nutrients and a means of seed dispersal.  ","Flower, leaf, fruit, bark","The nagalinga (cannonball) tree, known as Couroupita guianensis, offers several benefits, including religious significance as a holy tree in Hinduism and Buddhism and in Ayurveda for medicinal properties like antibiotic, antiseptic, and analgesic qualities to treat ailments such as malaria, skin diseases, and toothache. Culturally, its hard fruit shells are used for containers, the flowers for perfumes, and the soft, light-colored wood for furniture.  ","Antimicrobial, anti inflammatory, analgesic, hypotensive, antioxidant","Tikta, kashaya","Laghu, ruksha",Sheeta,Katu,Pacifies pitta and kapha,

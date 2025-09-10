@@ -5,6 +5,7 @@ import requests
 from io import BytesIO
 from docx import Document
 from docx.shared import Inches
+from PIL import Image
 
 
 def get_unique_folder(base_folder):
@@ -39,30 +40,17 @@ def get_unique_filename(folder, filename):
     return unique_name
 
 
-def fetch_drive_image(url):
+def fetch_image(filename, image_folder="images"):
     """
-    Download an image from a Google Drive share link.
-    Supports both .../d/<FILE_ID>/... and ?id=<FILE_ID> URL formats.
-    Returns BytesIO object with image data or None if download fails.
+    Fetch an image from a local folder by filename.
+    Returns the file path of image, or None if not found.
     """
-    file_id = None
-    if "id=" in url:
-        file_id = url.split("id=")[1]
-    elif "/d/" in url:
-        file_id = url.split("/d/")[1].split("/")[0]
-    if not file_id:
+    filepath = os.path.join(image_folder, filename)
+    if os.path.exists(filepath) and os.path.isfile(filepath):
+        return filepath
+    else:
+        print(f"⚠️ Image not found: {filepath}")
         return None
-
-    direct_url = f"https://drive.google.com/uc?export=download&id={file_id}"
-    response = requests.get(direct_url)
-    if response.status_code == 200:
-        content_type = response.headers.get("Content-Type", "")
-        if "image" in content_type:
-            return BytesIO(response.content)
-        else:
-            print(f"⚠️ Not an image: {url} (got {content_type})")
-            return None
-    return None
 
 
 def replace_placeholders_in_table(doc, row_data):
@@ -77,15 +65,26 @@ def replace_placeholders_in_table(doc, row_data):
         for row in table.rows:
             for cell in row.cells:
                 for col, value in row_data.items():
-                    placeholder = f"{{{col}}}"  # Placeholder format e.g. {name}
+                    placeholder = f"{{{{{col}}}}}"  # Placeholder format e.g. {{name}}
                     if placeholder in cell.text:
                         if col.lower() == "image":
                             # Replace with image from Drive
-                            img_data = fetch_drive_image(str(value).strip())
+                            img_path = fetch_image(str(value).strip())
                             cell.text = ""  # Clear placeholder text
-                            if img_data:
-                                run = cell.paragraphs[0].add_run()
-                                run.add_picture(img_data, width=Inches(1.5))
+                            if img_path:
+                                valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff")
+                                if img_path.lower().endswith(valid_exts):
+                                    try:
+                                        with Image.open(img_path) as im:
+                                            im.verify()
+                                        run = cell.paragraphs[0].add_run()
+                                        run.add_picture(img_path, width=Inches(1.5))
+                                    except Exception as e:
+                                        print(f"❌ Invalid image file skipped: {img_path} ({e})")
+                                        cell.text = "[Invalid image file]"
+                                else:
+                                    print(f"❌ Skipping unsupported image format: {img_path}")
+                                    cell.text = "[Unsupported image format]"
                             else:
                                 cell.text = "[Image fetch failed]"
                         else:
@@ -133,15 +132,26 @@ def replace_placeholders_in_paragraphs(doc, row_data):
     """
     for para in doc.paragraphs:
         for col, value in row_data.items():
-            placeholder = f"{{{col}}}"
+            placeholder = f"{{{{{col}}}}}"
             if placeholder in para.text:
                 if col.lower() == "image":
                     # Insert image inline instead of text
-                    img_data = fetch_drive_image(str(value).strip())
+                    img_path = fetch_image(str(value).strip())
                     para.clear()  # Clear existing text
-                    if img_data:
-                        run = para.add_run()
-                        run.add_picture(img_data, width=Inches(1.5))
+                    if img_path:
+                        valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff")
+                        if img_path.lower().endswith(valid_exts):
+                            try:
+                                with Image.open(img_path) as im:
+                                    im.verify()
+                                run = para.add_run()
+                                run.add_picture(img_path, width=Inches(1.5))
+                            except Exception as e:
+                                print(f"❌ Invalid image file skipped: {img_path} ({e})")
+                                para.add_run("[Invalid image file]")
+                        else:
+                            print(f"❌ Skipping unsupported image format: {img_path}")
+                            para.add_run("[Unsupported image format]")
                     else:
                         para.add_run("[Image fetch failed]")
                 else:
