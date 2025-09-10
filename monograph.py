@@ -6,6 +6,7 @@ from io import BytesIO
 from docx import Document
 from docx.shared import Inches
 from PIL import Image
+from io import BytesIO
 
 
 def get_unique_folder(base_folder):
@@ -72,16 +73,29 @@ def replace_placeholders_in_table(doc, row_data):
                             img_path = fetch_image(str(value).strip())
                             cell.text = ""  # Clear placeholder text
                             if img_path:
-                                valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff")
+                                valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff", ".webp")
                                 if img_path.lower().endswith(valid_exts):
                                     try:
+                                        print(f"👉 Checking image: {img_path}")
                                         with Image.open(img_path) as im:
                                             im.verify()
+                                        with Image.open(img_path) as im:
+                                            buf = BytesIO()
+                                            if img_path.lower().endswith(".webp"):
+                                                print(f"🔄 Converting unsupported format to JPEG: {img_path}")
+                                                rgb_im = im.convert("RGB")
+                                                rgb_im.save(buf, format="JPEG")
+                                            else:
+                                                im.save(buf, format=im.format)
+                                            buf.seek(0)
                                         run = cell.paragraphs[0].add_run()
-                                        run.add_picture(img_path, width=Inches(1.5))
+                                        run.add_picture(buf, width=Inches(1.5))
                                     except Exception as e:
-                                        print(f"❌ Invalid image file skipped: {img_path} ({e})")
+                                        print(f"❌ Invalid image file skipped: {img_path}")
+                                        import traceback
+                                        traceback.print_exc()
                                         cell.text = "[Invalid image file]"
+                                        continue
                                 else:
                                     print(f"❌ Skipping unsupported image format: {img_path}")
                                     cell.text = "[Unsupported image format]"
@@ -139,16 +153,29 @@ def replace_placeholders_in_paragraphs(doc, row_data):
                     img_path = fetch_image(str(value).strip())
                     para.clear()  # Clear existing text
                     if img_path:
-                        valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff")
+                        valid_exts = (".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tif", ".tiff", ".webp")
                         if img_path.lower().endswith(valid_exts):
                             try:
+                                print(f"👉 Checking image: {img_path}")
                                 with Image.open(img_path) as im:
                                     im.verify()
+                                with Image.open(img_path) as im:
+                                    buf = BytesIO()
+                                    if img_path.lower().endswith(".webp"):
+                                        print(f"🔄 Converting unsupported format to JPEG: {img_path}")
+                                        rgb_im = im.convert("RGB")
+                                        rgb_im.save(buf, format="JPEG")
+                                    else:
+                                        im.save(buf, format=im.format)
+                                    buf.seek(0)
                                 run = para.add_run()
-                                run.add_picture(img_path, width=Inches(1.5))
+                                run.add_picture(buf, width=Inches(1.5))
                             except Exception as e:
-                                print(f"❌ Invalid image file skipped: {img_path} ({e})")
+                                print(f"❌ Invalid image file skipped: {img_path}")
+                                import traceback
+                                traceback.print_exc()
                                 para.add_run("[Invalid image file]")
+                                continue
                         else:
                             print(f"❌ Skipping unsupported image format: {img_path}")
                             para.add_run("[Unsupported image format]")
